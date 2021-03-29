@@ -74,305 +74,267 @@
         </g>
       </g>
     </g>
-    <g id="file1" transform="translate(747 304.742)">
-      <g transform="matrix(1, 0, 0, 1, -747, -304.74)" filter="url(#folder)">
-        <g id="folder-7" data-name="folder" transform="translate(747 304.74)" fill="#fff" stroke-linejoin="round">
-          <path d="M 445 309.3972473144531 L 20 309.3972473144531 C 16.94137573242188 309.3972473144531 13.96993732452393 308.8681945800781 11.16812515258789 307.8247985839844 C 8.441875457763672 306.8095703125 5.988249778747559 305.3515625 3.875437498092651 303.4913024902344 C 1.73493754863739 301.6067504882813 0.05006249994039536 299.403076171875 -1.132437467575073 296.9414978027344 C -2.371687412261963 294.3619384765625 -3 291.6187438964844 -3 288.7881774902344 L -3 17.60906028747559 C -3 14.77849864959717 -2.371687412261963 12.03537368774414 -1.132437467575073 9.455748558044434 C 0.05006249994039536 6.994185924530029 1.73493754863739 4.790498733520508 3.875437498092651 2.905936241149902 C 5.988249778747559 1.04568612575531 8.441875457763672 -0.412313848733902 11.16812515258789 -1.427563786506653 C 13.96993732452393 -2.470938920974731 16.94137573242188 -3.000001430511475 20 -3.000001430511475 L 222.0413818359375 -3.000001430511475 L 223.3206176757813 -3.000001430511475 L 224.2062530517578 -2.076813936233521 L 261.5113830566406 36.80987548828125 L 261.6940612792969 37.00024795532227 L 261.8146667480469 37.18112945556641 C 262.0772399902344 37.54854202270508 262.8227844238281 38.38850402832031 263.5085754394531 38.70899963378906 C 263.976318359375 38.9276237487793 264.7446899414063 39.05812454223633 265.5641174316406 39.05812454223633 C 265.7251586914063 39.05812454223633 265.8340759277344 39.05256652832031 265.865478515625 39.05075073242188 L 265.9964904785156 39.03874969482422 L 266.10107421875 39.04187393188477 L 445.0036926269531 39.26168441772461 C 448.0586242675781 39.26168441772461 451.0300598144531 39.79074859619141 453.8318786621094 40.83412551879883 C 456.5581359863281 41.84937286376953 459.0117492675781 43.307373046875 461.1245727539063 45.16762542724609 C 463.2650756835938 47.05218505859375 464.949951171875 49.25587463378906 466.1324462890625 51.71743774414063 C 467.3716735839844 54.2969970703125 468 57.04018783569336 468 59.87075042724609 L 468 288.7881774902344 C 468 291.6187438964844 467.3716735839844 294.3619384765625 466.1324462890625 296.9414978027344 C 464.949951171875 299.403076171875 463.2650756835938 301.6067504882813 461.1245727539063 303.4913024902344 C 459.0117492675781 305.3515625 456.5581359863281 306.8095703125 453.8318786621094 307.8247985839844 C 451.0300598144531 308.8681945800781 448.0586242675781 309.3972473144531 445 309.3972473144531 Z" stroke="none"/>
-          <path d="M 20 0 C 8.954315185546875 0 0 7.883819580078125 0 17.60906982421875 L 0 288.7881774902344 C 0 298.5133666992188 8.954315185546875 306.3972473144531 20 306.3972473144531 L 445 306.3972473144531 C 456.0456848144531 306.3972473144531 465 298.5133666992188 465 288.7881774902344 L 465 59.87074279785156 C 465 50.14556884765625 456.0456848144531 42.26168823242188 445 42.26168823242188 L 266.0973815917969 42.0418701171875 C 266.0973815917969 42.0418701171875 265.8943481445313 42.05813598632813 265.5640869140625 42.05813598632813 C 264.8145141601563 42.05813598632813 263.4097900390625 41.974365234375 262.2382507324219 41.42681884765625 C 260.5505676269531 40.63800048828125 259.3464965820313 38.88668823242188 259.3464965820313 38.88668823242188 L 222.0413818359375 0 L 20 0 M 20 -6 L 222.0413818359375 -6 C 223.6758728027344 -6 225.2396240234375 -5.33319091796875 226.3711242675781 -4.1536865234375 L 263.67626953125 34.73300170898438 L 264.844482421875 36.02529907226563 C 264.873779296875 36.02294921875 264.9284973144531 36.02200317382813 264.9993591308594 36.02200317382813 C 265.3199157714844 36.02200317382813 265.9718627929688 36.04171752929688 266.104736328125 36.0418701171875 L 445.0073852539063 36.26168823242188 C 459.33642578125 36.26168823242188 471 46.85269165039063 471 59.87074279785156 L 471 288.7881774902344 C 471 301.8062438964844 459.33642578125 312.3972473144531 445 312.3972473144531 L 20 312.3972473144531 C 5.66357421875 312.3972473144531 -6 301.8062438964844 -6 288.7881774902344 L -6 17.60906982421875 C -6 4.59100341796875 5.66357421875 -6 20 -6 Z" stroke="none" fill="#adbdf8"/>
-        </g>
-      </g>
-      <g id="desc6" transform="translate(20.2 214.83)">
-        <rect id="Rectangle_151" data-name="Rectangle 151" width="380" height="19.37" rx="4" fill="#e7ebfb"/>
-        <text id="Hypertension" transform="translate(5 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Hypertension</tspan></text>
-        <g id="Icon_ionic-ios-checkbox-outline" data-name="Icon ionic-ios-checkbox-outline" transform="translate(391.6)">
-          <path id="Path_278" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
-        </g>
-        <text id="_10_1971" data-name="10/1971" transform="translate(200 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">10/1971</tspan></text>
-        <text id="Resolved" transform="translate(314 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Resolved</tspan></text>
-      </g>
-      <g id="desc5" transform="translate(20.2 186.656)">
-        <rect id="Rectangle_151-2" data-name="Rectangle 151" width="380" height="19.37" rx="4" transform="translate(0 0)" fill="#e7ebfb"/>
-        <text id="Cerebrovascular_Accident" data-name="Cerebrovascular Accident" transform="translate(5 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Cerebrovascular Accident</tspan></text>
-        <g id="Icon_ionic-ios-checkbox-outline-2" data-name="Icon ionic-ios-checkbox-outline" transform="translate(391.6 0)">
-          <path id="Path_278-2" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
-        </g>
-        <text id="_11_1976" data-name="11/1976" transform="translate(200 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">11/1976</tspan></text>
-        <text id="Resolved-2" data-name="Resolved" transform="translate(314 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Resolved</tspan></text>
-      </g>
-      <g id="desc4" transform="translate(20.2 158.481)">
-        <rect id="Rectangle_151-3" data-name="Rectangle 151" width="380" height="19.37" rx="4" transform="translate(0 0)" fill="#e7ebfb"/>
-        <text id="Pneumonia" transform="translate(5 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Pneumonia</tspan></text>
-        <g id="Icon_ionic-ios-checkbox-outline-3" data-name="Icon ionic-ios-checkbox-outline" transform="translate(391.6 0)">
-          <path id="Path_278-3" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
-        </g>
-        <text id="_01_1996" data-name="01/1996" transform="translate(200 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">01/1996</tspan></text>
-        <text id="Resolved-3" data-name="Resolved" transform="translate(314 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Resolved</tspan></text>
-      </g>
-      <g id="desc3" transform="translate(20.2 130.307)">
-        <rect id="Rectangle_151-4" data-name="Rectangle 151" width="380" height="19.37" rx="4" fill="#e7ebfb"/>
-        <text id="Cesarian_section" data-name="Cesarian section" transform="translate(5 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Cesarian section</tspan></text>
-        <g id="Icon_ionic-ios-checkbox-outline-4" data-name="Icon ionic-ios-checkbox-outline" transform="translate(391.6)">
-          <path id="Path_278-4" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
-        </g>
-        <text id="_08_1997" data-name="08/1997" transform="translate(200 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">08/1997</tspan></text>
-        <text id="Resolved-4" data-name="Resolved" transform="translate(314 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Resolved</tspan></text>
-      </g>
-      <g id="desc2" transform="translate(20.2 102.132)">
-        <rect id="Rectangle_151-5" data-name="Rectangle 151" width="380" height="19.37" rx="4" fill="#e7ebfb"/>
-        <text id="Cellulitis" transform="translate(5 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Cellulitis</tspan></text>
-        <g id="Icon_ionic-ios-checkbox-outline-5" data-name="Icon ionic-ios-checkbox-outline" transform="translate(391.6)">
-          <path id="Path_278-5" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
-        </g>
-        <text id="_07_2001" data-name="07/2001" transform="translate(200 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">07/2001</tspan></text>
-        <text id="Resolved-5" data-name="Resolved" transform="translate(314 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Resolved</tspan></text>
-      </g>
-      <g id="desc1" transform="translate(20.2 73.958)">
-        <rect id="Rectangle_151-6" data-name="Rectangle 151" width="380" height="19.37" rx="4" fill="#e7ebfb"/>
-        <text id="Diabetes" transform="translate(5 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Diabetes</tspan></text>
-        <g id="Icon_ionic-ios-checkbox-outline-6" data-name="Icon ionic-ios-checkbox-outline" transform="translate(391.6)">
-          <path id="Path_278-6" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
-        </g>
-        <text id="_09_2004" data-name="09/2004" transform="translate(200 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">09/2004</tspan></text>
-        <text id="Ongoing" transform="translate(314 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Ongoing</tspan></text>
-      </g>
-      <g id="title" transform="translate(22 11.473)">
-        <text id="Diagnosis" transform="translate(0 15.473)" fill="#476aea" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Diagnosis</tspan></text>
-        <g id="Icon_ionic-ios-checkbox-outline-7" data-name="Icon ionic-ios-checkbox-outline" transform="translate(168.6 0)">
-          <path id="Path_278-7" data-name="Path 278" d="M30.109,4.5H6.828A2.2,2.2,0,0,0,4.5,6.55v20.5A2.2,2.2,0,0,0,6.828,29.1H30.109a2.2,2.2,0,0,0,2.328-2.05V6.55A2.2,2.2,0,0,0,30.109,4.5ZM30.4,26.792a.552.552,0,0,1-.582.512H7.119a.552.552,0,0,1-.582-.512V6.806a.552.552,0,0,1,.582-.512h22.7a.552.552,0,0,1,.582.512Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
-        </g>
-        <path id="Path_280" data-name="Path 280" d="M0,0H16.737" transform="translate(174.2 12.299)" fill="#476aea" stroke="#476aea" stroke-linecap="round" stroke-width="3"/>
-      </g>
-      <g id="details" transform="translate(27 54.361)">
-        <text id="Status" transform="translate(310 7)" fill="#476aea" font-size="8" font-family="ArialMT, Arial"><tspan x="0" y="0">Status</tspan></text>
-        <text id="Date" transform="translate(200 7)" fill="#476aea" font-size="8" font-family="ArialMT, Arial"><tspan x="0" y="0">Date</tspan></text>
-        <text id="Medical_Condition" data-name="Medical Condition" transform="translate(0 7)" fill="#476aea" font-size="8" font-family="ArialMT, Arial"><tspan x="0" y="0">Medical Condition</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#folder)">
+      <g id="folder-7" data-name="folder" transform="translate(747 304.74)" fill="#fff" stroke-linejoin="round">
+        <path d="M 445 309.3972473144531 L 20 309.3972473144531 C 16.94137573242188 309.3972473144531 13.96993732452393 308.8681945800781 11.16812515258789 307.8247985839844 C 8.441875457763672 306.8095703125 5.988249778747559 305.3515625 3.875437498092651 303.4913024902344 C 1.73493754863739 301.6067504882813 0.05006249994039536 299.403076171875 -1.132437467575073 296.9414978027344 C -2.371687412261963 294.3619384765625 -3 291.6187438964844 -3 288.7881774902344 L -3 17.60906028747559 C -3 14.77849864959717 -2.371687412261963 12.03537368774414 -1.132437467575073 9.455748558044434 C 0.05006249994039536 6.994185924530029 1.73493754863739 4.790498733520508 3.875437498092651 2.905936241149902 C 5.988249778747559 1.04568612575531 8.441875457763672 -0.412313848733902 11.16812515258789 -1.427563786506653 C 13.96993732452393 -2.470938920974731 16.94137573242188 -3.000001430511475 20 -3.000001430511475 L 222.0413818359375 -3.000001430511475 L 223.3206176757813 -3.000001430511475 L 224.2062530517578 -2.076813936233521 L 261.5113830566406 36.80987548828125 L 261.6940612792969 37.00024795532227 L 261.8146667480469 37.18112945556641 C 262.0772399902344 37.54854202270508 262.8227844238281 38.38850402832031 263.5085754394531 38.70899963378906 C 263.976318359375 38.9276237487793 264.7446899414063 39.05812454223633 265.5641174316406 39.05812454223633 C 265.7251586914063 39.05812454223633 265.8340759277344 39.05256652832031 265.865478515625 39.05075073242188 L 265.9964904785156 39.03874969482422 L 266.10107421875 39.04187393188477 L 445.0036926269531 39.26168441772461 C 448.0586242675781 39.26168441772461 451.0300598144531 39.79074859619141 453.8318786621094 40.83412551879883 C 456.5581359863281 41.84937286376953 459.0117492675781 43.307373046875 461.1245727539063 45.16762542724609 C 463.2650756835938 47.05218505859375 464.949951171875 49.25587463378906 466.1324462890625 51.71743774414063 C 467.3716735839844 54.2969970703125 468 57.04018783569336 468 59.87075042724609 L 468 288.7881774902344 C 468 291.6187438964844 467.3716735839844 294.3619384765625 466.1324462890625 296.9414978027344 C 464.949951171875 299.403076171875 463.2650756835938 301.6067504882813 461.1245727539063 303.4913024902344 C 459.0117492675781 305.3515625 456.5581359863281 306.8095703125 453.8318786621094 307.8247985839844 C 451.0300598144531 308.8681945800781 448.0586242675781 309.3972473144531 445 309.3972473144531 Z" stroke="none"/>
+        <path d="M 20 0 C 8.954315185546875 0 0 7.883819580078125 0 17.60906982421875 L 0 288.7881774902344 C 0 298.5133666992188 8.954315185546875 306.3972473144531 20 306.3972473144531 L 445 306.3972473144531 C 456.0456848144531 306.3972473144531 465 298.5133666992188 465 288.7881774902344 L 465 59.87074279785156 C 465 50.14556884765625 456.0456848144531 42.26168823242188 445 42.26168823242188 L 266.0973815917969 42.0418701171875 C 266.0973815917969 42.0418701171875 265.8943481445313 42.05813598632813 265.5640869140625 42.05813598632813 C 264.8145141601563 42.05813598632813 263.4097900390625 41.974365234375 262.2382507324219 41.42681884765625 C 260.5505676269531 40.63800048828125 259.3464965820313 38.88668823242188 259.3464965820313 38.88668823242188 L 222.0413818359375 0 L 20 0 M 20 -6 L 222.0413818359375 -6 C 223.6758728027344 -6 225.2396240234375 -5.33319091796875 226.3711242675781 -4.1536865234375 L 263.67626953125 34.73300170898438 L 264.844482421875 36.02529907226563 C 264.873779296875 36.02294921875 264.9284973144531 36.02200317382813 264.9993591308594 36.02200317382813 C 265.3199157714844 36.02200317382813 265.9718627929688 36.04171752929688 266.104736328125 36.0418701171875 L 445.0073852539063 36.26168823242188 C 459.33642578125 36.26168823242188 471 46.85269165039063 471 59.87074279785156 L 471 288.7881774902344 C 471 301.8062438964844 459.33642578125 312.3972473144531 445 312.3972473144531 L 20 312.3972473144531 C 5.66357421875 312.3972473144531 -6 301.8062438964844 -6 288.7881774902344 L -6 17.60906982421875 C -6 4.59100341796875 5.66357421875 -6 20 -6 Z" stroke="none" fill="#adbdf8"/>
       </g>
     </g>
-    <g id="file1-2" data-name="file1" transform="translate(1249 304.742)">
-      <g transform="matrix(1, 0, 0, 1, -1249, -304.74)" filter="url(#folder-2)">
-        <g id="folder-8" data-name="folder" transform="translate(1249 304.74)" fill="#fff" stroke-linejoin="round">
-          <path d="M 445 309.3972473144531 L 20 309.3972473144531 C 16.94137573242188 309.3972473144531 13.96993732452393 308.8681945800781 11.16812515258789 307.8247985839844 C 8.441875457763672 306.8095703125 5.988249778747559 305.3515625 3.875437498092651 303.4913024902344 C 1.73493754863739 301.6067504882813 0.05006249994039536 299.403076171875 -1.132437467575073 296.9414978027344 C -2.371687412261963 294.3619384765625 -3 291.6187438964844 -3 288.7881774902344 L -3 17.60906028747559 C -3 14.77849864959717 -2.371687412261963 12.03537368774414 -1.132437467575073 9.455748558044434 C 0.05006249994039536 6.994185924530029 1.73493754863739 4.790498733520508 3.875437498092651 2.905936241149902 C 5.988249778747559 1.04568612575531 8.441875457763672 -0.412313848733902 11.16812515258789 -1.427563786506653 C 13.96993732452393 -2.470938920974731 16.94137573242188 -3.000001430511475 20 -3.000001430511475 L 222.0413818359375 -3.000001430511475 L 223.3206176757813 -3.000001430511475 L 224.2062530517578 -2.076813936233521 L 261.5113830566406 36.80987548828125 L 261.6940612792969 37.00024795532227 L 261.8146667480469 37.18112945556641 C 262.0772399902344 37.54854202270508 262.8227844238281 38.38850402832031 263.5085754394531 38.70899963378906 C 263.976318359375 38.9276237487793 264.7446899414063 39.05812454223633 265.5641174316406 39.05812454223633 C 265.7251586914063 39.05812454223633 265.8340759277344 39.05256652832031 265.865478515625 39.05075073242188 L 265.9964904785156 39.03874969482422 L 266.10107421875 39.04187393188477 L 445.0036926269531 39.26168441772461 C 448.0586242675781 39.26168441772461 451.0300598144531 39.79074859619141 453.8318786621094 40.83412551879883 C 456.5581359863281 41.84937286376953 459.0117492675781 43.307373046875 461.1245727539063 45.16762542724609 C 463.2650756835938 47.05218505859375 464.949951171875 49.25587463378906 466.1324462890625 51.71743774414063 C 467.3716735839844 54.2969970703125 468 57.04018783569336 468 59.87075042724609 L 468 288.7881774902344 C 468 291.6187438964844 467.3716735839844 294.3619384765625 466.1324462890625 296.9414978027344 C 464.949951171875 299.403076171875 463.2650756835938 301.6067504882813 461.1245727539063 303.4913024902344 C 459.0117492675781 305.3515625 456.5581359863281 306.8095703125 453.8318786621094 307.8247985839844 C 451.0300598144531 308.8681945800781 448.0586242675781 309.3972473144531 445 309.3972473144531 Z" stroke="none"/>
-          <path d="M 20 0 C 8.954315185546875 0 0 7.883819580078125 0 17.60906982421875 L 0 288.7881774902344 C 0 298.5133666992188 8.954315185546875 306.3972473144531 20 306.3972473144531 L 445 306.3972473144531 C 456.0456848144531 306.3972473144531 465 298.5133666992188 465 288.7881774902344 L 465 59.87074279785156 C 465 50.14556884765625 456.0456848144531 42.26168823242188 445 42.26168823242188 L 266.0973815917969 42.0418701171875 C 266.0973815917969 42.0418701171875 265.8943481445313 42.05813598632813 265.5640869140625 42.05813598632813 C 264.8145141601563 42.05813598632813 263.4097900390625 41.974365234375 262.2382507324219 41.42681884765625 C 260.5505676269531 40.63800048828125 259.3464965820313 38.88668823242188 259.3464965820313 38.88668823242188 L 222.0413818359375 0 L 20 0 M 20 -6 L 222.0413818359375 -6 C 223.6758728027344 -6 225.2396240234375 -5.33319091796875 226.3711242675781 -4.1536865234375 L 263.67626953125 34.73300170898438 L 264.844482421875 36.02529907226563 C 264.873779296875 36.02294921875 264.9284973144531 36.02200317382813 264.9993591308594 36.02200317382813 C 265.3199157714844 36.02200317382813 265.9718627929688 36.04171752929688 266.104736328125 36.0418701171875 L 445.0073852539063 36.26168823242188 C 459.33642578125 36.26168823242188 471 46.85269165039063 471 59.87074279785156 L 471 288.7881774902344 C 471 301.8062438964844 459.33642578125 312.3972473144531 445 312.3972473144531 L 20 312.3972473144531 C 5.66357421875 312.3972473144531 -6 301.8062438964844 -6 288.7881774902344 L -6 17.60906982421875 C -6 4.59100341796875 5.66357421875 -6 20 -6 Z" stroke="none" fill="#adbdf8"/>
-        </g>
-      </g>
-      <g id="desc6-2" data-name="desc6" transform="translate(20.2 214.83)">
-        <rect id="Rectangle_151-7" data-name="Rectangle 151" width="380" height="19.37" rx="4" fill="#e7ebfb"/>
-        <text id="Mumps" transform="translate(5 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Mumps</tspan></text>
-        <g id="Icon_ionic-ios-checkbox-outline-8" data-name="Icon ionic-ios-checkbox-outline" transform="translate(391.6)">
-          <path id="Path_278-8" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
-        </g>
-        <text id="_10_1971-2" data-name="10/1971" transform="translate(200 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">10/1971</tspan></text>
-      </g>
-      <g id="desc5-2" data-name="desc5" transform="translate(20.2 186.656)">
-        <path id="Path_294" data-name="Path 294" d="M4,0H376a3.784,3.784,0,0,1,4,3.522V15.848a3.784,3.784,0,0,1-4,3.522H4a3.784,3.784,0,0,1-4-3.522V3.522A3.784,3.784,0,0,1,4,0Z" transform="translate(0 0)" fill="#e7ebfb"/>
-        <text id="Measles" transform="translate(5 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Measles</tspan></text>
-        <g id="Icon_ionic-ios-checkbox-outline-9" data-name="Icon ionic-ios-checkbox-outline" transform="translate(391.6 0)">
-          <path id="Path_278-9" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
-        </g>
-        <text id="_11_1976-2" data-name="11/1976" transform="translate(200 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">11/1976</tspan></text>
-      </g>
-      <g id="desc4-2" data-name="desc4" transform="translate(20.2 158.481)">
-        <path id="Path_293" data-name="Path 293" d="M4,0H376a3.784,3.784,0,0,1,4,3.522V15.848a3.784,3.784,0,0,1-4,3.522H4a3.784,3.784,0,0,1-4-3.522V3.522A3.784,3.784,0,0,1,4,0Z" transform="translate(0 0)" fill="#e7ebfb"/>
-        <text id="Polio" transform="translate(5 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Polio</tspan></text>
-        <g id="Icon_ionic-ios-checkbox-outline-10" data-name="Icon ionic-ios-checkbox-outline" transform="translate(391.6 0)">
-          <path id="Path_278-10" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
-        </g>
-        <text id="_01_1996-2" data-name="01/1996" transform="translate(200 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">01/1996</tspan></text>
-      </g>
-      <g id="desc3-2" data-name="desc3" transform="translate(20.2 130.307)">
-        <path id="Path_292" data-name="Path 292" d="M4,0H376a3.784,3.784,0,0,1,4,3.522V15.848a3.784,3.784,0,0,1-4,3.522H4a3.784,3.784,0,0,1-4-3.522V3.522A3.784,3.784,0,0,1,4,0Z" fill="#e7ebfb"/>
-        <text id="Hepatitis_B" data-name="Hepatitis B" transform="translate(5 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Hepatitis B</tspan></text>
-        <g id="Icon_ionic-ios-checkbox-outline-11" data-name="Icon ionic-ios-checkbox-outline" transform="translate(391.6)">
-          <path id="Path_278-11" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
-        </g>
-        <text id="_08_1997-2" data-name="08/1997" transform="translate(200 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">08/1997</tspan></text>
-      </g>
-      <g id="desc2-2" data-name="desc2" transform="translate(20.2 102.132)">
-        <rect id="Rectangle_151-8" data-name="Rectangle 151" width="380" height="19.37" rx="4" fill="#e7ebfb"/>
-        <text id="Diphleria" transform="translate(5 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Diphleria</tspan></text>
-        <g id="Icon_ionic-ios-checkbox-outline-12" data-name="Icon ionic-ios-checkbox-outline" transform="translate(391.6)">
-          <path id="Path_278-12" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
-        </g>
-        <text id="_07_2001-2" data-name="07/2001" transform="translate(200 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">07/2001</tspan></text>
-      </g>
-      <g id="desc1-2" data-name="desc1" transform="translate(20.2 73.958)">
-        <rect id="Rectangle_151-9" data-name="Rectangle 151" width="380" height="19.37" rx="4" fill="#e7ebfb"/>
-        <text id="Rubella" transform="translate(5 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Rubella</tspan></text>
-        <g id="Icon_ionic-ios-checkbox-outline-13" data-name="Icon ionic-ios-checkbox-outline" transform="translate(391.6)">
-          <path id="Path_278-13" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
-        </g>
-        <text id="_09_2004-2" data-name="09/2004" transform="translate(200 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">09/2004</tspan></text>
-      </g>
-      <g id="title-2" data-name="title" transform="translate(22 11.473)">
-        <text id="Immunizations" transform="translate(0 15.473)" fill="#476aea" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Immunizations</tspan></text>
-        <g id="Icon_ionic-ios-checkbox-outline-14" data-name="Icon ionic-ios-checkbox-outline" transform="translate(168.6 0)">
-          <path id="Path_278-14" data-name="Path 278" d="M30.109,4.5H6.828A2.2,2.2,0,0,0,4.5,6.55v20.5A2.2,2.2,0,0,0,6.828,29.1H30.109a2.2,2.2,0,0,0,2.328-2.05V6.55A2.2,2.2,0,0,0,30.109,4.5ZM30.4,26.792a.552.552,0,0,1-.582.512H7.119a.552.552,0,0,1-.582-.512V6.806a.552.552,0,0,1,.582-.512h22.7a.552.552,0,0,1,.582.512Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
-        </g>
-      </g>
-      <g id="details-2" data-name="details" transform="translate(211 55.426)">
-        <text id="Recent_Date" data-name="Recent Date" transform="translate(0 7)" fill="#476aea" font-size="8" font-family="ArialMT, Arial"><tspan x="0" y="0">Recent Date</tspan></text>
-      </g>
-      <g id="details-3" data-name="details" transform="translate(20 54.361)">
-        <text id="Type" transform="translate(0 7)" fill="#476aea" font-size="8" font-family="ArialMT, Arial"><tspan x="0" y="0">Type</tspan></text>
+    <rect id="Rectangle_151" data-name="Rectangle 151" width="380" height="19.37" rx="4" transform="translate(767.2 519.573)" fill="#e7ebfb"/>
+    <text id="Hypertension" transform="translate(772.068 532.377)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Hypertension</tspan></text>
+    <g id="Icon_ionic-ios-checkbox-outline" data-name="Icon ionic-ios-checkbox-outline" transform="translate(1158.8 519.573)">
+      <path id="Path_278" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
+    </g>
+    <text id="_10_1971" data-name="10/1971" transform="translate(967.068 532.377)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">10/1971</tspan></text>
+    <text id="Resolved" transform="translate(1081.068 532.377)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Resolved</tspan></text>
+    <rect id="Rectangle_151-2" data-name="Rectangle 151" width="380" height="19.37" rx="4" transform="translate(767.2 491.398)" fill="#e7ebfb"/>
+    <text id="Cerebrovascular_Accident" data-name="Cerebrovascular Accident" transform="translate(772.068 504.202)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Cerebrovascular Accident</tspan></text>
+    <g id="Icon_ionic-ios-checkbox-outline-2" data-name="Icon ionic-ios-checkbox-outline" transform="translate(1158.8 491.398)">
+      <path id="Path_278-2" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
+    </g>
+    <text id="_11_1976" data-name="11/1976" transform="translate(967.068 504.202)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">11/1976</tspan></text>
+    <text id="Resolved-2" data-name="Resolved" transform="translate(1081.068 504.202)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Resolved</tspan></text>
+    <rect id="Rectangle_151-3" data-name="Rectangle 151" width="380" height="19.37" rx="4" transform="translate(767.2 463.224)" fill="#e7ebfb"/>
+    <text id="Pneumonia" transform="translate(772.068 476.028)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Pneumonia</tspan></text>
+    <g id="Icon_ionic-ios-checkbox-outline-3" data-name="Icon ionic-ios-checkbox-outline" transform="translate(1158.8 463.224)">
+      <path id="Path_278-3" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
+    </g>
+    <text id="_01_1996" data-name="01/1996" transform="translate(967.068 476.028)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">01/1996</tspan></text>
+    <text id="Resolved-3" data-name="Resolved" transform="translate(1081.068 476.028)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Resolved</tspan></text>
+    <rect id="Rectangle_151-4" data-name="Rectangle 151" width="380" height="19.37" rx="4" transform="translate(767.2 435.049)" fill="#e7ebfb"/>
+    <text id="Cesarian_section" data-name="Cesarian section" transform="translate(772.068 447.854)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Cesarian section</tspan></text>
+    <g id="Icon_ionic-ios-checkbox-outline-4" data-name="Icon ionic-ios-checkbox-outline" transform="translate(1158.8 435.049)">
+      <path id="Path_278-4" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
+    </g>
+    <text id="_08_1997" data-name="08/1997" transform="translate(967.068 447.854)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">08/1997</tspan></text>
+    <text id="Resolved-4" data-name="Resolved" transform="translate(1081.068 447.854)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Resolved</tspan></text>
+    <rect id="Rectangle_151-5" data-name="Rectangle 151" width="380" height="19.37" rx="4" transform="translate(767.2 406.875)" fill="#e7ebfb"/>
+    <text id="Cellulitis" transform="translate(772.068 419.679)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Cellulitis</tspan></text>
+    <g id="Icon_ionic-ios-checkbox-outline-5" data-name="Icon ionic-ios-checkbox-outline" transform="translate(1158.8 406.875)">
+      <path id="Path_278-5" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
+    </g>
+    <text id="_07_2001" data-name="07/2001" transform="translate(967.068 419.679)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">07/2001</tspan></text>
+    <text id="Resolved-5" data-name="Resolved" transform="translate(1081.068 419.679)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Resolved</tspan></text>
+    <rect id="Rectangle_151-6" data-name="Rectangle 151" width="380" height="19.37" rx="4" transform="translate(767.2 378.7)" fill="#e7ebfb"/>
+    <text id="Diabetes" transform="translate(772.068 391.505)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Diabetes</tspan></text>
+    <g id="Icon_ionic-ios-checkbox-outline-6" data-name="Icon ionic-ios-checkbox-outline" transform="translate(1158.8 378.7)">
+      <path id="Path_278-6" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
+    </g>
+    <text id="_09_2004" data-name="09/2004" transform="translate(967.068 391.505)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">09/2004</tspan></text>
+    <text id="Ongoing" transform="translate(1081.068 391.505)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Ongoing</tspan></text>
+    <text id="Diagnosis" transform="translate(769 331.688)" fill="#476aea" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Diagnosis</tspan></text>
+    <g id="Icon_ionic-ios-checkbox-outline-7" data-name="Icon ionic-ios-checkbox-outline" transform="translate(937.6 316.216)">
+      <path id="Path_278-7" data-name="Path 278" d="M30.109,4.5H6.828A2.2,2.2,0,0,0,4.5,6.55v20.5A2.2,2.2,0,0,0,6.828,29.1H30.109a2.2,2.2,0,0,0,2.328-2.05V6.55A2.2,2.2,0,0,0,30.109,4.5ZM30.4,26.792a.552.552,0,0,1-.582.512H7.119a.552.552,0,0,1-.582-.512V6.806a.552.552,0,0,1,.582-.512h22.7a.552.552,0,0,1,.582.512Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
+    </g>
+    <path id="Path_280" data-name="Path 280" d="M0,0H16.737" transform="translate(943.199 328.514)" fill="#476aea" stroke="#476aea" stroke-linecap="round" stroke-width="3"/>
+    <text id="Status" transform="translate(1084 366.104)" fill="#476aea" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Status</tspan></text>
+    <text id="Date" transform="translate(974 366.104)" fill="#476aea" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Date</tspan></text>
+    <text id="Medical_Condition" data-name="Medical Condition" transform="translate(774 366.104)" fill="#476aea" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Medical Condition</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#folder-2)">
+      <g id="folder-8" data-name="folder" transform="translate(1249 304.74)" fill="#fff" stroke-linejoin="round">
+        <path d="M 445 309.3972473144531 L 20 309.3972473144531 C 16.94137573242188 309.3972473144531 13.96993732452393 308.8681945800781 11.16812515258789 307.8247985839844 C 8.441875457763672 306.8095703125 5.988249778747559 305.3515625 3.875437498092651 303.4913024902344 C 1.73493754863739 301.6067504882813 0.05006249994039536 299.403076171875 -1.132437467575073 296.9414978027344 C -2.371687412261963 294.3619384765625 -3 291.6187438964844 -3 288.7881774902344 L -3 17.60906028747559 C -3 14.77849864959717 -2.371687412261963 12.03537368774414 -1.132437467575073 9.455748558044434 C 0.05006249994039536 6.994185924530029 1.73493754863739 4.790498733520508 3.875437498092651 2.905936241149902 C 5.988249778747559 1.04568612575531 8.441875457763672 -0.412313848733902 11.16812515258789 -1.427563786506653 C 13.96993732452393 -2.470938920974731 16.94137573242188 -3.000001430511475 20 -3.000001430511475 L 222.0413818359375 -3.000001430511475 L 223.3206176757813 -3.000001430511475 L 224.2062530517578 -2.076813936233521 L 261.5113830566406 36.80987548828125 L 261.6940612792969 37.00024795532227 L 261.8146667480469 37.18112945556641 C 262.0772399902344 37.54854202270508 262.8227844238281 38.38850402832031 263.5085754394531 38.70899963378906 C 263.976318359375 38.9276237487793 264.7446899414063 39.05812454223633 265.5641174316406 39.05812454223633 C 265.7251586914063 39.05812454223633 265.8340759277344 39.05256652832031 265.865478515625 39.05075073242188 L 265.9964904785156 39.03874969482422 L 266.10107421875 39.04187393188477 L 445.0036926269531 39.26168441772461 C 448.0586242675781 39.26168441772461 451.0300598144531 39.79074859619141 453.8318786621094 40.83412551879883 C 456.5581359863281 41.84937286376953 459.0117492675781 43.307373046875 461.1245727539063 45.16762542724609 C 463.2650756835938 47.05218505859375 464.949951171875 49.25587463378906 466.1324462890625 51.71743774414063 C 467.3716735839844 54.2969970703125 468 57.04018783569336 468 59.87075042724609 L 468 288.7881774902344 C 468 291.6187438964844 467.3716735839844 294.3619384765625 466.1324462890625 296.9414978027344 C 464.949951171875 299.403076171875 463.2650756835938 301.6067504882813 461.1245727539063 303.4913024902344 C 459.0117492675781 305.3515625 456.5581359863281 306.8095703125 453.8318786621094 307.8247985839844 C 451.0300598144531 308.8681945800781 448.0586242675781 309.3972473144531 445 309.3972473144531 Z" stroke="none"/>
+        <path d="M 20 0 C 8.954315185546875 0 0 7.883819580078125 0 17.60906982421875 L 0 288.7881774902344 C 0 298.5133666992188 8.954315185546875 306.3972473144531 20 306.3972473144531 L 445 306.3972473144531 C 456.0456848144531 306.3972473144531 465 298.5133666992188 465 288.7881774902344 L 465 59.87074279785156 C 465 50.14556884765625 456.0456848144531 42.26168823242188 445 42.26168823242188 L 266.0973815917969 42.0418701171875 C 266.0973815917969 42.0418701171875 265.8943481445313 42.05813598632813 265.5640869140625 42.05813598632813 C 264.8145141601563 42.05813598632813 263.4097900390625 41.974365234375 262.2382507324219 41.42681884765625 C 260.5505676269531 40.63800048828125 259.3464965820313 38.88668823242188 259.3464965820313 38.88668823242188 L 222.0413818359375 0 L 20 0 M 20 -6 L 222.0413818359375 -6 C 223.6758728027344 -6 225.2396240234375 -5.33319091796875 226.3711242675781 -4.1536865234375 L 263.67626953125 34.73300170898438 L 264.844482421875 36.02529907226563 C 264.873779296875 36.02294921875 264.9284973144531 36.02200317382813 264.9993591308594 36.02200317382813 C 265.3199157714844 36.02200317382813 265.9718627929688 36.04171752929688 266.104736328125 36.0418701171875 L 445.0073852539063 36.26168823242188 C 459.33642578125 36.26168823242188 471 46.85269165039063 471 59.87074279785156 L 471 288.7881774902344 C 471 301.8062438964844 459.33642578125 312.3972473144531 445 312.3972473144531 L 20 312.3972473144531 C 5.66357421875 312.3972473144531 -6 301.8062438964844 -6 288.7881774902344 L -6 17.60906982421875 C -6 4.59100341796875 5.66357421875 -6 20 -6 Z" stroke="none" fill="#adbdf8"/>
       </g>
     </g>
-    <g id="file1-3" data-name="file1" transform="translate(245 670.13)">
+    <rect id="Rectangle_151-7" data-name="Rectangle 151" width="380" height="19.37" rx="4" transform="translate(1269.2 519.573)" fill="#e7ebfb"/>
+    <text id="Mumps" transform="translate(1274.2 533.377)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Mumps</tspan></text>
+    <g id="Icon_ionic-ios-checkbox-outline-8" data-name="Icon ionic-ios-checkbox-outline" transform="translate(1660.8 519.573)">
+      <path id="Path_278-8" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
+    </g>
+    <text id="_10_1971-2" data-name="10/1971" transform="translate(1469.2 533.377)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">10/1971</tspan></text>
+    <path id="Path_294" data-name="Path 294" d="M4,0H376a3.784,3.784,0,0,1,4,3.522V15.848a3.784,3.784,0,0,1-4,3.522H4a3.784,3.784,0,0,1-4-3.522V3.522A3.784,3.784,0,0,1,4,0Z" transform="translate(1269.2 491.398)" fill="#e7ebfb"/>
+    <text id="Measles" transform="translate(1274.2 505.202)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Measles</tspan></text>
+    <g id="Icon_ionic-ios-checkbox-outline-9" data-name="Icon ionic-ios-checkbox-outline" transform="translate(1660.8 491.398)">
+      <path id="Path_278-9" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
+    </g>
+    <text id="_11_1976-2" data-name="11/1976" transform="translate(1469.2 505.202)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">11/1976</tspan></text>
+    <path id="Path_293" data-name="Path 293" d="M4,0H376a3.784,3.784,0,0,1,4,3.522V15.848a3.784,3.784,0,0,1-4,3.522H4a3.784,3.784,0,0,1-4-3.522V3.522A3.784,3.784,0,0,1,4,0Z" transform="translate(1269.2 463.224)" fill="#e7ebfb"/>
+    <text id="Polio" transform="translate(1274.2 477.028)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Polio</tspan></text>
+    <g id="Icon_ionic-ios-checkbox-outline-10" data-name="Icon ionic-ios-checkbox-outline" transform="translate(1660.8 463.224)">
+      <path id="Path_278-10" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
+    </g>
+    <text id="_01_1996-2" data-name="01/1996" transform="translate(1469.2 477.028)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">01/1996</tspan></text>
+    <path id="Path_292" data-name="Path 292" d="M4,0H376a3.784,3.784,0,0,1,4,3.522V15.848a3.784,3.784,0,0,1-4,3.522H4a3.784,3.784,0,0,1-4-3.522V3.522A3.784,3.784,0,0,1,4,0Z" transform="translate(1269.2 435.049)" fill="#e7ebfb"/>
+    <text id="Hepatitis_B" data-name="Hepatitis B" transform="translate(1274.2 448.854)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Hepatitis B</tspan></text>
+    <g id="Icon_ionic-ios-checkbox-outline-11" data-name="Icon ionic-ios-checkbox-outline" transform="translate(1660.8 435.049)">
+      <path id="Path_278-11" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
+    </g>
+    <text id="_08_1997-2" data-name="08/1997" transform="translate(1469.2 448.854)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">08/1997</tspan></text>
+    <rect id="Rectangle_151-8" data-name="Rectangle 151" width="380" height="19.37" rx="4" transform="translate(1269.2 406.875)" fill="#e7ebfb"/>
+    <text id="Diphleria" transform="translate(1274.2 420.679)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Diphleria</tspan></text>
+    <g id="Icon_ionic-ios-checkbox-outline-12" data-name="Icon ionic-ios-checkbox-outline" transform="translate(1660.8 406.875)">
+      <path id="Path_278-12" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
+    </g>
+    <text id="_07_2001-2" data-name="07/2001" transform="translate(1469.2 420.679)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">07/2001</tspan></text>
+    <rect id="Rectangle_151-9" data-name="Rectangle 151" width="380" height="19.37" rx="4" transform="translate(1269.2 378.7)" fill="#e7ebfb"/>
+    <text id="Rubella" transform="translate(1274.2 392.505)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Rubella</tspan></text>
+    <g id="Icon_ionic-ios-checkbox-outline-13" data-name="Icon ionic-ios-checkbox-outline" transform="translate(1660.8 378.7)">
+      <path id="Path_278-13" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
+    </g>
+    <text id="_09_2004-2" data-name="09/2004" transform="translate(1469.2 392.505)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">09/2004</tspan></text>
+    <text id="Immunizations" transform="translate(1271 331.688)" fill="#476aea" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Immunizations</tspan></text>
+    <g id="Icon_ionic-ios-checkbox-outline-14" data-name="Icon ionic-ios-checkbox-outline" transform="translate(1439.6 316.216)">
+      <path id="Path_278-14" data-name="Path 278" d="M30.109,4.5H6.828A2.2,2.2,0,0,0,4.5,6.55v20.5A2.2,2.2,0,0,0,6.828,29.1H30.109a2.2,2.2,0,0,0,2.328-2.05V6.55A2.2,2.2,0,0,0,30.109,4.5ZM30.4,26.792a.552.552,0,0,1-.582.512H7.119a.552.552,0,0,1-.582-.512V6.806a.552.552,0,0,1,.582-.512h22.7a.552.552,0,0,1,.582.512Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
+    </g>
+    <text id="Recent_Date" data-name="Recent Date" transform="translate(1460 367.169)" fill="#476aea" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Recent Date</tspan></text>
+    <text id="Type" transform="translate(1269 366.104)" fill="#476aea" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Type</tspan></text>
+    <g id="file1" transform="translate(245 670.13)">
       <g transform="matrix(1, 0, 0, 1, -245, -670.13)" filter="url(#folder-3)">
         <g id="folder-9" data-name="folder" transform="translate(245 670.13)" fill="#fff" stroke-linejoin="round">
           <path d="M 445 309.3972473144531 L 20 309.3972473144531 C 16.94137573242188 309.3972473144531 13.96993732452393 308.8681945800781 11.16812515258789 307.8247985839844 C 8.441875457763672 306.8095703125 5.988249778747559 305.3515625 3.875437498092651 303.4913024902344 C 1.73493754863739 301.6067504882813 0.05006249994039536 299.403076171875 -1.132437467575073 296.9414978027344 C -2.371687412261963 294.3619384765625 -3 291.6187438964844 -3 288.7881774902344 L -3 17.60906028747559 C -3 14.77849864959717 -2.371687412261963 12.03537368774414 -1.132437467575073 9.455748558044434 C 0.05006249994039536 6.994185924530029 1.73493754863739 4.790498733520508 3.875437498092651 2.905936241149902 C 5.988249778747559 1.04568612575531 8.441875457763672 -0.412313848733902 11.16812515258789 -1.427563786506653 C 13.96993732452393 -2.470938920974731 16.94137573242188 -3.000001430511475 20 -3.000001430511475 L 222.0413818359375 -3.000001430511475 L 223.3206176757813 -3.000001430511475 L 224.2062530517578 -2.076813936233521 L 261.5113830566406 36.80987548828125 L 261.6940612792969 37.00024795532227 L 261.8146667480469 37.18112945556641 C 262.0772399902344 37.54854202270508 262.8227844238281 38.38850402832031 263.5085754394531 38.70899963378906 C 263.976318359375 38.9276237487793 264.7446899414063 39.05812454223633 265.5641174316406 39.05812454223633 C 265.7251586914063 39.05812454223633 265.8340759277344 39.05256652832031 265.865478515625 39.05075073242188 L 265.9964904785156 39.03874969482422 L 266.10107421875 39.04187393188477 L 445.0036926269531 39.26168441772461 C 448.0586242675781 39.26168441772461 451.0300598144531 39.79074859619141 453.8318786621094 40.83412551879883 C 456.5581359863281 41.84937286376953 459.0117492675781 43.307373046875 461.1245727539063 45.16762542724609 C 463.2650756835938 47.05218505859375 464.949951171875 49.25587463378906 466.1324462890625 51.71743774414063 C 467.3716735839844 54.2969970703125 468 57.04018783569336 468 59.87075042724609 L 468 288.7881774902344 C 468 291.6187438964844 467.3716735839844 294.3619384765625 466.1324462890625 296.9414978027344 C 464.949951171875 299.403076171875 463.2650756835938 301.6067504882813 461.1245727539063 303.4913024902344 C 459.0117492675781 305.3515625 456.5581359863281 306.8095703125 453.8318786621094 307.8247985839844 C 451.0300598144531 308.8681945800781 448.0586242675781 309.3972473144531 445 309.3972473144531 Z" stroke="none"/>
           <path d="M 20 0 C 8.954315185546875 0 0 7.883819580078125 0 17.60906982421875 L 0 288.7881774902344 C 0 298.5133666992188 8.954315185546875 306.3972473144531 20 306.3972473144531 L 445 306.3972473144531 C 456.0456848144531 306.3972473144531 465 298.5133666992188 465 288.7881774902344 L 465 59.87074279785156 C 465 50.14556884765625 456.0456848144531 42.26168823242188 445 42.26168823242188 L 266.0973815917969 42.0418701171875 C 266.0973815917969 42.0418701171875 265.8943481445313 42.05813598632813 265.5640869140625 42.05813598632813 C 264.8145141601563 42.05813598632813 263.4097900390625 41.974365234375 262.2382507324219 41.42681884765625 C 260.5505676269531 40.63800048828125 259.3464965820313 38.88668823242188 259.3464965820313 38.88668823242188 L 222.0413818359375 0 L 20 0 M 20 -6 L 222.0413818359375 -6 C 223.6758728027344 -6 225.2396240234375 -5.33319091796875 226.3711242675781 -4.1536865234375 L 263.67626953125 34.73300170898438 L 264.844482421875 36.02529907226563 C 264.873779296875 36.02294921875 264.9284973144531 36.02200317382813 264.9993591308594 36.02200317382813 C 265.3199157714844 36.02200317382813 265.9718627929688 36.04171752929688 266.104736328125 36.0418701171875 L 445.0073852539063 36.26168823242188 C 459.33642578125 36.26168823242188 471 46.85269165039063 471 59.87074279785156 L 471 288.7881774902344 C 471 301.8062438964844 459.33642578125 312.3972473144531 445 312.3972473144531 L 20 312.3972473144531 C 5.66357421875 312.3972473144531 -6 301.8062438964844 -6 288.7881774902344 L -6 17.60906982421875 C -6 4.59100341796875 5.66357421875 -6 20 -6 Z" stroke="none" fill="#adbdf8"/>
         </g>
       </g>
-      <g id="desc5-3" data-name="desc5" transform="translate(20.2 186.656)">
+      <g id="desc5" transform="translate(20.2 186.656)">
         <rect id="Rectangle_151-10" data-name="Rectangle 151" width="380" height="19.37" rx="4" transform="translate(0 0)" fill="#e7ebfb"/>
-        <text id="Eye_Exam_Gluc" data-name="Eye Exam Gluc" transform="translate(5 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Eye Exam Gluc</tspan></text>
+        <text id="Eye_Exam_Gluc" data-name="Eye Exam Gluc" transform="translate(3.8 13.685)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Eye Exam Gluc</tspan></text>
         <g id="Icon_ionic-ios-checkbox-outline-15" data-name="Icon ionic-ios-checkbox-outline" transform="translate(391.6 0)">
           <path id="Path_278-15" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
         </g>
-        <text id="_11_1976-3" data-name="11/1976" transform="translate(200 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">11/1976</tspan></text>
-        <text id="_7.4" data-name="7.4" transform="translate(314 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">7.4</tspan></text>
+        <text id="_11_1976-3" data-name="11/1976" transform="translate(200 13.685)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">11/1976</tspan></text>
+        <text id="_7.4" data-name="7.4" transform="translate(314 13.685)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">7.4</tspan></text>
       </g>
-      <g id="desc4-3" data-name="desc4" transform="translate(20.2 158.481)">
+      <g id="desc4" transform="translate(20.2 158.481)">
         <rect id="Rectangle_151-11" data-name="Rectangle 151" width="380" height="19.37" rx="4" transform="translate(0 0)" fill="#e7ebfb"/>
-        <text id="Urine_Microa_b" data-name="Urine Microa/b" transform="translate(5 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Urine Microa/b</tspan></text>
+        <text id="Urine_Microa_b" data-name="Urine Microa/b" transform="translate(3.8 13.685)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Urine Microa/b</tspan></text>
         <g id="Icon_ionic-ios-checkbox-outline-16" data-name="Icon ionic-ios-checkbox-outline" transform="translate(391.6 0)">
           <path id="Path_278-16" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
         </g>
-        <text id="_01_1996-3" data-name="01/1996" transform="translate(200 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">01/1996</tspan></text>
-        <text id="_0.02" data-name="0.02" transform="translate(314 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">0.02</tspan></text>
+        <text id="_01_1996-3" data-name="01/1996" transform="translate(200 13.685)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">01/1996</tspan></text>
+        <text id="_0.02" data-name="0.02" transform="translate(314 13.685)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">0.02</tspan></text>
       </g>
-      <g id="desc3-3" data-name="desc3" transform="translate(20.2 130.307)">
+      <g id="desc3" transform="translate(20.2 130.307)">
         <rect id="Rectangle_151-12" data-name="Rectangle 151" width="380" height="19.37" rx="4" fill="#e7ebfb"/>
-        <text id="BP" transform="translate(5 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">BP</tspan></text>
+        <text id="BP" transform="translate(3.8 13.685)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">BP</tspan></text>
         <g id="Icon_ionic-ios-checkbox-outline-17" data-name="Icon ionic-ios-checkbox-outline" transform="translate(391.6)">
           <path id="Path_278-17" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
         </g>
-        <text id="_08_1997-3" data-name="08/1997" transform="translate(200 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">08/1997</tspan></text>
-        <text id="_135_75" data-name="135/75" transform="translate(314 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">135/75</tspan></text>
+        <text id="_08_1997-3" data-name="08/1997" transform="translate(200 13.685)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">08/1997</tspan></text>
+        <text id="_135_75" data-name="135/75" transform="translate(314 13.685)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">135/75</tspan></text>
       </g>
-      <g id="desc2-3" data-name="desc2" transform="translate(20.2 102.133)">
+      <g id="desc2" transform="translate(20.2 102.133)">
         <rect id="Rectangle_151-13" data-name="Rectangle 151" width="380" height="19.37" rx="4" fill="#e7ebfb"/>
-        <text id="LDL" transform="translate(5 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">LDL</tspan></text>
+        <text id="LDL" transform="translate(3.8 13.685)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">LDL</tspan></text>
         <g id="Icon_ionic-ios-checkbox-outline-18" data-name="Icon ionic-ios-checkbox-outline" transform="translate(391.6)">
           <path id="Path_278-18" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
         </g>
-        <text id="_07_2001-3" data-name="07/2001" transform="translate(200 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">07/2001</tspan></text>
-        <text id="_2.72" data-name="2.72" transform="translate(314 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">2.72</tspan></text>
+        <text id="_07_2001-3" data-name="07/2001" transform="translate(200 13.685)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">07/2001</tspan></text>
+        <text id="_2.72" data-name="2.72" transform="translate(314 13.685)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">2.72</tspan></text>
       </g>
-      <g id="desc1-3" data-name="desc1" transform="translate(20.2 73.958)">
+      <g id="desc1" transform="translate(20.2 73.958)">
         <rect id="Rectangle_151-14" data-name="Rectangle 151" width="380" height="19.37" rx="4" fill="#e7ebfb"/>
-        <text id="A1C" transform="translate(5 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">A1C</tspan></text>
+        <text id="A1C" transform="translate(4 13.685)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">A1C</tspan></text>
         <g id="Icon_ionic-ios-checkbox-outline-19" data-name="Icon ionic-ios-checkbox-outline" transform="translate(391.6)">
           <path id="Path_278-19" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
         </g>
-        <text id="_09_2004-3" data-name="09/2004" transform="translate(200 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">09/2004</tspan></text>
-        <text id="_0.051" data-name="0.051" transform="translate(314 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">0.051</tspan></text>
+        <text id="_09_2004-3" data-name="09/2004" transform="translate(200 13.685)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">09/2004</tspan></text>
+        <text id="_0.051" data-name="0.051" transform="translate(314 13.685)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">0.051</tspan></text>
       </g>
-      <g id="title-3" data-name="title" transform="translate(22 11.474)">
+      <g id="title" transform="translate(22 11.474)">
         <text id="Diabetic_Indices" data-name="Diabetic Indices" transform="translate(0 16.54)" fill="#476aea" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Diabetic Indices</tspan></text>
         <g id="Icon_ionic-ios-checkbox-outline-20" data-name="Icon ionic-ios-checkbox-outline" transform="translate(168.6 0)">
           <path id="Path_278-20" data-name="Path 278" d="M30.109,4.5H6.828A2.2,2.2,0,0,0,4.5,6.55v20.5A2.2,2.2,0,0,0,6.828,29.1H30.109a2.2,2.2,0,0,0,2.328-2.05V6.55A2.2,2.2,0,0,0,30.109,4.5ZM30.4,26.792a.552.552,0,0,1-.582.512H7.119a.552.552,0,0,1-.582-.512V6.806a.552.552,0,0,1,.582-.512h22.7a.552.552,0,0,1,.582.512Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
         </g>
       </g>
-      <g id="details-4" data-name="details" transform="translate(22 49.037)">
-        <text id="Value" transform="translate(315 13.392)" fill="#476aea" font-size="8" font-family="ArialMT, Arial"><tspan x="0" y="0">Value</tspan></text>
-        <text id="Date-2" data-name="Date" transform="translate(205 13.392)" fill="#476aea" font-size="8" font-family="ArialMT, Arial"><tspan x="0" y="0">Date</tspan></text>
-        <text id="Type-2" data-name="Type" transform="translate(0 7)" fill="#476aea" font-size="8" font-family="ArialMT, Arial"><tspan x="0" y="0">Type</tspan></text>
+      <g id="details" transform="translate(22 49.037)">
+        <text id="Value" transform="translate(315 13.392)" fill="#476aea" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Value</tspan></text>
+        <text id="Date-2" data-name="Date" transform="translate(205 13.392)" fill="#476aea" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Date</tspan></text>
+        <text id="Type-2" data-name="Type" transform="translate(0 7)" fill="#476aea" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Type</tspan></text>
       </g>
     </g>
-    <g id="file1-4" data-name="file1" transform="translate(747 670.13)">
+    <g id="file1-2" data-name="file1" transform="translate(747 670.13)">
       <g transform="matrix(1, 0, 0, 1, -747, -670.13)" filter="url(#folder-4)">
         <g id="folder-10" data-name="folder" transform="translate(747 670.13)" fill="#fff" stroke-linejoin="round">
           <path d="M 445 309.3972473144531 L 20 309.3972473144531 C 16.94137573242188 309.3972473144531 13.96993732452393 308.8681945800781 11.16812515258789 307.8247985839844 C 8.441875457763672 306.8095703125 5.988249778747559 305.3515625 3.875437498092651 303.4913024902344 C 1.73493754863739 301.6067504882813 0.05006249994039536 299.403076171875 -1.132437467575073 296.9414978027344 C -2.371687412261963 294.3619384765625 -3 291.6187438964844 -3 288.7881774902344 L -3 17.60906028747559 C -3 14.77849864959717 -2.371687412261963 12.03537368774414 -1.132437467575073 9.455748558044434 C 0.05006249994039536 6.994185924530029 1.73493754863739 4.790498733520508 3.875437498092651 2.905936241149902 C 5.988249778747559 1.04568612575531 8.441875457763672 -0.412313848733902 11.16812515258789 -1.427563786506653 C 13.96993732452393 -2.470938920974731 16.94137573242188 -3.000001430511475 20 -3.000001430511475 L 222.0413818359375 -3.000001430511475 L 223.3206176757813 -3.000001430511475 L 224.2062530517578 -2.076813936233521 L 261.5113830566406 36.80987548828125 L 261.6940612792969 37.00024795532227 L 261.8146667480469 37.18112945556641 C 262.0772399902344 37.54854202270508 262.8227844238281 38.38850402832031 263.5085754394531 38.70899963378906 C 263.976318359375 38.9276237487793 264.7446899414063 39.05812454223633 265.5641174316406 39.05812454223633 C 265.7251586914063 39.05812454223633 265.8340759277344 39.05256652832031 265.865478515625 39.05075073242188 L 265.9964904785156 39.03874969482422 L 266.10107421875 39.04187393188477 L 445.0036926269531 39.26168441772461 C 448.0586242675781 39.26168441772461 451.0300598144531 39.79074859619141 453.8318786621094 40.83412551879883 C 456.5581359863281 41.84937286376953 459.0117492675781 43.307373046875 461.1245727539063 45.16762542724609 C 463.2650756835938 47.05218505859375 464.949951171875 49.25587463378906 466.1324462890625 51.71743774414063 C 467.3716735839844 54.2969970703125 468 57.04018783569336 468 59.87075042724609 L 468 288.7881774902344 C 468 291.6187438964844 467.3716735839844 294.3619384765625 466.1324462890625 296.9414978027344 C 464.949951171875 299.403076171875 463.2650756835938 301.6067504882813 461.1245727539063 303.4913024902344 C 459.0117492675781 305.3515625 456.5581359863281 306.8095703125 453.8318786621094 307.8247985839844 C 451.0300598144531 308.8681945800781 448.0586242675781 309.3972473144531 445 309.3972473144531 Z" stroke="none"/>
           <path d="M 20 0 C 8.954315185546875 0 0 7.883819580078125 0 17.60906982421875 L 0 288.7881774902344 C 0 298.5133666992188 8.954315185546875 306.3972473144531 20 306.3972473144531 L 445 306.3972473144531 C 456.0456848144531 306.3972473144531 465 298.5133666992188 465 288.7881774902344 L 465 59.87074279785156 C 465 50.14556884765625 456.0456848144531 42.26168823242188 445 42.26168823242188 L 266.0973815917969 42.0418701171875 C 266.0973815917969 42.0418701171875 265.8943481445313 42.05813598632813 265.5640869140625 42.05813598632813 C 264.8145141601563 42.05813598632813 263.4097900390625 41.974365234375 262.2382507324219 41.42681884765625 C 260.5505676269531 40.63800048828125 259.3464965820313 38.88668823242188 259.3464965820313 38.88668823242188 L 222.0413818359375 0 L 20 0 M 20 -6 L 222.0413818359375 -6 C 223.6758728027344 -6 225.2396240234375 -5.33319091796875 226.3711242675781 -4.1536865234375 L 263.67626953125 34.73300170898438 L 264.844482421875 36.02529907226563 C 264.873779296875 36.02294921875 264.9284973144531 36.02200317382813 264.9993591308594 36.02200317382813 C 265.3199157714844 36.02200317382813 265.9718627929688 36.04171752929688 266.104736328125 36.0418701171875 L 445.0073852539063 36.26168823242188 C 459.33642578125 36.26168823242188 471 46.85269165039063 471 59.87074279785156 L 471 288.7881774902344 C 471 301.8062438964844 459.33642578125 312.3972473144531 445 312.3972473144531 L 20 312.3972473144531 C 5.66357421875 312.3972473144531 -6 301.8062438964844 -6 288.7881774902344 L -6 17.60906982421875 C -6 4.59100341796875 5.66357421875 -6 20 -6 Z" stroke="none" fill="#adbdf8"/>
         </g>
       </g>
-      <g id="desc6-3" data-name="desc6" transform="translate(20.2 214.83)">
+      <g id="desc6" transform="translate(20.2 214.83)">
         <rect id="Rectangle_151-15" data-name="Rectangle 151" width="380" height="19.37" rx="4" fill="#e7ebfb"/>
-        <text id="Losartan_100mg" data-name="Losartan 100mg" transform="translate(5 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Losartan 100mg</tspan></text>
+        <text id="Losartan_100mg" data-name="Losartan 100mg" transform="translate(5 12.402)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Losartan 100mg</tspan></text>
         <g id="Icon_ionic-ios-checkbox-outline-21" data-name="Icon ionic-ios-checkbox-outline" transform="translate(391.6)">
           <path id="Path_278-21" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
         </g>
-        <text id="_10_1971-3" data-name="10/1971" transform="translate(200 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">10/1971</tspan></text>
-        <text id="Discontinued" transform="translate(304 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Discontinued</tspan></text>
+        <text id="_10_1971-3" data-name="10/1971" transform="translate(200 12.402)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">10/1971</tspan></text>
+        <text id="Discontinued" transform="translate(304 13.685)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Discontinued</tspan></text>
       </g>
-      <g id="desc5-4" data-name="desc5" transform="translate(20.2 186.656)">
+      <g id="desc5-2" data-name="desc5" transform="translate(20.2 186.656)">
         <rect id="Rectangle_151-16" data-name="Rectangle 151" width="380" height="19.37" rx="4" transform="translate(0 0)" fill="#e7ebfb"/>
-        <text id="Simvastatin_25mg" data-name="Simvastatin 25mg" transform="translate(5 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Simvastatin 25mg</tspan></text>
+        <text id="Simvastatin_25mg" data-name="Simvastatin 25mg" transform="translate(5 13.402)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Simvastatin 25mg</tspan></text>
         <g id="Icon_ionic-ios-checkbox-outline-22" data-name="Icon ionic-ios-checkbox-outline" transform="translate(391.6 0)">
           <path id="Path_278-22" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
         </g>
-        <text id="_11_1976-4" data-name="11/1976" transform="translate(200 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">11/1976</tspan></text>
-        <text id="Discontinued-2" data-name="Discontinued" transform="translate(304 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Discontinued</tspan></text>
+        <text id="_11_1976-4" data-name="11/1976" transform="translate(200 13.402)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">11/1976</tspan></text>
+        <text id="Discontinued-2" data-name="Discontinued" transform="translate(304 13.685)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Discontinued</tspan></text>
       </g>
-      <g id="desc4-4" data-name="desc4" transform="translate(20.2 158.481)">
+      <g id="desc4-2" data-name="desc4" transform="translate(20.2 158.481)">
         <rect id="Rectangle_151-17" data-name="Rectangle 151" width="380" height="19.37" rx="4" transform="translate(0 0)" fill="#e7ebfb"/>
-        <text id="Omeprazole_5mg" data-name="Omeprazole 5mg" transform="translate(5 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Omeprazole 5mg</tspan></text>
+        <text id="Omeprazole_5mg" data-name="Omeprazole 5mg" transform="translate(5 13.402)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Omeprazole 5mg</tspan></text>
         <g id="Icon_ionic-ios-checkbox-outline-23" data-name="Icon ionic-ios-checkbox-outline" transform="translate(391.6 0)">
           <path id="Path_278-23" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
         </g>
-        <text id="_01_1996-4" data-name="01/1996" transform="translate(200 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">01/1996</tspan></text>
-        <text id="Ongoing-2" data-name="Ongoing" transform="translate(303.8 11.54)" fill="#476aea" font-size="8" font-family="ArialMT, Arial"><tspan x="0" y="0">Ongoing</tspan></text>
+        <text id="_01_1996-4" data-name="01/1996" transform="translate(200 13.402)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">01/1996</tspan></text>
+        <text id="Ongoing-2" data-name="Ongoing" transform="translate(303.8 13.902)" fill="#476aea" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Ongoing</tspan></text>
       </g>
-      <g id="desc3-4" data-name="desc3" transform="translate(20.2 130.307)">
+      <g id="desc3-2" data-name="desc3" transform="translate(20.2 130.307)">
         <rect id="Rectangle_151-18" data-name="Rectangle 151" width="380" height="19.37" rx="4" fill="#e7ebfb"/>
-        <text id="Metaprolol_50mg" data-name="Metaprolol 50mg" transform="translate(5 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Metaprolol 50mg</tspan></text>
+        <text id="Metaprolol_50mg" data-name="Metaprolol 50mg" transform="translate(5 13.402)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Metaprolol 50mg</tspan></text>
         <g id="Icon_ionic-ios-checkbox-outline-24" data-name="Icon ionic-ios-checkbox-outline" transform="translate(391.6)">
           <path id="Path_278-24" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
         </g>
-        <text id="_08_1997-4" data-name="08/1997" transform="translate(200 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">08/1997</tspan></text>
-        <text id="Ongoing-3" data-name="Ongoing" transform="translate(303.8 12.017)" fill="#476aea" font-size="8" font-family="ArialMT, Arial"><tspan x="0" y="0">Ongoing</tspan></text>
+        <text id="_08_1997-4" data-name="08/1997" transform="translate(200 13.402)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">08/1997</tspan></text>
+        <text id="Ongoing-3" data-name="Ongoing" transform="translate(303.8 13.402)" fill="#476aea" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Ongoing</tspan></text>
       </g>
-      <g id="desc2-4" data-name="desc2" transform="translate(20.2 102.133)">
+      <g id="desc2-2" data-name="desc2" transform="translate(20.2 102.133)">
         <rect id="Rectangle_151-19" data-name="Rectangle 151" width="380" height="19.37" rx="4" fill="#e7ebfb"/>
-        <text id="Amlodipine_250mg" data-name="Amlodipine 250mg" transform="translate(5 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Amlodipine 250mg</tspan></text>
+        <text id="Amlodipine_250mg" data-name="Amlodipine 250mg" transform="translate(5 13.402)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Amlodipine 250mg</tspan></text>
         <g id="Icon_ionic-ios-checkbox-outline-25" data-name="Icon ionic-ios-checkbox-outline" transform="translate(391.6)">
           <path id="Path_278-25" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
         </g>
-        <text id="_07_2001-4" data-name="07/2001" transform="translate(200 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">07/2001</tspan></text>
-        <text id="Ongoing-4" data-name="Ongoing" transform="translate(303.8 11.429)" fill="#476aea" font-size="8" font-family="ArialMT, Arial"><tspan x="0" y="0">Ongoing</tspan></text>
+        <text id="_07_2001-4" data-name="07/2001" transform="translate(200 13.402)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">07/2001</tspan></text>
+        <text id="Ongoing-4" data-name="Ongoing" transform="translate(303.8 13.902)" fill="#476aea" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Ongoing</tspan></text>
       </g>
-      <g id="desc1-4" data-name="desc1" transform="translate(20.2 73.958)">
+      <g id="desc1-2" data-name="desc1" transform="translate(20.2 73.958)">
         <rect id="Rectangle_151-20" data-name="Rectangle 151" width="380" height="19.37" rx="4" fill="#e7ebfb"/>
-        <text id="Metformin_25mg" data-name="Metformin 25mg" transform="translate(5 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Metformin 25mg</tspan></text>
+        <text id="Metformin_25mg" data-name="Metformin 25mg" transform="translate(5 13.402)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Metformin 25mg</tspan></text>
         <g id="Icon_ionic-ios-checkbox-outline-26" data-name="Icon ionic-ios-checkbox-outline" transform="translate(391.6)">
           <path id="Path_278-26" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
         </g>
-        <text id="_09_2004-4" data-name="09/2004" transform="translate(200 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">09/2004</tspan></text>
-        <text id="Ongoing-5" data-name="Ongoing" transform="translate(303.8 12.972)" fill="#476aea" font-size="8" font-family="ArialMT, Arial"><tspan x="0" y="0">Ongoing</tspan></text>
+        <text id="_09_2004-4" data-name="09/2004" transform="translate(200 13.402)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">09/2004</tspan></text>
+        <text id="Ongoing-5" data-name="Ongoing" transform="translate(303.8 14.185)" fill="#476aea" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Ongoing</tspan></text>
       </g>
-      <g id="title-4" data-name="title" transform="translate(22 11.474)">
+      <g id="title-2" data-name="title" transform="translate(22 11.474)">
         <text id="Medications" transform="translate(0 16.54)" fill="#476aea" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Medications</tspan></text>
         <g id="Icon_ionic-ios-checkbox-outline-27" data-name="Icon ionic-ios-checkbox-outline" transform="translate(168.6 0)">
           <path id="Path_278-27" data-name="Path 278" d="M30.109,4.5H6.828A2.2,2.2,0,0,0,4.5,6.55v20.5A2.2,2.2,0,0,0,6.828,29.1H30.109a2.2,2.2,0,0,0,2.328-2.05V6.55A2.2,2.2,0,0,0,30.109,4.5ZM30.4,26.792a.552.552,0,0,1-.582.512H7.119a.552.552,0,0,1-.582-.512V6.806a.552.552,0,0,1,.582-.512h22.7a.552.552,0,0,1,.582.512Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
           <path id="Path_279" data-name="Path 279" d="M26.089,13.443l-1.28-1.159a.294.294,0,0,0-.2-.077h0a.282.282,0,0,0-.2.077l-8.876,7.873-3.23-2.844a.308.308,0,0,0-.407,0l-1.3,1.14a.235.235,0,0,0,0,.365L14.666,22.4a1.366,1.366,0,0,0,.851.365,1.426,1.426,0,0,0,.844-.352h.007L26.1,13.808A.25.25,0,0,0,26.089,13.443Z" transform="translate(-4.292 -5.186)" fill="#476aea"/>
         </g>
       </g>
-      <g id="details-5" data-name="details" transform="translate(26 55.428)">
-        <text id="Status-2" data-name="Status" transform="translate(311 7)" fill="#476aea" font-size="8" font-family="ArialMT, Arial"><tspan x="0" y="0">Status</tspan></text>
-        <text id="Date-3" data-name="Date" transform="translate(201 7)" fill="#476aea" font-size="8" font-family="ArialMT, Arial"><tspan x="0" y="0">Date</tspan></text>
-        <text id="Medications-2" data-name="Medications" transform="translate(0 7)" fill="#476aea" font-size="8" font-family="ArialMT, Arial"><tspan x="0" y="0">Medications</tspan></text>
+      <g id="details-2" data-name="details" transform="translate(26 55.428)">
+        <text id="Status-2" data-name="Status" transform="translate(303 7)" fill="#476aea" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Status</tspan></text>
+        <text id="Date-3" data-name="Date" transform="translate(201 7)" fill="#476aea" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Date</tspan></text>
+        <text id="Medications-2" data-name="Medications" transform="translate(0 7)" fill="#476aea" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Medications</tspan></text>
       </g>
-      <g id="desc5-5" data-name="desc5" transform="translate(20.2 271.179)">
+      <g id="desc5-3" data-name="desc5" transform="translate(20.2 271.179)">
         <rect id="Rectangle_151-21" data-name="Rectangle 151" width="380" height="19.37" rx="4" transform="translate(0 0)" fill="#e7ebfb"/>
-        <text id="Lipitor_500mg" data-name="Lipitor 500mg" transform="translate(5 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Lipitor 500mg</tspan></text>
+        <text id="Lipitor_500mg" data-name="Lipitor 500mg" transform="translate(5 13.402)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Lipitor 500mg</tspan></text>
         <g id="Icon_ionic-ios-checkbox-outline-28" data-name="Icon ionic-ios-checkbox-outline" transform="translate(391.6 0)">
           <path id="Path_278-28" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
         </g>
-        <text id="_10_1971-4" data-name="10/1971" transform="translate(200 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">10/1971</tspan></text>
-        <text id="Discontinued-3" data-name="Discontinued" transform="translate(304 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Discontinued</tspan></text>
+        <text id="_10_1971-4" data-name="10/1971" transform="translate(200 13.402)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">10/1971</tspan></text>
+        <text id="Discontinued-3" data-name="Discontinued" transform="translate(304 13.685)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Discontinued</tspan></text>
       </g>
-      <g id="desc4-5" data-name="desc4" transform="translate(20.2 243.005)">
+      <g id="desc4-3" data-name="desc4" transform="translate(20.2 243.005)">
         <rect id="Rectangle_151-22" data-name="Rectangle 151" width="380" height="19.37" rx="4" transform="translate(0 0)" fill="#e7ebfb"/>
-        <text id="Neurontin_50mg" data-name="Neurontin 50mg" transform="translate(5 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Neurontin 50mg</tspan></text>
+        <text id="Neurontin_50mg" data-name="Neurontin 50mg" transform="translate(5 13.402)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Neurontin 50mg</tspan></text>
         <g id="Icon_ionic-ios-checkbox-outline-29" data-name="Icon ionic-ios-checkbox-outline" transform="translate(391.6 0)">
           <path id="Path_278-29" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
         </g>
-        <text id="_10_1971-5" data-name="10/1971" transform="translate(200 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">10/1971</tspan></text>
-        <text id="Ongoing-6" data-name="Ongoing" transform="translate(303.8 12.238)" fill="#476aea" font-size="8" font-family="ArialMT, Arial"><tspan x="0" y="0">Ongoing</tspan></text>
+        <text id="_10_1971-5" data-name="10/1971" transform="translate(200 13.402)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">10/1971</tspan></text>
+        <text id="Ongoing-6" data-name="Ongoing" transform="translate(303.8 13.402)" fill="#476aea" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Ongoing</tspan></text>
       </g>
     </g>
-    <g id="file1-5" data-name="file1" transform="translate(1249 670.13)">
+    <g id="file1-3" data-name="file1" transform="translate(1249 670.13)">
       <g transform="matrix(1, 0, 0, 1, -1249, -670.13)" filter="url(#folder-5)">
         <g id="folder-11" data-name="folder" transform="translate(1249 670.13)" fill="#fff" stroke-linejoin="round">
           <path d="M 445 309.3972473144531 L 20 309.3972473144531 C 16.94137573242188 309.3972473144531 13.96993732452393 308.8681945800781 11.16812515258789 307.8247985839844 C 8.441875457763672 306.8095703125 5.988249778747559 305.3515625 3.875437498092651 303.4913024902344 C 1.73493754863739 301.6067504882813 0.05006249994039536 299.403076171875 -1.132437467575073 296.9414978027344 C -2.371687412261963 294.3619384765625 -3 291.6187438964844 -3 288.7881774902344 L -3 17.60906028747559 C -3 14.77849864959717 -2.371687412261963 12.03537368774414 -1.132437467575073 9.455748558044434 C 0.05006249994039536 6.994185924530029 1.73493754863739 4.790498733520508 3.875437498092651 2.905936241149902 C 5.988249778747559 1.04568612575531 8.441875457763672 -0.412313848733902 11.16812515258789 -1.427563786506653 C 13.96993732452393 -2.470938920974731 16.94137573242188 -3.000001430511475 20 -3.000001430511475 L 222.0413818359375 -3.000001430511475 L 223.3206176757813 -3.000001430511475 L 224.2062530517578 -2.076813936233521 L 261.5113830566406 36.80987548828125 L 261.6940612792969 37.00024795532227 L 261.8146667480469 37.18112945556641 C 262.0772399902344 37.54854202270508 262.8227844238281 38.38850402832031 263.5085754394531 38.70899963378906 C 263.976318359375 38.9276237487793 264.7446899414063 39.05812454223633 265.5641174316406 39.05812454223633 C 265.7251586914063 39.05812454223633 265.8340759277344 39.05256652832031 265.865478515625 39.05075073242188 L 265.9964904785156 39.03874969482422 L 266.10107421875 39.04187393188477 L 445.0036926269531 39.26168441772461 C 448.0586242675781 39.26168441772461 451.0300598144531 39.79074859619141 453.8318786621094 40.83412551879883 C 456.5581359863281 41.84937286376953 459.0117492675781 43.307373046875 461.1245727539063 45.16762542724609 C 463.2650756835938 47.05218505859375 464.949951171875 49.25587463378906 466.1324462890625 51.71743774414063 C 467.3716735839844 54.2969970703125 468 57.04018783569336 468 59.87075042724609 L 468 288.7881774902344 C 468 291.6187438964844 467.3716735839844 294.3619384765625 466.1324462890625 296.9414978027344 C 464.949951171875 299.403076171875 463.2650756835938 301.6067504882813 461.1245727539063 303.4913024902344 C 459.0117492675781 305.3515625 456.5581359863281 306.8095703125 453.8318786621094 307.8247985839844 C 451.0300598144531 308.8681945800781 448.0586242675781 309.3972473144531 445 309.3972473144531 Z" stroke="none"/>
@@ -380,193 +342,193 @@
         </g>
       </g>
       <rect id="Rectangle_151-23" data-name="Rectangle 151" width="380" height="19.37" rx="4" transform="translate(20.2 214.83)" fill="#e7ebfb"/>
-      <text id="Emergency_Clinic" data-name="Emergency Clinic" transform="translate(25.2 225.233)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Emergency Clinic</tspan></text>
+      <text id="Emergency_Clinic" data-name="Emergency Clinic" transform="translate(25.2 228.233)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Emergency Clinic</tspan></text>
       <g id="Icon_ionic-ios-checkbox-outline-30" data-name="Icon ionic-ios-checkbox-outline" transform="translate(411.8 214.83)">
         <path id="Path_278-30" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
       </g>
-      <text id="_10_1971-6" data-name="10/1971" transform="translate(220.2 225.233)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">10/1971</tspan></text>
-      <text id="Car_accident" data-name="Car accident" transform="translate(324.2 225.233)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Car accident</tspan></text>
+      <text id="_10_1971-6" data-name="10/1971" transform="translate(220.2 228.233)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">10/1971</tspan></text>
+      <text id="Car_accident" data-name="Car accident" transform="translate(324.2 228.515)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Car accident</tspan></text>
       <rect id="Rectangle_151-24" data-name="Rectangle 151" width="380" height="19.37" rx="4" transform="translate(20.2 243.005)" fill="#e7ebfb"/>
-      <text id="Walk-in_Clinic" data-name="Walk-in Clinic" transform="translate(25.2 253.407)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Walk-in Clinic</tspan></text>
+      <text id="Walk-in_Clinic" data-name="Walk-in Clinic" transform="translate(25.2 256.407)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Walk-in Clinic</tspan></text>
       <g id="Icon_ionic-ios-checkbox-outline-31" data-name="Icon ionic-ios-checkbox-outline" transform="translate(411.8 243.005)">
         <path id="Path_278-31" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
       </g>
-      <text id="_11_1970" data-name="11/1970" transform="translate(220.2 253.407)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">11/1970</tspan></text>
-      <text id="Checkup" transform="translate(324.2 253.407)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Checkup</tspan></text>
+      <text id="_11_1970" data-name="11/1970" transform="translate(220.2 256.407)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">11/1970</tspan></text>
+      <text id="Checkup" transform="translate(324.2 256.69)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Checkup</tspan></text>
       <rect id="Rectangle_151-25" data-name="Rectangle 151" width="380" height="19.37" rx="4" transform="translate(20.2 271.179)" fill="#e7ebfb"/>
-      <text id="Walk-in_Clinic-2" data-name="Walk-in Clinic" transform="translate(25.2 281.582)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Walk-in Clinic</tspan></text>
+      <text id="Walk-in_Clinic-2" data-name="Walk-in Clinic" transform="translate(25.2 284.582)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Walk-in Clinic</tspan></text>
       <g id="Icon_ionic-ios-checkbox-outline-32" data-name="Icon ionic-ios-checkbox-outline" transform="translate(411.8 271.179)">
         <path id="Path_278-32" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
       </g>
-      <text id="_01_1968" data-name="01/1968" transform="translate(220.2 281.582)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">01/1968</tspan></text>
-      <text id="Checkup-2" data-name="Checkup" transform="translate(324.2 281.582)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Checkup</tspan></text>
-      <g id="desc5-6" data-name="desc5" transform="translate(20.2 186.656)">
+      <text id="_01_1968" data-name="01/1968" transform="translate(220.2 284.582)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">01/1968</tspan></text>
+      <text id="Checkup-2" data-name="Checkup" transform="translate(324.2 284.582)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Checkup</tspan></text>
+      <g id="desc5-4" data-name="desc5" transform="translate(20.2 186.656)">
         <rect id="Rectangle_151-26" data-name="Rectangle 151" width="380" height="19.37" rx="4" transform="translate(0 0)" fill="#e7ebfb"/>
-        <text id="General_Practioner" data-name="General Practioner" transform="translate(5 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">General Practioner</tspan></text>
+        <text id="General_Practioner" data-name="General Practioner" transform="translate(5 13.402)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">General Practioner</tspan></text>
         <g id="Icon_ionic-ios-checkbox-outline-33" data-name="Icon ionic-ios-checkbox-outline" transform="translate(391.6 0)">
           <path id="Path_278-33" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
         </g>
-        <text id="_11_1976-5" data-name="11/1976" transform="translate(200 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">11/1976</tspan></text>
-        <text id="Abortion" transform="translate(304 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Abortion</tspan></text>
+        <text id="_11_1976-5" data-name="11/1976" transform="translate(200 13.402)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">11/1976</tspan></text>
+        <text id="Abortion" transform="translate(304 13.402)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Abortion</tspan></text>
       </g>
-      <g id="desc4-6" data-name="desc4" transform="translate(20.2 158.481)">
+      <g id="desc4-4" data-name="desc4" transform="translate(20.2 158.482)">
         <rect id="Rectangle_151-27" data-name="Rectangle 151" width="380" height="19.37" rx="4" transform="translate(0 0)" fill="#e7ebfb"/>
-        <text id="General_Practioner-2" data-name="General Practioner" transform="translate(5 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">General Practioner</tspan></text>
+        <text id="General_Practioner-2" data-name="General Practioner" transform="translate(5 13.402)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">General Practioner</tspan></text>
         <g id="Icon_ionic-ios-checkbox-outline-34" data-name="Icon ionic-ios-checkbox-outline" transform="translate(391.6 0)">
           <path id="Path_278-34" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
         </g>
-        <text id="_01_1996-5" data-name="01/1996" transform="translate(200 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">01/1996</tspan></text>
-        <text id="Abortion-2" data-name="Abortion" transform="translate(303.8 11.54)" fill="#476aea" font-size="8" font-family="ArialMT, Arial"><tspan x="0" y="0">Abortion</tspan></text>
+        <text id="_01_1996-5" data-name="01/1996" transform="translate(200 13.402)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">01/1996</tspan></text>
+        <text id="Abortion-2" data-name="Abortion" transform="translate(303.8 13.54)" fill="#476aea" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Abortion</tspan></text>
       </g>
-      <g id="desc3-5" data-name="desc3" transform="translate(20.2 130.307)">
+      <g id="desc3-3" data-name="desc3" transform="translate(20.2 130.307)">
         <rect id="Rectangle_151-28" data-name="Rectangle 151" width="380" height="19.37" rx="4" fill="#e7ebfb"/>
-        <text id="General_Hospital" data-name="General Hospital" transform="translate(5 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">General Hospital</tspan></text>
+        <text id="General_Hospital" data-name="General Hospital" transform="translate(5 12.402)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">General Hospital</tspan></text>
         <g id="Icon_ionic-ios-checkbox-outline-35" data-name="Icon ionic-ios-checkbox-outline" transform="translate(391.6)">
           <path id="Path_278-35" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
         </g>
-        <text id="_08_1997-5" data-name="08/1997" transform="translate(200 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">08/1997</tspan></text>
-        <text id="Diabetes-2" data-name="Diabetes" transform="translate(303.8 12.017)" fill="#476aea" font-size="8" font-family="ArialMT, Arial"><tspan x="0" y="0">Diabetes</tspan></text>
+        <text id="_08_1997-5" data-name="08/1997" transform="translate(200 13.402)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">08/1997</tspan></text>
+        <text id="Diabetes-2" data-name="Diabetes" transform="translate(303.8 13.017)" fill="#476aea" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Diabetes</tspan></text>
       </g>
-      <g id="desc2-5" data-name="desc2" transform="translate(20.2 102.133)">
+      <g id="desc2-3" data-name="desc2" transform="translate(20.2 102.133)">
         <rect id="Rectangle_151-29" data-name="Rectangle 151" width="380" height="19.37" rx="4" fill="#e7ebfb"/>
-        <text id="General_Practioner-3" data-name="General Practioner" transform="translate(5 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">General Practioner</tspan></text>
+        <text id="General_Practioner-3" data-name="General Practioner" transform="translate(5 13.402)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">General Practioner</tspan></text>
         <g id="Icon_ionic-ios-checkbox-outline-36" data-name="Icon ionic-ios-checkbox-outline" transform="translate(391.6)">
           <path id="Path_278-36" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
         </g>
-        <text id="_07_2001-5" data-name="07/2001" transform="translate(200 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">07/2001</tspan></text>
-        <text id="Diabetes-3" data-name="Diabetes" transform="translate(303.8 11.429)" fill="#476aea" font-size="8" font-family="ArialMT, Arial"><tspan x="0" y="0">Diabetes</tspan></text>
+        <text id="_07_2001-5" data-name="07/2001" transform="translate(200 13.402)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">07/2001</tspan></text>
+        <text id="Diabetes-3" data-name="Diabetes" transform="translate(303.8 11.429)" fill="#476aea" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Diabetes</tspan></text>
       </g>
-      <g id="desc1-5" data-name="desc1" transform="translate(20.2 73.958)">
+      <g id="desc1-3" data-name="desc1" transform="translate(20.2 73.958)">
         <rect id="Rectangle_151-30" data-name="Rectangle 151" width="380" height="19.37" rx="4" fill="#e7ebfb"/>
-        <text id="General_Practioner-4" data-name="General Practioner" transform="translate(5 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">General Practioner</tspan></text>
+        <text id="General_Practioner-4" data-name="General Practioner" transform="translate(5 12.402)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">General Practioner</tspan></text>
         <g id="Icon_ionic-ios-checkbox-outline-37" data-name="Icon ionic-ios-checkbox-outline" transform="translate(391.6)">
           <path id="Path_278-37" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
         </g>
-        <text id="_09_2004-5" data-name="09/2004" transform="translate(200 10.402)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">09/2004</tspan></text>
-        <text id="Diabetes-4" data-name="Diabetes" transform="translate(303.8 12.972)" fill="#476aea" font-size="8" font-family="ArialMT, Arial"><tspan x="0" y="0">Diabetes</tspan></text>
+        <text id="_09_2004-5" data-name="09/2004" transform="translate(200 13.402)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">09/2004</tspan></text>
+        <text id="Diabetes-4" data-name="Diabetes" transform="translate(303.8 12.972)" fill="#476aea" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Diabetes</tspan></text>
       </g>
-      <g id="title-5" data-name="title" transform="translate(22 11.474)">
+      <g id="title-3" data-name="title" transform="translate(22 11.474)">
         <text id="Encounter_History" data-name="Encounter History" transform="translate(0 16.54)" fill="#476aea" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Encounter History</tspan></text>
         <g id="Icon_ionic-ios-checkbox-outline-38" data-name="Icon ionic-ios-checkbox-outline" transform="translate(168.6 0)">
           <path id="Path_278-38" data-name="Path 278" d="M30.109,4.5H6.828A2.2,2.2,0,0,0,4.5,6.55v20.5A2.2,2.2,0,0,0,6.828,29.1H30.109a2.2,2.2,0,0,0,2.328-2.05V6.55A2.2,2.2,0,0,0,30.109,4.5ZM30.4,26.792a.552.552,0,0,1-.582.512H7.119a.552.552,0,0,1-.582-.512V6.806a.552.552,0,0,1,.582-.512h22.7a.552.552,0,0,1,.582.512Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
         </g>
         <path id="Path_373" data-name="Path 373" d="M0,0H16.737" transform="translate(174.2 12.299)" fill="#476aea" stroke="#476aea" stroke-linecap="round" stroke-width="3"/>
       </g>
-      <g id="details-6" data-name="details" transform="translate(21 55.428)">
-        <text id="Reason" transform="translate(316 7)" fill="#476aea" font-size="8" font-family="ArialMT, Arial"><tspan x="0" y="0">Reason</tspan></text>
-        <text id="Date-4" data-name="Date" transform="translate(206 7)" fill="#476aea" font-size="8" font-family="ArialMT, Arial"><tspan x="0" y="0">Date</tspan></text>
-        <text id="Facility" transform="translate(0 7)" fill="#476aea" font-size="8" font-family="ArialMT, Arial"><tspan x="0" y="0">Facility</tspan></text>
+      <g id="details-3" data-name="details" transform="translate(21 55.428)">
+        <text id="Reason" transform="translate(303 7)" fill="#476aea" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Reason</tspan></text>
+        <text id="Date-4" data-name="Date" transform="translate(206 7)" fill="#476aea" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Date</tspan></text>
+        <text id="Facility" transform="translate(0 7)" fill="#476aea" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Facility</tspan></text>
       </g>
     </g>
-    <g id="file1-6" data-name="file1" transform="translate(245 303.862)">
+    <g id="file1-4" data-name="file1" transform="translate(245 303.862)">
       <g transform="matrix(1, 0, 0, 1, -245, -303.86)" filter="url(#folder-6)">
         <g id="folder-12" data-name="folder" transform="translate(245 303.86)" fill="#fff" stroke-linejoin="round">
           <path d="M 445 309.3972473144531 L 20 309.3972473144531 C 16.94137573242188 309.3972473144531 13.96993732452393 308.8681945800781 11.16812515258789 307.8247985839844 C 8.441875457763672 306.8095703125 5.988249778747559 305.3515625 3.875437498092651 303.4913024902344 C 1.73493754863739 301.6067504882813 0.05006249994039536 299.403076171875 -1.132437467575073 296.9414978027344 C -2.371687412261963 294.3619384765625 -3 291.6187438964844 -3 288.7881774902344 L -3 17.60906028747559 C -3 14.77849864959717 -2.371687412261963 12.03537368774414 -1.132437467575073 9.455748558044434 C 0.05006249994039536 6.994185924530029 1.73493754863739 4.790498733520508 3.875437498092651 2.905936241149902 C 5.988249778747559 1.04568612575531 8.441875457763672 -0.412313848733902 11.16812515258789 -1.427563786506653 C 13.96993732452393 -2.470938920974731 16.94137573242188 -3.000001430511475 20 -3.000001430511475 L 222.0413818359375 -3.000001430511475 L 223.3206176757813 -3.000001430511475 L 224.2062530517578 -2.076813936233521 L 261.5113830566406 36.80987548828125 L 261.6940612792969 37.00024795532227 L 261.8146667480469 37.18112945556641 C 262.0772399902344 37.54854202270508 262.8227844238281 38.38850402832031 263.5085754394531 38.70899963378906 C 263.976318359375 38.9276237487793 264.7446899414063 39.05812454223633 265.5641174316406 39.05812454223633 C 265.7251586914063 39.05812454223633 265.8340759277344 39.05256652832031 265.865478515625 39.05075073242188 L 265.9964904785156 39.03874969482422 L 266.10107421875 39.04187393188477 L 445.0036926269531 39.26168441772461 C 448.0586242675781 39.26168441772461 451.0300598144531 39.79074859619141 453.8318786621094 40.83412551879883 C 456.5581359863281 41.84937286376953 459.0117492675781 43.307373046875 461.1245727539063 45.16762542724609 C 463.2650756835938 47.05218505859375 464.949951171875 49.25587463378906 466.1324462890625 51.71743774414063 C 467.3716735839844 54.2969970703125 468 57.04018783569336 468 59.87075042724609 L 468 288.7881774902344 C 468 291.6187438964844 467.3716735839844 294.3619384765625 466.1324462890625 296.9414978027344 C 464.949951171875 299.403076171875 463.2650756835938 301.6067504882813 461.1245727539063 303.4913024902344 C 459.0117492675781 305.3515625 456.5581359863281 306.8095703125 453.8318786621094 307.8247985839844 C 451.0300598144531 308.8681945800781 448.0586242675781 309.3972473144531 445 309.3972473144531 Z" stroke="none"/>
           <path d="M 20 0 C 8.954315185546875 0 0 7.883819580078125 0 17.60906982421875 L 0 288.7881774902344 C 0 298.5133666992188 8.954315185546875 306.3972473144531 20 306.3972473144531 L 445 306.3972473144531 C 456.0456848144531 306.3972473144531 465 298.5133666992188 465 288.7881774902344 L 465 59.87074279785156 C 465 50.14556884765625 456.0456848144531 42.26168823242188 445 42.26168823242188 L 266.0973815917969 42.0418701171875 C 266.0973815917969 42.0418701171875 265.8943481445313 42.05813598632813 265.5640869140625 42.05813598632813 C 264.8145141601563 42.05813598632813 263.4097900390625 41.974365234375 262.2382507324219 41.42681884765625 C 260.5505676269531 40.63800048828125 259.3464965820313 38.88668823242188 259.3464965820313 38.88668823242188 L 222.0413818359375 0 L 20 0 M 20 -6 L 222.0413818359375 -6 C 223.6758728027344 -6 225.2396240234375 -5.33319091796875 226.3711242675781 -4.1536865234375 L 263.67626953125 34.73300170898438 L 264.844482421875 36.02529907226563 C 264.873779296875 36.02294921875 264.9284973144531 36.02200317382813 264.9993591308594 36.02200317382813 C 265.3199157714844 36.02200317382813 265.9718627929688 36.04171752929688 266.104736328125 36.0418701171875 L 445.0073852539063 36.26168823242188 C 459.33642578125 36.26168823242188 471 46.85269165039063 471 59.87074279785156 L 471 288.7881774902344 C 471 301.8062438964844 459.33642578125 312.3972473144531 445 312.3972473144531 L 20 312.3972473144531 C 5.66357421875 312.3972473144531 -6 301.8062438964844 -6 288.7881774902344 L -6 17.60906982421875 C -6 4.59100341796875 5.66357421875 -6 20 -6 Z" stroke="none" fill="#adbdf8"/>
         </g>
       </g>
-      <g id="desc1-6" data-name="desc1" transform="translate(20.2 64.829)">
+      <g id="desc1-4" data-name="desc1" transform="translate(20.2 64.829)">
         <rect id="Rectangle_151-31" data-name="Rectangle 151" width="160.875" height="19.37" rx="4" transform="translate(0 10.009)" fill="#e7ebfb"/>
         <text id="Jane_Williams" data-name="Jane Williams" transform="translate(4.8 25.194)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Jane Williams</tspan></text>
         <g id="Icon_ionic-ios-checkbox-outline-39" data-name="Icon ionic-ios-checkbox-outline" transform="translate(172.475 10.009)">
           <path id="Path_278-39" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
         </g>
-        <text id="Fullname" transform="translate(4.8 7)" fill="#476aea" font-size="15" font-family="ArialMT, Arial"><tspan x="0" y="0">Fullname</tspan></text>
+        <text id="Fullname" transform="translate(4.8 7)" fill="#476aea" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Fullname</tspan></text>
       </g>
-      <g id="desc1-7" data-name="desc1" transform="translate(20.2 103.179)">
+      <g id="desc1-5" data-name="desc1" transform="translate(20.2 103.179)">
         <rect id="Rectangle_151-32" data-name="Rectangle 151" width="160.875" height="19.37" rx="4" transform="translate(0 10.399)" fill="#e7ebfb"/>
         <text id="Female" transform="translate(4.8 24)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Female</tspan></text>
         <g id="Icon_ionic-ios-checkbox-outline-40" data-name="Icon ionic-ios-checkbox-outline" transform="translate(172.475 10.399)">
           <path id="Path_278-40" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
         </g>
-        <text id="Sex" transform="translate(4.8 7)" fill="#476aea" font-size="15" font-family="ArialMT, Arial"><tspan x="0" y="0">Sex</tspan></text>
+        <text id="Sex" transform="translate(4.8 7)" fill="#476aea" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Sex</tspan></text>
       </g>
-      <g id="desc1-8" data-name="desc1" transform="translate(20.2 142.594)">
+      <g id="desc1-6" data-name="desc1" transform="translate(20.2 142.594)">
         <rect id="Rectangle_151-33" data-name="Rectangle 151" width="160.875" height="19.37" rx="4" transform="translate(0 9.724)" fill="#e7ebfb"/>
-        <text id="_01_01_1960" data-name="01/01/1960" transform="translate(5 20.126)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">01/01/1960</tspan></text>
+        <text id="_01_01_1960" data-name="01/01/1960" transform="translate(4.8 23.409)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">01/01/1960</tspan></text>
         <g id="Icon_ionic-ios-checkbox-outline-41" data-name="Icon ionic-ios-checkbox-outline" transform="translate(172.475 9.724)">
           <path id="Path_278-41" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
         </g>
-        <text id="Date_of_Birth" data-name="Date of Birth" transform="translate(4.8 7)" fill="#476aea" font-size="8" font-family="ArialMT, Arial"><tspan x="0" y="0">Date of Birth</tspan></text>
+        <text id="Date_of_Birth" data-name="Date of Birth" transform="translate(4.8 7)" fill="#476aea" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Date of Birth</tspan></text>
       </g>
-      <g id="desc1-9" data-name="desc1" transform="translate(20.2 179.879)">
+      <g id="desc1-7" data-name="desc1" transform="translate(20.2 179.879)">
         <rect id="Rectangle_151-34" data-name="Rectangle 151" width="160.875" height="19.37" rx="4" transform="translate(0 11.179)" fill="#e7ebfb"/>
-        <text id="_905_455_3116" data-name="905 455 3116" transform="translate(5 21.582)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">905 455 3116</tspan></text>
+        <text id="_905_455_3116" data-name="905 455 3116" transform="translate(4.8 24.864)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">905 455 3116</tspan></text>
         <g id="Icon_ionic-ios-checkbox-outline-42" data-name="Icon ionic-ios-checkbox-outline" transform="translate(172.475 11.179)">
           <path id="Path_278-42" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
         </g>
-        <text id="Phone" transform="translate(4.8 7)" fill="#476aea" font-size="8" font-family="ArialMT, Arial"><tspan x="0" y="0">Phone</tspan></text>
+        <text id="Phone" transform="translate(4.8 7)" fill="#476aea" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Phone</tspan></text>
       </g>
-      <g id="desc1-10" data-name="desc1" transform="translate(20.2 219.294)">
+      <g id="desc1-8" data-name="desc1" transform="translate(20.2 219.294)">
         <rect id="Rectangle_151-35" data-name="Rectangle 151" width="160.875" height="19.37" rx="4" transform="translate(0 10.504)" fill="#e7ebfb"/>
-        <text id="jane.williams2004_gmail.com" data-name="jane.williams2004@gmail.com" transform="translate(4 20.906)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">jane.williams2004@gmail.com</tspan></text>
+        <text id="jane.williams2004_gmail.com" data-name="jane.williams2004@gmail.com" transform="translate(5.8 23.844)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">jane.williams2004@gmail.com</tspan></text>
         <g id="Icon_ionic-ios-checkbox-outline-43" data-name="Icon ionic-ios-checkbox-outline" transform="translate(172.475 10.504)">
           <path id="Path_278-43" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
         </g>
-        <text id="Email_Address" data-name="Email Address" transform="translate(4.8 7)" fill="#476aea" font-size="8" font-family="ArialMT, Arial"><tspan x="0" y="0">Email Address</tspan></text>
+        <text id="Email_Address" data-name="Email Address" transform="translate(4.8 7)" fill="#476aea" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Email Address</tspan></text>
       </g>
-      <g id="title-6" data-name="title" transform="translate(22 12.354)">
+      <g id="title-4" data-name="title" transform="translate(22 12.354)">
         <text id="Patient_Details" data-name="Patient Details" transform="translate(0 19.299)" fill="#476aea" font-size="20" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Patient Details</tspan></text>
         <g id="Icon_ionic-ios-checkbox-outline-44" data-name="Icon ionic-ios-checkbox-outline" transform="translate(168.6 0)">
           <path id="Path_278-44" data-name="Path 278" d="M30.109,4.5H6.828A2.2,2.2,0,0,0,4.5,6.55v20.5A2.2,2.2,0,0,0,6.828,29.1H30.109a2.2,2.2,0,0,0,2.328-2.05V6.55A2.2,2.2,0,0,0,30.109,4.5ZM30.4,26.792a.552.552,0,0,1-.582.512H7.119a.552.552,0,0,1-.582-.512V6.806a.552.552,0,0,1,.582-.512h22.7a.552.552,0,0,1,.582.512Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
           <path id="Path_279-2" data-name="Path 279" d="M26.089,13.443l-1.28-1.159a.294.294,0,0,0-.2-.077h0a.282.282,0,0,0-.2.077l-8.876,7.873-3.23-2.844a.308.308,0,0,0-.407,0l-1.3,1.14a.235.235,0,0,0,0,.365L14.666,22.4a1.366,1.366,0,0,0,.851.365,1.426,1.426,0,0,0,.844-.352h.007L26.1,13.808A.25.25,0,0,0,26.089,13.443Z" transform="translate(-4.292 -5.186)" fill="#476aea"/>
         </g>
       </g>
-      <g id="desc1-11" data-name="desc1" transform="translate(20.2 256.579)">
+      <g id="desc1-9" data-name="desc1" transform="translate(20.2 256.579)">
         <rect id="Rectangle_151-36" data-name="Rectangle 151" width="160.875" height="19.37" rx="4" transform="translate(0 9.318)" fill="#e7ebfb"/>
-        <text id="_12_Heaven_St._ON_1N1_2R2_" data-name="12 Heaven St. ON 1N1 2R2 " transform="translate(5 19.72)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">12 Heaven St. ON 1N1 2R2 </tspan></text>
+        <text id="_12_Heaven_St._ON_1N1_2R2_" data-name="12 Heaven St. ON 1N1 2R2 " transform="translate(4.8 23.003)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">12 Heaven St. ON 1N1 2R2 </tspan></text>
         <g id="Icon_ionic-ios-checkbox-outline-45" data-name="Icon ionic-ios-checkbox-outline" transform="translate(172.475 9.318)">
           <path id="Path_278-45" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
         </g>
-        <text id="Home_Address" data-name="Home Address" transform="translate(4.8 7)" fill="#476aea" font-size="8" font-family="ArialMT, Arial"><tspan x="0" y="0">Home Address</tspan></text>
+        <text id="Home_Address" data-name="Home Address" transform="translate(4.8 7)" fill="#476aea" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Home Address</tspan></text>
       </g>
-      <g id="desc1-12" data-name="desc1" transform="translate(246.2 64.829)">
+      <g id="desc1-10" data-name="desc1" transform="translate(246.2 64.829)">
         <path id="Path_291" data-name="Path 291" d="M4,0H156.875a3.784,3.784,0,0,1,4,3.522V15.848a3.784,3.784,0,0,1-4,3.522H4a3.784,3.784,0,0,1-4-3.522V3.522A3.784,3.784,0,0,1,4,0Z" transform="translate(0 10.009)" fill="#e7ebfb"/>
-        <text id="Sunlife" transform="translate(5 20.412)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Sunlife</tspan></text>
+        <text id="Sunlife" transform="translate(4.8 23.694)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Sunlife</tspan></text>
         <g id="Icon_ionic-ios-checkbox-outline-46" data-name="Icon ionic-ios-checkbox-outline" transform="translate(172.475 10.009)">
           <path id="Path_278-46" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
         </g>
-        <text id="Insurance_Provider:" data-name="Insurance Provider:" transform="translate(4.8 7)" fill="#476aea" font-size="8" font-family="ArialMT, Arial"><tspan x="0" y="0">Insurance Provider:</tspan></text>
+        <text id="Insurance_Provider:" data-name="Insurance Provider:" transform="translate(4.8 7)" fill="#476aea" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Insurance Provider:</tspan></text>
       </g>
-      <g id="desc1-13" data-name="desc1" transform="translate(246.2 103.179)">
+      <g id="desc1-11" data-name="desc1" transform="translate(246.2 103.179)">
         <rect id="Rectangle_151-37" data-name="Rectangle 151" width="160.875" height="19.37" rx="4" transform="translate(0 10.399)" fill="#e7ebfb"/>
-        <text id="_356M59557" data-name="356M59557" transform="translate(5 20.802)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">356M59557</tspan></text>
+        <text id="_356M59557" data-name="356M59557" transform="translate(4.8 24.084)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">356M59557</tspan></text>
         <g id="Icon_ionic-ios-checkbox-outline-47" data-name="Icon ionic-ios-checkbox-outline" transform="translate(172.475 10.399)">
           <path id="Path_278-47" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
         </g>
-        <text id="Insurance_Policy_Number:" data-name="Insurance Policy Number:" transform="translate(4.8 7)" fill="#476aea" font-size="8" font-family="ArialMT, Arial"><tspan x="0" y="0">Insurance Policy Number:</tspan></text>
+        <text id="Insurance_Policy_Number:" data-name="Insurance Policy Number:" transform="translate(4.8 7)" fill="#476aea" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Insurance Policy Number:</tspan></text>
       </g>
-      <g id="desc1-14" data-name="desc1" transform="translate(246.2 142.594)">
+      <g id="desc1-12" data-name="desc1" transform="translate(246.2 142.594)">
         <rect id="Rectangle_151-38" data-name="Rectangle 151" width="160.875" height="19.37" rx="4" transform="translate(0 9.724)" fill="#e7ebfb"/>
-        <text id="Dr._Marie_Rose" data-name="Dr. Marie Rose" transform="translate(5 20.126)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">Dr. Marie Rose</tspan></text>
+        <text id="Dr._Marie_Rose" data-name="Dr. Marie Rose" transform="translate(4.8 23.409)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Dr. Marie Rose</tspan></text>
         <g id="Icon_ionic-ios-checkbox-outline-48" data-name="Icon ionic-ios-checkbox-outline" transform="translate(172.475 9.724)">
           <path id="Path_278-48" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
         </g>
-        <text id="Family_Doctor_Name:" data-name="Family Doctor Name:" transform="translate(4.8 7)" fill="#476aea" font-size="8" font-family="ArialMT, Arial"><tspan x="0" y="0">Family Doctor Name:</tspan></text>
+        <text id="Family_Doctor_Name:" data-name="Family Doctor Name:" transform="translate(4.8 7)" fill="#476aea" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Family Doctor Name:</tspan></text>
       </g>
-      <g id="desc1-15" data-name="desc1" transform="translate(246.2 179.879)">
+      <g id="desc1-13" data-name="desc1" transform="translate(246.2 179.879)">
         <rect id="Rectangle_151-39" data-name="Rectangle 151" width="160.875" height="19.37" rx="4" transform="translate(0 11.179)" fill="#e7ebfb"/>
-        <text id="_416_222_3333" data-name="416 222 3333" transform="translate(5 21.582)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">416 222 3333</tspan></text>
+        <text id="_416_222_3333" data-name="416 222 3333" transform="translate(4.8 24.864)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">416 222 3333</tspan></text>
         <g id="Icon_ionic-ios-checkbox-outline-49" data-name="Icon ionic-ios-checkbox-outline" transform="translate(172.475 11.179)">
           <path id="Path_278-49" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
         </g>
-        <text id="Family_Doctor_Contact" data-name="Family Doctor Contact" transform="translate(4.8 7)" fill="#476aea" font-size="8" font-family="ArialMT, Arial"><tspan x="0" y="0">Family Doctor Contact</tspan></text>
+        <text id="Family_Doctor_Contact" data-name="Family Doctor Contact" transform="translate(4.8 7)" fill="#476aea" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Family Doctor Contact</tspan></text>
       </g>
-      <g id="desc1-16" data-name="desc1" transform="translate(246.2 219.294)">
+      <g id="desc1-14" data-name="desc1" transform="translate(246.2 219.294)">
         <rect id="Rectangle_151-40" data-name="Rectangle 151" width="160.875" height="19.37" rx="4" transform="translate(0 10.504)" fill="#e7ebfb"/>
-        <text id="Jake_Williams" data-name="Jake  Williams" transform="translate(5 20.906)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0" xml:space="preserve">Jake  Williams</tspan></text>
+        <text id="Jake_Williams" data-name="Jake  Williams" transform="translate(4.8 24.189)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0" xml:space="preserve">Jake  Williams</tspan></text>
         <g id="Icon_ionic-ios-checkbox-outline-50" data-name="Icon ionic-ios-checkbox-outline" transform="translate(172.475 10.504)">
           <path id="Path_278-50" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
         </g>
-        <text id="Emergency_Contact_Name" data-name="Emergency Contact Name" transform="translate(4.8 7)" fill="#476aea" font-size="8" font-family="ArialMT, Arial"><tspan x="0" y="0">Emergency Contact Name</tspan></text>
+        <text id="Emergency_Contact_Name" data-name="Emergency Contact Name" transform="translate(4.8 7)" fill="#476aea" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Emergency Contact Name</tspan></text>
       </g>
-      <g id="desc1-17" data-name="desc1" transform="translate(246.2 256.579)">
+      <g id="desc1-15" data-name="desc1" transform="translate(246.2 256.579)">
         <rect id="Rectangle_151-41" data-name="Rectangle 151" width="160.875" height="19.37" rx="4" transform="translate(0 9.318)" fill="#e7ebfb"/>
-        <text id="_416_444_5555" data-name="416 444 5555" transform="translate(5 19.72)" fill="#476aea" font-size="7" font-family="ArialMT, Arial"><tspan x="0" y="0">416 444 5555</tspan></text>
+        <text id="_416_444_5555" data-name="416 444 5555" transform="translate(4.8 23.003)" fill="#476aea" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">416 444 5555</tspan></text>
         <g id="Icon_ionic-ios-checkbox-outline-51" data-name="Icon ionic-ios-checkbox-outline" transform="translate(172.475 9.318)">
           <path id="Path_278-51" data-name="Path 278" d="M24.667,4.5H6.333A1.732,1.732,0,0,0,4.5,6.114V22.256A1.732,1.732,0,0,0,6.333,23.87H24.667A1.732,1.732,0,0,0,26.5,22.256V6.114A1.732,1.732,0,0,0,24.667,4.5ZM24.9,22.054a.435.435,0,0,1-.458.4H6.563a.435.435,0,0,1-.458-.4V6.316a.435.435,0,0,1,.458-.4H24.438a.435.435,0,0,1,.458.4Z" transform="translate(-4.5 -4.5)" fill="#476aea"/>
         </g>
-        <text id="Emergency_Contact_Phone_Number" data-name="Emergency Contact Phone Number" transform="translate(4.8 7)" fill="#476aea" font-size="8" font-family="ArialMT, Arial"><tspan x="0" y="0">Emergency Contact Phone Number</tspan></text>
+        <text id="Emergency_Contact_Phone_Number" data-name="Emergency Contact Phone Number" transform="translate(4.8 7)" fill="#476aea" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Emergency Contact Phone Number</tspan></text>
       </g>
     </g>
     <path id="Path_279-3" data-name="Path 279" d="M22.777,13.18l-1.008-.913a.232.232,0,0,0-.16-.061h0a.222.222,0,0,0-.16.061l-6.99,6.2-2.544-2.24a.243.243,0,0,0-.321,0l-1.02.9a.185.185,0,0,0,0,.288l3.208,2.825a1.075,1.075,0,0,0,.67.288,1.123,1.123,0,0,0,.665-.277h.006l7.66-6.779A.2.2,0,0,0,22.777,13.18Z" transform="translate(432.156 449.502)" fill="#476aea"/>
@@ -610,11 +572,11 @@
     <path id="Path_357" data-name="Path 357" d="M22.777,13.18l-1.008-.913a.232.232,0,0,0-.16-.061h0a.222.222,0,0,0-.16.061l-6.99,6.2-2.544-2.24a.243.243,0,0,0-.321,0l-1.02.9a.185.185,0,0,0,0,.288l3.208,2.825a1.075,1.075,0,0,0,.67.288,1.123,1.123,0,0,0,.665-.277h.006l7.66-6.779A.2.2,0,0,0,22.777,13.18Z" transform="translate(1153.495 849.225)" fill="#476aea"/>
     <path id="Path_358" data-name="Path 358" d="M22.777,13.18l-1.008-.913a.232.232,0,0,0-.16-.061h0a.222.222,0,0,0-.16.061l-6.99,6.2-2.544-2.24a.243.243,0,0,0-.321,0l-1.02.9a.185.185,0,0,0,0,.288l3.208,2.825a1.075,1.075,0,0,0,.67.288,1.123,1.123,0,0,0,.665-.277h.006l7.66-6.779A.2.2,0,0,0,22.777,13.18Z" transform="translate(1153.495 736.527)" fill="#476aea"/>
     <path id="Path_359" data-name="Path 359" d="M22.777,13.18l-1.008-.913a.232.232,0,0,0-.16-.061h0a.222.222,0,0,0-.16.061l-6.99,6.2-2.544-2.24a.243.243,0,0,0-.321,0l-1.02.9a.185.185,0,0,0,0,.288l3.208,2.825a1.075,1.075,0,0,0,.67.288,1.123,1.123,0,0,0,.665-.277h.006l7.66-6.779A.2.2,0,0,0,22.777,13.18Z" transform="translate(1153.495 792.876)" fill="#476aea"/>
-    <path id="Path_360" data-name="Path 360" d="M22.777,13.12l-1.008-.857a.241.241,0,0,0-.16-.057h0a.23.23,0,0,0-.16.057l-6.99,5.82-2.544-2.1a.255.255,0,0,0-.321,0l-1.02.843a.167.167,0,0,0,0,.27l3.208,2.652a1.112,1.112,0,0,0,.67.27,1.159,1.159,0,0,0,.665-.26h.006l7.66-6.364A.177.177,0,0,0,22.777,13.12Z" transform="translate(1153.495 955.686)" fill="#476aea"/>
+    <path id="Path_360" data-name="Path 360" d="M22.777,13.12l-1.008-.857a.241.241,0,0,0-.16-.057h0a.23.23,0,0,0-.16.057l-6.99,5.82-2.544-2.1a.255.255,0,0,0-.321,0l-1.02.843a.167.167,0,0,0,0,.27l3.208,2.652a1.112,1.112,0,0,0,.67.27,1.159,1.159,0,0,0,.665-.26h.006l7.66-6.364A.177.177,0,0,0,22.777,13.12Z" transform="translate(1153.495 933.749)" fill="#476aea"/>
     <path id="Path_361" data-name="Path 361" d="M22.777,13.18l-1.008-.913a.232.232,0,0,0-.16-.061h0a.222.222,0,0,0-.16.061l-6.99,6.2-2.544-2.24a.243.243,0,0,0-.321,0l-1.02.9a.185.185,0,0,0,0,.288l3.208,2.825a1.075,1.075,0,0,0,.67.288,1.123,1.123,0,0,0,.665-.277h.006l7.66-6.779A.2.2,0,0,0,22.777,13.18Z" transform="translate(1153.495 905.574)" fill="#476aea"/>
     <path id="Path_367" data-name="Path 367" d="M22.777,13.18l-1.008-.913a.232.232,0,0,0-.16-.061h0a.222.222,0,0,0-.16.061l-6.99,6.2-2.544-2.24a.243.243,0,0,0-.321,0l-1.02.9a.185.185,0,0,0,0,.288l3.208,2.825a1.075,1.075,0,0,0,.67.288,1.123,1.123,0,0,0,.665-.277h.006l7.66-6.779A.2.2,0,0,0,22.777,13.18Z" transform="translate(1655.495 878.28)" fill="#476aea"/>
     <path id="Path_368" data-name="Path 368" d="M22.777,13.18l-1.008-.913a.232.232,0,0,0-.16-.061h0a.222.222,0,0,0-.16.061l-6.99,6.2-2.544-2.24a.243.243,0,0,0-.321,0l-1.02.9a.185.185,0,0,0,0,.288l3.208,2.825a1.075,1.075,0,0,0,.67.288,1.123,1.123,0,0,0,.665-.277h.006l7.66-6.779A.2.2,0,0,0,22.777,13.18Z" transform="translate(1655.495 906.454)" fill="#476aea"/>
-    <path id="Path_369" data-name="Path 369" d="M22.777,13.12l-1.008-.857a.241.241,0,0,0-.16-.057h0a.23.23,0,0,0-.16.057l-6.99,5.82-2.544-2.1a.255.255,0,0,0-.321,0l-1.02.843a.167.167,0,0,0,0,.27l3.208,2.652a1.112,1.112,0,0,0,.67.27,1.159,1.159,0,0,0,.665-.26h.006l7.66-6.364A.177.177,0,0,0,22.777,13.12Z" transform="translate(1655.495 956.512)" fill="#476aea"/>
+    <path id="Path_369" data-name="Path 369" d="M22.777,13.12l-1.008-.857a.241.241,0,0,0-.16-.057h0a.23.23,0,0,0-.16.057l-6.99,5.82-2.544-2.1a.255.255,0,0,0-.321,0l-1.02.843a.167.167,0,0,0,0,.27l3.208,2.652a1.112,1.112,0,0,0,.67.27,1.159,1.159,0,0,0,.665-.26h.006l7.66-6.364A.177.177,0,0,0,22.777,13.12Z" transform="translate(1655.495 934.629)" fill="#476aea"/>
     <path id="Path_370" data-name="Path 370" d="M0,0V168.162" transform="translate(1692 736.332)" fill="#476aea" stroke="#000" stroke-width="2" opacity="0.1"/>
     <path id="Path_371" data-name="Path 371" d="M3,0A2.758,2.758,0,0,1,6,2.424V39.584a2.758,2.758,0,0,1-3,2.424,2.758,2.758,0,0,1-3-2.424V2.424A2.758,2.758,0,0,1,3,0Z" transform="translate(1689 742.423)" fill="#bbb"/>
     <g id="Icon_ionic-ios-menu-2" data-name="Icon ionic-ios-menu" transform="translate(1690 760.968)">
