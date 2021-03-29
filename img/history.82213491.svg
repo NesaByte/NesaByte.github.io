@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <filter id="Path_287" x="257.113" y="293.379" width="703.539" height="723.757" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_287-2" x="959.344" y="293.379" width="703.539" height="723.757" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#adbdf8" stop-opacity="0"/>
+      <stop offset="1" stop-color="#dce4fe" stop-opacity="0.388"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#99adf9"/>
+      <stop offset="1" stop-color="#4065e9"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#adbdf8"/>
+      <stop offset="1" stop-color="#4267ee"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#526dcf"/>
+      <stop offset="1" stop-color="#4d70ef"/>
+    </linearGradient>
+    <clipPath id="clip-history">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="history" clip-path="url(#clip-history)">
+    <rect id="background" width="1920" height="1080" fill="#adbdf8"/>
+    <path id="desc" d="M40.838,0H1539.582c22.554,0,40.838,14.891,40.838,33.261v795.76c0,18.369-18.284,33.261-40.838,33.261H40.838C18.284,862.282,0,847.39,0,829.021V33.261C0,14.891,18.284,0,40.838,0Z" transform="translate(169.79 167.719)" fill="#fff"/>
+    <text id="HISTORY-2" data-name="HISTORY" transform="translate(960 250)" fill="#2c57f3" font-size="36" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-79.014" y="0">HISTORY</tspan></text>
+    <g id="chart" transform="translate(-761.886 -197.981)">
+      <g transform="matrix(1, 0, 0, 1, 761.89, 197.98)" filter="url(#Path_287)">
+        <g id="Path_287-3" data-name="Path 287" transform="translate(266.11 299.38)" fill="#fff">
+          <path d="M 631.1799926757813 702.7574462890625 L 54.35998916625977 702.7574462890625 C 47.36017227172852 702.7574462890625 40.57508087158203 701.6231689453125 34.19298934936523 699.3861694335938 C 28.05671691894531 697.2353515625 22.55335235595703 694.1625366210938 17.83589744567871 690.253173828125 C 13.1598072052002 686.3779907226563 9.495170593261719 681.878662109375 6.943988800048828 676.8800659179688 C 4.326898097991943 671.7526245117188 2.999989032745361 666.3118896484375 2.999989032745361 660.7091064453125 L 2.999989032745361 45.04835891723633 C 2.999989032745361 39.44554138183594 4.326898097991943 34.00481414794922 6.943988800048828 28.87726783752441 C 9.495170593261719 23.87872314453125 13.1598072052002 19.37936019897461 17.83589744567871 15.50426864624023 C 22.55335235595703 11.59490489959717 28.05671691894531 8.522087097167969 34.19298934936523 6.371268749237061 C 40.57508087158203 4.134268760681152 47.36017227172852 2.999995946884155 54.35998916625977 2.999995946884155 L 631.1799926757813 2.999995946884155 C 638.1798095703125 2.999995946884155 644.9649658203125 4.134268760681152 651.3471069335938 6.371268749237061 C 657.4833374023438 8.522087097167969 662.9866333007813 11.59490489959717 667.7041015625 15.50426864624023 C 672.3802490234375 19.37936019897461 676.0447998046875 23.87872314453125 678.5960693359375 28.87726783752441 C 681.2130737304688 34.00481414794922 682.5399780273438 39.44554138183594 682.5399780273438 45.04835891723633 L 682.5399780273438 660.7091064453125 C 682.5399780273438 666.3118896484375 681.2130737304688 671.7526245117188 678.5960693359375 676.8800659179688 C 676.0447998046875 681.878662109375 672.3802490234375 686.3779907226563 667.7041015625 690.253173828125 C 662.9866333007813 694.1625366210938 657.4833374023438 697.2353515625 651.3471069335938 699.3861694335938 C 644.9649658203125 701.6231689453125 638.1798095703125 702.7574462890625 631.1799926757813 702.7574462890625 Z" stroke="none"/>
+          <path d="M 54.3599853515625 6 C 27.6942138671875 6 6 23.51702880859375 6 45.04833984375 L 6 660.7090454101563 C 6 682.2404174804688 27.6942138671875 699.7574462890625 54.3599853515625 699.7574462890625 L 631.1799926757813 699.7574462890625 C 657.8457641601563 699.7574462890625 679.5399780273438 682.2404174804688 679.5399780273438 660.7090454101563 L 679.5399780273438 45.04833984375 C 679.5399780273438 23.51702880859375 657.8457641601563 6 631.1799926757813 6 L 54.3599853515625 6 M 54.3599853515625 0 L 631.1799926757813 0 C 661.2022094726563 0 685.5399780273438 20.1688232421875 685.5399780273438 45.04833984375 L 685.5399780273438 660.7090454101563 C 685.5399780273438 685.5885009765625 661.2022094726563 705.7574462890625 631.1799926757813 705.7574462890625 L 54.3599853515625 705.7574462890625 C 24.3377685546875 705.7574462890625 0 685.5885009765625 0 660.7090454101563 L 0 45.04833984375 C 0 20.1688232421875 24.3377685546875 0 54.3599853515625 0 Z" stroke="none" fill="#adbdf8"/>
+        </g>
+      </g>
+      <rect id="Rectangle_940" data-name="Rectangle 940" width="97" height="79" rx="25" transform="translate(1324 443)" fill="#476aea"/>
+      <rect id="Rectangle_939" data-name="Rectangle 939" width="248" height="45" rx="5" transform="translate(1248 483)" fill="#7c96f3"/>
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="12" cy="12" r="12" transform="translate(1360 452)" fill="#fff"/>
+    </g>
+    <g id="chart-2" data-name="chart" transform="translate(-59.655 -197.981)">
+      <g transform="matrix(1, 0, 0, 1, 59.66, 197.98)" filter="url(#Path_287-2)">
+        <g id="Path_287-4" data-name="Path 287" transform="translate(968.34 299.38)" fill="#fff">
+          <path d="M 631.1799926757813 702.7574462890625 L 54.35998916625977 702.7574462890625 C 47.36017227172852 702.7574462890625 40.57508087158203 701.6231689453125 34.19298934936523 699.3861694335938 C 28.05671691894531 697.2353515625 22.55335235595703 694.1625366210938 17.83589744567871 690.253173828125 C 13.1598072052002 686.3781127929688 9.495170593261719 681.8787231445313 6.943988800048828 676.8801879882813 C 4.326898097991943 671.7526245117188 2.999989032745361 666.3118896484375 2.999989032745361 660.7091064453125 L 2.999989032745361 45.04835891723633 C 2.999989032745361 39.44554138183594 4.326898097991943 34.00481414794922 6.943988800048828 28.87726783752441 C 9.495170593261719 23.87872314453125 13.1598072052002 19.37936019897461 17.83589744567871 15.50426864624023 C 22.55335235595703 11.59490489959717 28.05671691894531 8.522087097167969 34.19298934936523 6.371268749237061 C 40.57508087158203 4.134268760681152 47.36017227172852 2.999995946884155 54.35998916625977 2.999995946884155 L 631.1799926757813 2.999995946884155 C 638.1798095703125 2.999995946884155 644.9649658203125 4.134268760681152 651.3471069335938 6.371268749237061 C 657.4833374023438 8.522087097167969 662.9866333007813 11.59490489959717 667.7041015625 15.50426864624023 C 672.3802490234375 19.37936019897461 676.0447998046875 23.87872314453125 678.5960693359375 28.87726783752441 C 681.2130737304688 34.00481414794922 682.5399780273438 39.44554138183594 682.5399780273438 45.04835891723633 L 682.5399780273438 660.7091064453125 C 682.5399780273438 666.3118896484375 681.2130737304688 671.7526245117188 678.5960693359375 676.8801879882813 C 676.0447998046875 681.8787231445313 672.3802490234375 686.3781127929688 667.7041015625 690.253173828125 C 662.9866333007813 694.1625366210938 657.4833374023438 697.2353515625 651.3471069335938 699.3861694335938 C 644.9649658203125 701.6231689453125 638.1798095703125 702.7574462890625 631.1799926757813 702.7574462890625 Z" stroke="none"/>
+          <path d="M 54.3599853515625 6 C 27.6942138671875 6 6 23.51702880859375 6 45.04833984375 L 6 660.7091064453125 C 6 682.2404174804688 27.6942138671875 699.7574462890625 54.3599853515625 699.7574462890625 L 631.1799926757813 699.7574462890625 C 657.8457641601563 699.7574462890625 679.5399780273438 682.2404174804688 679.5399780273438 660.7091064453125 L 679.5399780273438 45.04833984375 C 679.5399780273438 23.51702880859375 657.8457641601563 6 631.1799926757813 6 L 54.3599853515625 6 M 54.3599853515625 0 L 631.1799926757813 0 C 661.2022094726563 0 685.5399780273438 20.1688232421875 685.5399780273438 45.04833984375 L 685.5399780273438 660.7091064453125 C 685.5399780273438 685.588623046875 661.2022094726563 705.7574462890625 631.1799926757813 705.7574462890625 L 54.3599853515625 705.7574462890625 C 24.3377685546875 705.7574462890625 0 685.588623046875 0 660.7091064453125 L 0 45.04833984375 C 0 20.1688232421875 24.3377685546875 0 54.3599853515625 0 Z" stroke="none" fill="#adbdf8"/>
+        </g>
+      </g>
+      <rect id="Rectangle_940-2" data-name="Rectangle 940" width="97" height="70" rx="25" transform="translate(1324 443)" fill="#476aea"/>
+      <circle id="Ellipse_2-2" data-name="Ellipse 2" cx="12" cy="12" r="12" transform="translate(1358.77 452)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_151" data-name="Rectangle 151" width="605" height="40" rx="4" transform="translate(305.884 404.02)" fill="#adbdf8"/>
+    <text id="DATE" transform="translate(387.884 428.02)" fill="#2c57f3" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-15.888" y="0">DATE</tspan></text>
+    <text id="VIEWED_ALL" data-name="VIEWED ALL" transform="translate(815.884 428.02)" fill="#2c57f3" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-36.776" y="0">VIEWED ALL</tspan></text>
+    <text id="CLINICIAN" transform="translate(509.884 428.02)" fill="#2c57f3" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-30.331" y="0">CLINICIAN</tspan></text>
+    <text id="SPECIALITY" transform="translate(675.884 428.02)" fill="#2c57f3" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-35.338" y="0">SPECIALITY</tspan></text>
+    <rect id="Rectangle_151-2" data-name="Rectangle 151" width="604" height="40" rx="4" transform="translate(306.884 464.02)" fill="#e7ebfb"/>
+    <text id="_04_03_2021" data-name="04/03/2021" transform="translate(392.884 488.02)" fill="#646464" font-size="12" font-family="ArialMT, Arial"><tspan x="-30.029" y="0">04/03/2021</tspan></text>
+    <text id="False" transform="translate(809.884 488.02)" fill="#646464" font-size="12" font-family="ArialMT, Arial"><tspan x="-14.672" y="0">False</tspan></text>
+    <text id="General_Practioner" data-name="General Practioner" transform="translate(638.884 488.02)" fill="#646464" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">General Practioner</tspan></text>
+    <text id="Ezperanza_Gorgonia" data-name="Ezperanza Gorgonia" transform="translate(477.884 488.02)" fill="#646464" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Ezperanza Gorgonia</tspan></text>
+    <path id="Path_290" data-name="Path 290" d="M4,0H601a4,4,0,0,1,4,4V36a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" transform="translate(306.884 524.02)" fill="#e7ebfb"/>
+    <text id="_09_01_2009" data-name="09/01/2009" transform="translate(392.884 548.02)" fill="#646464" font-size="12" font-family="ArialMT, Arial"><tspan x="-30.029" y="0">09/01/2009</tspan></text>
+    <text id="False-2" data-name="False" transform="translate(809.884 548.02)" fill="#646464" font-size="12" font-family="ArialMT, Arial"><tspan x="-14.672" y="0">False</tspan></text>
+    <text id="General_Practioner-2" data-name="General Practioner" transform="translate(638.884 548.02)" fill="#646464" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">General Practioner</tspan></text>
+    <text id="Remedios_Diaz" data-name="Remedios Diaz" transform="translate(477.884 548.02)" fill="#646464" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Remedios Diaz</tspan></text>
+    <rect id="Rectangle_151-3" data-name="Rectangle 151" width="605" height="40" rx="4" transform="translate(306.884 584.02)" fill="#e7ebfb"/>
+    <text id="_12_23_2000" data-name="12/23/2000" transform="translate(392.884 608.02)" fill="#646464" font-size="12" font-family="ArialMT, Arial"><tspan x="-30.029" y="0">12/23/2000</tspan></text>
+    <text id="False-3" data-name="False" transform="translate(809.884 608.02)" fill="#646464" font-size="12" font-family="ArialMT, Arial"><tspan x="-14.672" y="0">False</tspan></text>
+    <text id="General_Doctor" data-name="General Doctor" transform="translate(638.884 608.02)" fill="#646464" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">General Doctor</tspan></text>
+    <text id="Martin_Lex" data-name="Martin Lex" transform="translate(477.884 608.02)" fill="#646464" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Martin Lex</tspan></text>
+    <rect id="Rectangle_151-4" data-name="Rectangle 151" width="605" height="40" rx="4" transform="translate(306.884 644.02)" fill="#e7ebfb"/>
+    <text id="_04_03_2021-2" data-name="04/03/2021" transform="translate(392.884 668.02)" fill="#646464" font-size="12" font-family="ArialMT, Arial"><tspan x="-30.029" y="0">04/03/2021</tspan></text>
+    <text id="False-4" data-name="False" transform="translate(809.884 668.02)" fill="#646464" font-size="12" font-family="ArialMT, Arial"><tspan x="-14.672" y="0">False</tspan></text>
+    <text id="General_Practioner-3" data-name="General Practioner" transform="translate(638.884 668.02)" fill="#646464" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">General Practioner</tspan></text>
+    <text id="Sandara_Park" data-name="Sandara Park" transform="translate(477.884 668.02)" fill="#646464" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Sandara Park</tspan></text>
+    <rect id="Rectangle_151-5" data-name="Rectangle 151" width="605" height="40" rx="4" transform="translate(306.884 704.02)" fill="#e7ebfb"/>
+    <text id="_04_03_2021-3" data-name="04/03/2021" transform="translate(392.884 728.02)" fill="#646464" font-size="12" font-family="ArialMT, Arial"><tspan x="-30.029" y="0">04/03/2021</tspan></text>
+    <text id="False-5" data-name="False" transform="translate(809.884 728.02)" fill="#646464" font-size="12" font-family="ArialMT, Arial"><tspan x="-14.672" y="0">False</tspan></text>
+    <text id="General_Practioner-4" data-name="General Practioner" transform="translate(638.884 728.02)" fill="#646464" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">General Practioner</tspan></text>
+    <text id="Angel_Locsin" data-name="Angel Locsin" transform="translate(477.884 728.02)" fill="#646464" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Angel Locsin</tspan></text>
+    <rect id="Rectangle_151-6" data-name="Rectangle 151" width="605" height="40" rx="4" transform="translate(306.884 764.02)" fill="#e7ebfb"/>
+    <rect id="Rectangle_151-7" data-name="Rectangle 151" width="605" height="40" rx="4" transform="translate(306.884 824.02)" fill="#e7ebfb"/>
+    <rect id="Rectangle_151-8" data-name="Rectangle 151" width="605" height="40" rx="4" transform="translate(306.884 884.02)" fill="#e7ebfb"/>
+    <text id="_04_03_2021-4" data-name="04/03/2021" transform="translate(392.884 788.02)" fill="#646464" font-size="12" font-family="ArialMT, Arial"><tspan x="-30.029" y="0">04/03/2021</tspan></text>
+    <text id="True" transform="translate(809.884 788.02)" fill="#646464" font-size="12" font-family="ArialMT, Arial"><tspan x="-12.114" y="0">True</tspan></text>
+    <text id="Emergency_Doctor" data-name="Emergency Doctor" transform="translate(638.884 788.02)" fill="#646464" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Emergency Doctor</tspan></text>
+    <text id="Jessy_James" data-name="Jessy James" transform="translate(477.884 788.02)" fill="#646464" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Jessy James</tspan></text>
+    <text id="Viewing_History" data-name="Viewing History" transform="translate(609.884 376.019)" fill="#2c57f3" font-size="36" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-134.701" y="0">Viewing History</tspan></text>
+    <g id="update" transform="translate(572.884 94.019)">
+      <g id="title" transform="translate(434 330)" style="isolation: isolate">
+        <rect id="Rectangle_151-9" data-name="Rectangle 151" width="605" height="40" rx="4" transform="translate(1 -20)" fill="#adbdf8"/>
+        <text id="DATE-2" data-name="DATE" transform="translate(70 4)" fill="#2c57f3" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-15.888" y="0">DATE</tspan></text>
+        <text id="INFORMATION_CHANGED" data-name="INFORMATION CHANGED" transform="translate(246 4)" fill="#2c57f3" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-73.884" y="0">INFORMATION CHANGED</tspan></text>
+      </g>
+      <g id="Login" transform="translate(416 390)" style="isolation: isolate">
+        <rect id="Rectangle_151-10" data-name="Rectangle 151" width="604" height="40" rx="4" transform="translate(20 -20)" fill="#e7ebfb"/>
+        <text id="_02_22_2021" data-name="02/22/2021" transform="translate(90 4)" fill="#646464" font-size="12" font-family="ArialMT, Arial"><tspan x="-30.029" y="0">02/22/2021</tspan></text>
+        <text id="Address_Marital_Status_Emergency_Contact_Full_Name" data-name="Address, Marital Status, Emergency Contact, Full Name" transform="translate(190 4)" fill="#646464" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Address, Marital Status, Emergency Contact, Full Name</tspan></text>
+      </g>
+      <g id="Login-2" data-name="Login" transform="translate(416 450)" style="isolation: isolate">
+        <rect id="Rectangle_151-11" data-name="Rectangle 151" width="604" height="40" rx="4" transform="translate(20 -20)" fill="#e7ebfb"/>
+        <text id="_02_01_2021" data-name="02/01/2021" transform="translate(90 4)" fill="#646464" font-size="12" font-family="ArialMT, Arial"><tspan x="-30.029" y="0">02/01/2021</tspan></text>
+        <text id="Address" transform="translate(189 4)" fill="#646464" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Address</tspan></text>
+      </g>
+      <g id="Login-3" data-name="Login" transform="translate(416 510)" style="isolation: isolate">
+        <rect id="Rectangle_151-12" data-name="Rectangle 151" width="604" height="40" rx="4" transform="translate(20 -20)" fill="#e7ebfb"/>
+        <text id="_11_13_2020" data-name="11/13/2020" transform="translate(90 4)" fill="#646464" font-size="12" font-family="ArialMT, Arial"><tspan x="-29.584" y="0">11/13/2020</tspan></text>
+        <text id="Phone_Number" data-name="Phone Number" transform="translate(189 4)" fill="#646464" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Phone Number</tspan></text>
+      </g>
+      <g id="Login-4" data-name="Login" transform="translate(416 570)" style="isolation: isolate">
+        <rect id="Rectangle_151-13" data-name="Rectangle 151" width="604" height="40" rx="4" transform="translate(20 -20)" fill="#e7ebfb"/>
+      </g>
+      <g id="Login-5" data-name="Login" transform="translate(416 630)" style="isolation: isolate">
+        <rect id="Rectangle_151-14" data-name="Rectangle 151" width="604" height="40" rx="4" transform="translate(20 -20)" fill="#e7ebfb"/>
+      </g>
+      <g id="Login-6" data-name="Login" transform="translate(416 690)" style="isolation: isolate">
+        <rect id="Rectangle_151-15" data-name="Rectangle 151" width="604" height="40" rx="4" transform="translate(20 -20)" fill="#e7ebfb"/>
+      </g>
+      <g id="Login-7" data-name="Login" transform="translate(416 750)" style="isolation: isolate">
+        <rect id="Rectangle_151-16" data-name="Rectangle 151" width="604" height="40" rx="4" transform="translate(20 -20)" fill="#e7ebfb"/>
+      </g>
+      <g id="Login-8" data-name="Login" transform="translate(416 810)" style="isolation: isolate">
+        <rect id="Rectangle_151-17" data-name="Rectangle 151" width="604" height="40" rx="4" transform="translate(20 -20)" fill="#e7ebfb"/>
+      </g>
+      <text id="Update_History" data-name="Update History" transform="translate(738 282)" fill="#2c57f3" font-size="36" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-128.021" y="0">Update History</tspan></text>
+      <g id="Login-9" data-name="Login" transform="translate(416 870)" style="isolation: isolate">
+        <rect id="Rectangle_151-18" data-name="Rectangle 151" width="604" height="40" rx="4" transform="translate(20 -20)" fill="#e7ebfb"/>
+      </g>
+    </g>
+    <rect id="Rectangle_943" data-name="Rectangle 943" width="248" height="45" rx="5" transform="translate(1187.114 285.019)" fill="#7c96f3"/>
+    <rect id="Rectangle_954" data-name="Rectangle 954" width="605" height="40" rx="4" transform="translate(305.883 944.02)" fill="#e7ebfb"/>
+    <g id="key" transform="translate(-813.757 -69.088)">
+      <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="111.604" cy="48.093" rx="111.604" ry="48.093" transform="translate(871.711 295.745)" fill="#cbd5fb"/>
+      <g id="Path_38" data-name="Path 38" transform="translate(859.745 171.945)" fill="url(#radial-gradient)">
+        <path d="M123.8,0A123.842,123.842,0,0,1,233,182.182c-20.887,38.953-61.952,45-109.2,45-47.041,0-87.953-5.815-108.964-44.563A123.84,123.84,0,0,1,123.8,0Z" stroke="none"/>
+        <path d="M 123.8002624511719 8 C 59.94776916503906 8 8 59.94776916503906 8 123.8002777099609 C 8 143.050048828125 12.79580688476563 162.0695037841797 21.86898803710938 178.8025512695313 C 40.09988403320313 212.4247436523438 74.38729858398438 219.1791687011719 123.8002624511719 219.1791687011719 C 171.9882202148438 219.1791687011719 207.8001098632813 212.2446594238281 225.9472961425781 178.4017028808594 C 234.8793029785156 161.7443237304688 239.6005249023438 142.8634338378906 239.6005249023438 123.8002777099609 C 239.6005249023438 59.94776916503906 187.6527709960938 8 123.8002624511719 8 M 123.8002624511719 0 C 192.1732635498047 0 247.6005249023438 55.42727661132813 247.6005249023438 123.8002777099609 C 247.6005249023438 144.9275512695313 242.3083038330078 164.8187408447266 232.9976501464844 182.1822357177734 C 212.1104583740234 221.1350860595703 171.0459899902344 227.1791687011719 123.8002624511719 227.1791687011719 C 76.7596435546875 227.1791687011719 35.8468017578125 221.3643493652344 14.8363037109375 182.6158447265625 C 5.395492553710938 165.2048187255859 0 145.1326599121094 0 123.8002777099609 C 0 55.42727661132813 55.42726135253906 0 123.8002624511719 0 Z" stroke="none" fill="rgba(173,189,248,0.17)"/>
+      </g>
+      <path id="Path_31" data-name="Path 31" d="M9130.117-2223.8l21.228-12.748,66.28,38.726a12.481,12.481,0,0,1,1.712,1.679c.436.632.808,1.146.808,1.146a13.421,13.421,0,0,1,.877,1.484,13.756,13.756,0,0,1,.8,2.149l.094,66.031a3.46,3.46,0,0,1-.231,1.2,1.9,1.9,0,0,1-.681.758l-16.9,9.956.834-1.971.233-56.878a20.965,20.965,0,0,0-1.1-6.958,8.417,8.417,0,0,0-3.541-3.928Z" transform="translate(-8189.662 2483.441)" fill="url(#linear-gradient)"/>
+      <path id="Path_30" data-name="Path 30" d="M9129.049-2208.452c13.264,8.01,55.588,32.484,69.236,40.367a6.767,6.767,0,0,1,3.144,3.991,33.973,33.973,0,0,1,.932,4.163v59.245a2.941,2.941,0,0,1-1.039,2.188,4.913,4.913,0,0,1-5.379,0l-66.507-38.727a14.644,14.644,0,0,1-3.1-3.772,15.136,15.136,0,0,1-1.43-4.723v-58.635a13.734,13.734,0,0,1,.445-2.676C9125.9-2208.446,9127.222-2209.555,9129.049-2208.452Z" transform="translate(-8186.848 2468.518)" fill="url(#linear-gradient-2)"/>
+      <path id="Path_33" data-name="Path 33" d="M9190.038-2125.844c4.413,1.751,6.689,4.475,8.581,9.614s1.682,9.541-1.422,10.366-6.267-.356-9.455-4.1-4.342-6.023-3.873-10.137S9185.622-2127.6,9190.038-2125.844Z" transform="translate(-8218.622 2423.942)" fill="#526dcf"/>
+      <path id="Path_34" data-name="Path 34" d="M9190.184-2091.026l-3.26,12.53,11.552,7.027-1.829-15.112a13.071,13.071,0,0,0-2.915-2.035A22.085,22.085,0,0,1,9190.184-2091.026Z" transform="translate(-8220.324 2404.893)" fill="url(#linear-gradient-3)"/>
+      <path id="Path_37" data-name="Path 37" d="M9169.567-2248.9c1.186-.074,7.4-4.294,7.4-4.294s-1.056-17.825.369-27.173,5.332-10.218,5.332-10.218-8.014,1.425-11.7,8.885-2.961,12.6-3.036,20.953S9169.567-2248.9,9169.567-2248.9Z" transform="translate(-8210.071 2512.608)" fill="#0e2d9d"/>
+      <path id="Path_36" data-name="Path 36" d="M9173.417-2309.087l12-6.314a41.536,41.536,0,0,1,15.017,3.273c8.036,3.368,17.228,14.438,17.228,14.438a61.6,61.6,0,0,1,12.512,25.218c1.265,5.346,1.733,7.219,1.733,7.219v29.068s-7.6,4.716-7.508,4.427-6.063-45.334-6.063-45.334-20.5-24.641-20.788-24.834S9173.417-2309.087,9173.417-2309.087Z" transform="translate(-8213.033 2526.005)" fill="#96abf5"/>
+      <path id="Path_35" data-name="Path 35" d="M9161.831-2256.788c-.289-.1-7.8-4.523-7.8-4.523s.142-2.853,0-8.47c-.315-12.381.359-32.951,12.034-34.554,3.768-.517,9.459-.907,14.822,1.732A51.813,51.813,0,0,1,9196-2291.439c4.1,4.322,7.766,8.275,11.16,14.5,1.511,2.766,4.336,10.334,4.336,10.334s2.188,4.981,2.791,14.727,0,25.6,0,25.6l-7.605-4.139s.77-23.582-.961-31.763c-4.668-14.269-7.866-16.579-10.3-20.021-6.648-9.4-15.364-13.381-21.271-13.282a11.511,11.511,0,0,0-7.533,3.217C9159.588-2287.448,9161.831-2256.788,9161.831-2256.788Z" transform="translate(-8202.54 2520.235)" fill="#526dcf"/>
+      <path id="Subtraction_1" data-name="Subtraction 1" d="M11.823,211.485c-3.491,0-7.6-.006-11.588-.045,38.03-.371,73.7-3.562,92.214-38.108a118,118,0,0,0,13.883-55.545A117.218,117.218,0,0,0,0,.541C3.76.181,7.582,0,11.36,0a116.858,116.858,0,0,1,45.81,9.256A117.591,117.591,0,0,1,77.163,20.117,118.594,118.594,0,0,1,94.583,34.5a118.735,118.735,0,0,1,14.372,17.433A117.669,117.669,0,0,1,119.8,71.939a117.132,117.132,0,0,1,9.249,45.848,118.378,118.378,0,0,1-3.623,29.115,117.106,117.106,0,0,1-10.259,26.43,63.883,63.883,0,0,1-18.213,21.595A70.988,70.988,0,0,1,72.892,206.3a144.032,144.032,0,0,1-28.765,4.429C33.727,211.427,22.466,211.485,11.823,211.485Z" transform="translate(973.883 175.167)" fill="rgba(254,254,254,0.22)"/>
+    </g>
+  </g>
+</svg>

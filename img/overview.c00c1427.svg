@@ -1,0 +1,186 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#476aea"/>
+      <stop offset="1" stop-color="#000827"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#adbdf8" stop-opacity="0"/>
+      <stop offset="1" stop-color="#dce4fe" stop-opacity="0.388"/>
+    </radialGradient>
+    <clipPath id="clip-overview">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="overview" clip-path="url(#clip-overview)">
+    <rect id="background" width="1920" height="1080" fill="#adbdf8"/>
+    <path id="desc" d="M40.838,0H1539.582c22.554,0,40.838,14.891,40.838,33.261v795.76c0,18.369-18.284,33.261-40.838,33.261H40.838C18.284,862.282,0,847.39,0,829.021V33.261C0,14.891,18.284,0,40.838,0Z" transform="translate(169.79 167.719)" fill="#fff"/>
+    <text id="OVERVIEW-2" data-name="OVERVIEW" transform="translate(960 250)" fill="#2c57f3" font-size="36" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-96.688" y="0">OVERVIEW</tspan></text>
+    <g id="logo" transform="translate(-132.533 -17.551)">
+      <g id="logo-2" data-name="logo" transform="translate(181.944 120.408)">
+        <g id="logo_consentForm" transform="translate(0 0)">
+          <g id="heart_beating" transform="translate(0 0)">
+            <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="81.113" cy="16.183" rx="81.113" ry="16.183" transform="translate(40.633 181.246)" fill="#cbd5fb"/>
+            <path id="Path_271" data-name="Path 271" d="M4756.1,2640.217s-9.177-11.461-24.553-14.029c-8.972-1.5-23.07,1.617-31.143,7.839-16.937,12.918-15.414,38.332-15.414,38.332s.7,13.5,11.221,30.961,15.876,24.259,30.864,38.866,29.085,19.568,29.085,19.568a258.026,258.026,0,0,0,28.144-19.568,138.373,138.373,0,0,0,21.662-23.178s10.057-14.239,14.01-24.3,4.919-26.8,4.919-26.8l-68.8,67.52-40.793-39.417s-7.274-7.611.846-15.9,15.394-1.524,15.394-1.524l24.553,25.545,62.065-61s-.89-1.336-1.361-1.974c-5.823-7.934-15.979-15.026-30.624-14.972C4767.417,2626.256,4756.1,2640.217,4756.1,2640.217Z" transform="translate(-4637.259 -2564.324)" fill="url(#linear-gradient)"/>
+            <path id="Path_274" data-name="Path 274" d="M848.42,164.541l91.146-90.746,2.2-2.191s3.666-4.971-.94-8.975-9.081.578-9.081.578l-2.372,2.306L848.42,144.22,822.076,116.8s-4.638-5.075-9.881,0-.892,10.455-.892,10.455Z" transform="translate(-729.58 0.503)" fill="#c5d0fa"/>
+            <g id="Path_38" data-name="Path 38" transform="translate(0 0)" fill="url(#radial-gradient)">
+              <path d="M120.38,0A120.42,120.42,0,0,1,226.56,177.149c-20.31,37.877-59.765,38.995-105.706,38.995-45.741,0-86-.9-106.428-38.573A120.419,120.419,0,0,1,120.38,0Z" stroke="none"/>
+              <path d="M 120.3797149658203 5 C 112.5480651855469 5 104.7228546142578 5.788711547851563 97.12139892578125 7.34417724609375 C 89.71568298339844 8.859619140625 82.43118286132813 11.12086486816406 75.47024536132813 14.06507873535156 C 68.63461303710938 16.95628356933594 62.04124450683594 20.53511047363281 55.87332153320313 24.70207214355469 C 49.76268005371094 28.830322265625 44.016357421875 33.571533203125 38.79393005371094 38.79393005371094 C 33.571533203125 44.016357421875 28.83035278320313 49.76268005371094 24.70207214355469 55.873291015625 C 20.53511047363281 62.041259765625 16.95628356933594 68.63461303710938 14.06507873535156 75.47026062011719 C 11.12086486816406 82.43115234375 8.859603881835938 89.71564483642578 7.34417724609375 97.12139892578125 C 5.788711547851563 104.7228622436523 5 112.5480728149414 5 120.3797225952148 C 5 130.1282653808594 6.215927124023438 139.812255859375 8.613967895507813 149.1627502441406 C 10.93840026855469 158.2261505126953 14.37281799316406 166.98193359375 18.82182312011719 175.1868896484375 C 21.14207458496094 179.4660034179688 23.81553649902344 183.3635406494141 26.76795959472656 186.7712860107422 C 29.58154296875 190.0187225341797 32.752685546875 192.9407958984375 36.193359375 195.4563598632813 C 42.66557312011719 200.1884002685547 50.272216796875 203.6888275146484 59.44789123535156 206.15771484375 C 67.43392944335938 208.3065032958984 76.81260681152344 209.7022857666016 88.11982727050781 210.4248962402344 C 98.50186157226563 211.0883636474609 109.5281066894531 211.1432952880859 120.8542861938477 211.1432952880859 C 131.6560974121094 211.1432952880859 143.0794677734375 211.0849761962891 153.5640258789063 210.3877868652344 C 164.77685546875 209.6421813964844 174.0740051269531 208.2168273925781 181.9867095947266 206.0302886962891 C 191.0380401611328 203.5291137695313 198.54736328125 199.9912109375 204.9437866210938 195.2145080566406 C 208.3406829833984 192.6777496337891 211.4764709472656 189.7314758300781 214.2639617919922 186.4575042724609 C 217.1872863769531 183.0239715576172 219.8417510986328 179.0970458984375 222.1535339355469 174.7857208251953 C 226.5398864746094 166.6055755615234 229.9230041503906 157.8980102539063 232.2088165283203 148.9048156738281 C 234.5648193359375 139.6356506347656 235.7594299316406 130.0384368896484 235.7594299316406 120.3797225952148 C 235.7594299316406 112.5480728149414 234.9707183837891 104.7228622436523 233.4152526855469 97.12139892578125 C 231.8998260498047 89.71564483642578 229.6385650634766 82.43115234375 226.6943511962891 75.47026062011719 C 223.8031463623047 68.63461303710938 220.2243194580078 62.041259765625 216.0573577880859 55.873291015625 C 211.9290771484375 49.76268005371094 207.1878967285156 44.016357421875 201.9654998779297 38.79393005371094 C 196.7430725097656 33.571533203125 190.9967498779297 28.830322265625 184.8861083984375 24.70207214355469 C 178.7181701660156 20.53511047363281 172.1248168945313 16.95628356933594 165.2891845703125 14.06507873535156 C 158.3282470703125 11.12086486816406 151.0437469482422 8.859619140625 143.6380310058594 7.34417724609375 C 136.0365753173828 5.788711547851563 128.2113647460938 5 120.3797149658203 5 M 120.3797149658203 0 C 186.8635711669922 0 240.7594299316406 53.89582824707031 240.7594299316406 120.3797225952148 C 240.7594299316406 140.9232177734375 235.6134338378906 160.2648315429688 226.5599975585938 177.1485748291016 C 206.2498931884766 215.0251770019531 166.7946472167969 216.1432952880859 120.8542861938477 216.1432952880859 C 75.11338806152344 216.1432952880859 34.85635375976563 215.2481536865234 14.4263916015625 177.5702209472656 C 5.246429443359375 160.6402893066406 0 141.1226806640625 0 120.3797225952148 C 0 53.89582824707031 53.89585876464844 0 120.3797149658203 0 Z" stroke="none" fill="rgba(173,189,248,0.14)"/>
+            </g>
+          </g>
+          <path id="Subtraction_1" data-name="Subtraction 1" d="M11.458,204.812c-3.383,0-7.364-.006-11.232-.043,36.861-.359,71.432-3.45,89.375-36.906a114.211,114.211,0,0,0,13.454-53.793A113.554,113.554,0,0,0,0,.524C3.645.176,7.348,0,11.01,0a113.33,113.33,0,0,1,44.4,8.964A114.031,114.031,0,0,1,74.786,19.482,114.651,114.651,0,0,1,105.6,50.294,113.961,113.961,0,0,1,116.113,69.67a113.334,113.334,0,0,1,8.965,44.4,114.457,114.457,0,0,1-3.513,28.2,113.273,113.273,0,0,1-9.942,25.6,61.868,61.868,0,0,1-17.649,20.913A68.838,68.838,0,0,1,70.646,199.8a139.757,139.757,0,0,1-27.879,4.289C32.688,204.756,21.774,204.812,11.458,204.812Z" transform="translate(108.761 5.666)" fill="rgba(254,254,254,0.22)"/>
+        </g>
+      </g>
+    </g>
+    <g id="_2_DIAGNOSIS" data-name="2 DIAGNOSIS" transform="translate(-152.199 78)">
+      <g id="file1" transform="translate(350 -29)">
+        <rect id="Rectangle_151" data-name="Rectangle 151" width="380" height="22" rx="4" transform="translate(572 304)" fill="#e7ebfb"/>
+        <text id="Hypertension" transform="translate(577 319)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Hypertension</tspan></text>
+        <text id="_10_1971" data-name="10/1971" transform="translate(772 319)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">10/1971</tspan></text>
+        <text id="Resolved" transform="translate(886 319)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Resolved</tspan></text>
+        <rect id="Rectangle_151-2" data-name="Rectangle 151" width="380" height="22" rx="4" transform="translate(572 272)" fill="#e7ebfb"/>
+        <text id="Pneumonia" transform="translate(577 287)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Pneumonia</tspan></text>
+        <text id="_01_1996" data-name="01/1996" transform="translate(772 287)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">01/1996</tspan></text>
+        <text id="Resolved-2" data-name="Resolved" transform="translate(886 287)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Resolved</tspan></text>
+        <text id="Status" transform="translate(889 260)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Status</tspan></text>
+        <text id="Date" transform="translate(779 260)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Date</tspan></text>
+        <text id="Medical_Condition" data-name="Medical Condition" transform="translate(579 260)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Medical Condition</tspan></text>
+      </g>
+    </g>
+    <g id="_3_IMMUNIZATION" data-name="3 IMMUNIZATION" transform="translate(-152.199 78)">
+      <g id="file1-2" data-name="file1" transform="translate(852 -29)">
+        <rect id="Rectangle_151-3" data-name="Rectangle 151" width="380" height="22" rx="4" transform="translate(572.2 432)" fill="#e7ebfb"/>
+        <text id="Mumps" transform="translate(577.2 447)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Mumps</tspan></text>
+        <text id="_10_1971-2" data-name="10/1971" transform="translate(772.2 447)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">10/1971</tspan></text>
+        <path id="Path_294" data-name="Path 294" d="M4,0H376a4,4,0,0,1,4,4V18a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" transform="translate(572.2 400)" fill="#e7ebfb"/>
+        <text id="Measles" transform="translate(577.2 415)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Measles</tspan></text>
+        <text id="_11_1976" data-name="11/1976" transform="translate(772.2 415)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">11/1976</tspan></text>
+        <path id="Path_293" data-name="Path 293" d="M4,0H376a4,4,0,0,1,4,4V18a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" transform="translate(572.2 368)" fill="#e7ebfb"/>
+        <text id="Polio" transform="translate(577.2 383)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Polio</tspan></text>
+        <text id="_01_1996-2" data-name="01/1996" transform="translate(772.2 383)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">01/1996</tspan></text>
+        <path id="Path_292" data-name="Path 292" d="M4,0H376a4,4,0,0,1,4,4V18a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" transform="translate(572.2 336)" fill="#e7ebfb"/>
+        <text id="Hepatitis_B" data-name="Hepatitis B" transform="translate(577.2 351)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Hepatitis B</tspan></text>
+        <text id="_08_1997" data-name="08/1997" transform="translate(772.2 351)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">08/1997</tspan></text>
+        <rect id="Rectangle_151-4" data-name="Rectangle 151" width="380" height="22" rx="4" transform="translate(572.2 304)" fill="#e7ebfb"/>
+        <text id="Diphleria" transform="translate(577.2 319)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Diphleria</tspan></text>
+        <text id="_07_2001" data-name="07/2001" transform="translate(772.2 319)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">07/2001</tspan></text>
+        <rect id="Rectangle_151-5" data-name="Rectangle 151" width="380" height="22" rx="4" transform="translate(572.2 272)" fill="#e7ebfb"/>
+        <text id="Rubella" transform="translate(577.2 287)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Rubella</tspan></text>
+        <text id="_09_2004" data-name="09/2004" transform="translate(772.2 287)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">09/2004</tspan></text>
+        <g id="details" transform="translate(5.8 -556)">
+          <text id="Recent_Date" data-name="Recent Date" transform="translate(757.2 818)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Recent Date</tspan></text>
+        </g>
+        <g id="details-2" data-name="details" transform="translate(-185.2 -558)">
+          <text id="Type" transform="translate(757.2 818)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Type</tspan></text>
+        </g>
+      </g>
+    </g>
+    <path id="Path_370" data-name="Path 370" d="M0,0V244" transform="translate(662.801 736)" fill="#476aea" stroke="#000" stroke-width="2" opacity="0.1"/>
+    <g id="_1_PATIENT_DETAILS" data-name="1 PATIENT DETAILS" transform="translate(-152.199 78)">
+      <rect id="Rectangle_151-6" data-name="Rectangle 151" width="160.875" height="22" rx="4" transform="translate(420.2 243)" fill="#e7ebfb"/>
+      <text id="Jane_Williams" data-name="Jane Williams" transform="translate(425.2 258)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Jane Williams</tspan></text>
+      <text id="Fullname" transform="translate(425 241)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Fullname</tspan></text>
+      <rect id="Rectangle_151-7" data-name="Rectangle 151" width="160.875" height="22" rx="4" transform="translate(420.2 287)" fill="#e7ebfb"/>
+      <text id="Female" transform="translate(425.2 302)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Female</tspan></text>
+      <text id="Sex" transform="translate(425 285)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Sex</tspan></text>
+      <rect id="Rectangle_151-8" data-name="Rectangle 151" width="160.875" height="22" rx="4" transform="translate(420.2 331)" fill="#e7ebfb"/>
+      <text id="_01_01_1960" data-name="01/01/1960" transform="translate(425.2 346)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">01/01/1960</tspan></text>
+      <text id="Date_of_Birth" data-name="Date of Birth" transform="translate(425 329)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Date of Birth</tspan></text>
+      <rect id="Rectangle_151-9" data-name="Rectangle 151" width="160.875" height="22" rx="4" transform="translate(420.2 375)" fill="#e7ebfb"/>
+      <text id="_905_455_3116" data-name="905 455 3116" transform="translate(425.2 390)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">905 455 3116</tspan></text>
+      <text id="Phone" transform="translate(425 373)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Phone</tspan></text>
+      <rect id="Rectangle_151-10" data-name="Rectangle 151" width="160.875" height="22" rx="4" transform="translate(420.2 419)" fill="#e7ebfb"/>
+      <text id="jane.williams2004_gmail.com" data-name="jane.williams2004@gmail.com" transform="translate(425.2 434)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">jane.williams2004@gmail.com</tspan></text>
+      <text id="Email_Address" data-name="Email Address" transform="translate(425 417)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Email Address</tspan></text>
+      <rect id="Rectangle_151-11" data-name="Rectangle 151" width="160.875" height="22" rx="4" transform="translate(420.2 460)" fill="#e7ebfb"/>
+      <text id="_12_Heaven_St._ON_1N1_2R2_" data-name="12 Heaven St. ON 1N1 2R2 " transform="translate(425.2 475)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">12 Heaven St. ON 1N1 2R2 </tspan></text>
+      <text id="Home_Address" data-name="Home Address" transform="translate(425 458)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Home Address</tspan></text>
+      <path id="Path_291" data-name="Path 291" d="M4,0H156.875a4,4,0,0,1,4,4V18a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" transform="translate(646.2 243)" fill="#e7ebfb"/>
+      <text id="Sunlife" transform="translate(651.2 258)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Sunlife</tspan></text>
+      <text id="Insurance_Provider:" data-name="Insurance Provider:" transform="translate(651 241)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Insurance Provider:</tspan></text>
+      <rect id="Rectangle_151-12" data-name="Rectangle 151" width="160.875" height="22" rx="4" transform="translate(646.2 287)" fill="#e7ebfb"/>
+      <text id="_356M59557" data-name="356M59557" transform="translate(651.2 302)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">356M59557</tspan></text>
+      <text id="Insurance_Policy_Number:" data-name="Insurance Policy Number:" transform="translate(651 285)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Insurance Policy Number:</tspan></text>
+      <rect id="Rectangle_151-13" data-name="Rectangle 151" width="160.875" height="22" rx="4" transform="translate(646.2 331)" fill="#e7ebfb"/>
+      <text id="Dr._Marie_Rose" data-name="Dr. Marie Rose" transform="translate(651.2 346)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Dr. Marie Rose</tspan></text>
+      <text id="Family_Doctor_Name:" data-name="Family Doctor Name:" transform="translate(651 329)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Family Doctor Name:</tspan></text>
+      <rect id="Rectangle_151-14" data-name="Rectangle 151" width="160.875" height="22" rx="4" transform="translate(646.2 375)" fill="#e7ebfb"/>
+      <text id="_416_222_3333" data-name="416 222 3333" transform="translate(651.2 390)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">416 222 3333</tspan></text>
+      <text id="Family_Doctor_Contact" data-name="Family Doctor Contact" transform="translate(651 373)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Family Doctor Contact</tspan></text>
+      <rect id="Rectangle_151-15" data-name="Rectangle 151" width="160.875" height="22" rx="4" transform="translate(646.2 419)" fill="#e7ebfb"/>
+      <text id="Jake_Williams" data-name="Jake  Williams" transform="translate(651.2 434)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0" xml:space="preserve">Jake  Williams</tspan></text>
+      <text id="Emergency_Contact_Name" data-name="Emergency Contact Name" transform="translate(651 417)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Emergency Contact Name</tspan></text>
+      <rect id="Rectangle_151-16" data-name="Rectangle 151" width="160.875" height="22" rx="4" transform="translate(646.2 460)" fill="#e7ebfb"/>
+      <text id="_416_444_5555" data-name="416 444 5555" transform="translate(651.2 475)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">416 444 5555</tspan></text>
+      <text id="Emergency_Contact_Phone_Number" data-name="Emergency Contact Phone Number" transform="translate(651 458)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Emergency Contact Phone Number</tspan></text>
+    </g>
+    <g id="_4_MEDICATION" data-name="4 MEDICATION" transform="translate(-152.199 78)">
+      <g id="file1-3" data-name="file1" transform="translate(-152 386)">
+        <rect id="Rectangle_151-17" data-name="Rectangle 151" width="380" height="22" rx="4" transform="translate(572.2 432)" fill="#e7ebfb"/>
+        <text id="Losartan_100mg" data-name="Losartan 100mg" transform="translate(577.2 447)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Losartan 100mg</tspan></text>
+        <text id="_10_1971-3" data-name="10/1971" transform="translate(772.2 447)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">10/1971</tspan></text>
+        <text id="Discontinued" transform="translate(876.2 447)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Discontinued</tspan></text>
+        <rect id="Rectangle_151-18" data-name="Rectangle 151" width="380" height="22" rx="4" transform="translate(572.2 400)" fill="#e7ebfb"/>
+        <text id="Simvastatin_25mg" data-name="Simvastatin 25mg" transform="translate(577.2 415)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Simvastatin 25mg</tspan></text>
+        <text id="_11_1976-2" data-name="11/1976" transform="translate(772.2 415)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">11/1976</tspan></text>
+        <text id="Discontinued-2" data-name="Discontinued" transform="translate(876.2 415)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Discontinued</tspan></text>
+        <rect id="Rectangle_151-19" data-name="Rectangle 151" width="380" height="22" rx="4" transform="translate(572.2 368)" fill="#e7ebfb"/>
+        <text id="Omeprazole_5mg" data-name="Omeprazole 5mg" transform="translate(577.2 383)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Omeprazole 5mg</tspan></text>
+        <text id="_01_1996-3" data-name="01/1996" transform="translate(772.2 383)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">01/1996</tspan></text>
+        <text id="Ongoing" transform="translate(876 383)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Ongoing</tspan></text>
+        <rect id="Rectangle_151-20" data-name="Rectangle 151" width="380" height="22" rx="4" transform="translate(572.2 336)" fill="#e7ebfb"/>
+        <text id="Metaprolol_50mg" data-name="Metaprolol 50mg" transform="translate(577.2 351)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Metaprolol 50mg</tspan></text>
+        <text id="_08_1997-2" data-name="08/1997" transform="translate(772.2 351)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">08/1997</tspan></text>
+        <text id="Ongoing-2" data-name="Ongoing" transform="translate(876 351)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Ongoing</tspan></text>
+        <rect id="Rectangle_151-21" data-name="Rectangle 151" width="380" height="22" rx="4" transform="translate(572.2 304)" fill="#e7ebfb"/>
+        <text id="Amlodipine_250mg" data-name="Amlodipine 250mg" transform="translate(577.2 319)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Amlodipine 250mg</tspan></text>
+        <text id="_07_2001-2" data-name="07/2001" transform="translate(772.2 319)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">07/2001</tspan></text>
+        <text id="Ongoing-3" data-name="Ongoing" transform="translate(876 319)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Ongoing</tspan></text>
+        <rect id="Rectangle_151-22" data-name="Rectangle 151" width="380" height="22" rx="4" transform="translate(572.2 272)" fill="#e7ebfb"/>
+        <text id="Metformin_25mg" data-name="Metformin 25mg" transform="translate(577.2 287)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Metformin 25mg</tspan></text>
+        <text id="_09_2004-2" data-name="09/2004" transform="translate(772.2 287)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">09/2004</tspan></text>
+        <text id="Ongoing-4" data-name="Ongoing" transform="translate(876 287)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Ongoing</tspan></text>
+        <g id="details-3" data-name="details" transform="translate(5.8 -556)">
+          <text id="Status-2" data-name="Status" transform="translate(883.2 816)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Status</tspan></text>
+          <text id="Date-2" data-name="Date" transform="translate(773.2 816)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Date</tspan></text>
+          <text id="Medications" transform="translate(572.2 816)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Medications</tspan></text>
+        </g>
+        <rect id="Rectangle_151-23" data-name="Rectangle 151" width="380" height="22" rx="4" transform="translate(572.2 496)" fill="#e7ebfb"/>
+        <text id="Lipitor_500mg" data-name="Lipitor 500mg" transform="translate(577.2 511)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Lipitor 500mg</tspan></text>
+        <text id="_10_1971-4" data-name="10/1971" transform="translate(772.2 511)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">10/1971</tspan></text>
+        <text id="Discontinued-3" data-name="Discontinued" transform="translate(876.2 511)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Discontinued</tspan></text>
+        <rect id="Rectangle_151-24" data-name="Rectangle 151" width="380" height="22" rx="4" transform="translate(572.2 464)" fill="#e7ebfb"/>
+        <text id="Neurontin_50mg" data-name="Neurontin 50mg" transform="translate(577.2 479)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Neurontin 50mg</tspan></text>
+        <text id="_10_1971-5" data-name="10/1971" transform="translate(772.2 479)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">10/1971</tspan></text>
+        <text id="Ongoing-5" data-name="Ongoing" transform="translate(876 479)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Ongoing</tspan></text>
+      </g>
+      <path id="Path_337" data-name="Path 337" transform="translate(843 657.5)" fill="#476aea" stroke="#000" stroke-width="2" opacity="0.1"/>
+      <path id="Path_338" data-name="Path 338" d="M3,0A3,3,0,0,1,6,3V49a3,3,0,0,1-6,0V3A3,3,0,0,1,3,0Z" transform="translate(812 660)" fill="#bbb"/>
+      <g id="Icon_ionic-ios-menu" data-name="Icon ionic-ios-menu" transform="translate(836.5 672.831)">
+        <path id="Path_339" data-name="Path 339" d="M8.51,10.474H4.674A.175.175,0,0,1,4.5,10.3h0a.175.175,0,0,1,.174-.174H8.51a.175.175,0,0,1,.174.174h0A.175.175,0,0,1,8.51,10.474Z" transform="translate(-28)" fill="#8f8f8f"/>
+        <path id="Path_340" data-name="Path 340" d="M8.51,17.224H4.674a.175.175,0,0,1-.174-.174h0a.175.175,0,0,1,.174-.174H8.51a.175.175,0,0,1,.174.174h0A.175.175,0,0,1,8.51,17.224Z" transform="translate(-28 -4.965)" fill="#8f8f8f"/>
+        <path id="Path_341" data-name="Path 341" d="M8.51,23.974H4.674A.175.175,0,0,1,4.5,23.8h0a.175.175,0,0,1,.174-.174H8.51a.175.175,0,0,1,.174.174h0A.175.175,0,0,1,8.51,23.974Z" transform="translate(-28 -9.93)" fill="#8f8f8f"/>
+      </g>
+    </g>
+    <g id="_5_ENCOUNTER_HISTORY" data-name="5 ENCOUNTER HISTORY" transform="translate(-152.199 78)">
+      <g id="file1-4" data-name="file1" transform="translate(350 386)">
+        <rect id="Rectangle_151-25" data-name="Rectangle 151" width="380" height="22" rx="4" transform="translate(572.2 272)" fill="#e7ebfb"/>
+        <text id="Emergency_Clinic" data-name="Emergency Clinic" transform="translate(577.2 287)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Emergency Clinic</tspan></text>
+        <text id="_10_1971-6" data-name="10/1971" transform="translate(772.2 287)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">10/1971</tspan></text>
+        <text id="Car_accident" data-name="Car accident" transform="translate(876.2 287)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Car accident</tspan></text>
+        <rect id="Rectangle_151-26" data-name="Rectangle 151" width="380" height="22" rx="4" transform="translate(572.2 304)" fill="#e7ebfb"/>
+        <text id="Walk-in_Clinic" data-name="Walk-in Clinic" transform="translate(577.2 319)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Walk-in Clinic</tspan></text>
+        <text id="_11_1970" data-name="11/1970" transform="translate(772.2 319)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">11/1970</tspan></text>
+        <text id="Checkup" transform="translate(876.2 319)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Checkup</tspan></text>
+        <rect id="Rectangle_151-27" data-name="Rectangle 151" width="380" height="22" rx="4" transform="translate(572.2 336)" fill="#e7ebfb"/>
+        <text id="Walk-in_Clinic-2" data-name="Walk-in Clinic" transform="translate(577.2 351)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Walk-in Clinic</tspan></text>
+        <text id="_01_1968" data-name="01/1968" transform="translate(772.2 351)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">01/1968</tspan></text>
+        <text id="Checkup-2" data-name="Checkup" transform="translate(876.2 351)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Checkup</tspan></text>
+        <text id="Reason" transform="translate(889 260)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Reason</tspan></text>
+        <text id="Date-3" data-name="Date" transform="translate(779 260)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Date</tspan></text>
+        <text id="Facility" transform="translate(573 260)" fill="#476aea" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Facility</tspan></text>
+      </g>
+      <path id="Path_370-2" data-name="Path 370" transform="translate(1345 657.5)" fill="#476aea" stroke="#000" stroke-width="2" opacity="0.1"/>
+    </g>
+  </g>
+</svg>
