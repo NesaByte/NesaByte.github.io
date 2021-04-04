@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e8e4d3" stop-opacity="0.451"/>
+      <stop offset="1" stop-color="#e8e4d3" stop-opacity="0.051"/>
+    </linearGradient>
+  </defs>
+  <g id="layer_bubbles" transform="translate(932.665 204.798)">
+    <ellipse id="Ellipse_30" data-name="Ellipse 30" cx="22.904" cy="22.956" rx="22.904" ry="22.956" transform="translate(589.487 700.328)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_31" data-name="Ellipse 31" cx="33.486" cy="33.516" rx="33.486" ry="33.516" transform="translate(516.168 290.56)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_32" data-name="Ellipse 32" cx="17.084" cy="17.1" rx="17.084" ry="17.1" transform="translate(117.074 16.01)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_33" data-name="Ellipse 33" cx="13.818" cy="13.836" rx="13.818" ry="13.836" transform="translate(339.451 46.952)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_34" data-name="Ellipse 34" cx="25.968" cy="25.992" rx="25.968" ry="25.992" transform="translate(613.068 667.754)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_35" data-name="Ellipse 35" cx="19.818" cy="19.836" rx="19.818" ry="19.836" transform="translate(27.335 359.784)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_36" data-name="Ellipse 36" cx="25.627" cy="25.65" rx="25.627" ry="25.65" transform="translate(40.939 170.036)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_37" data-name="Ellipse 37" cx="19.818" cy="19.836" rx="19.818" ry="19.836" transform="translate(750.148 426.88)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_38" data-name="Ellipse 38" cx="33.486" cy="33.516" rx="33.486" ry="33.516" transform="translate(92.192 149.067)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_39" data-name="Ellipse 39" cx="17.084" cy="17.1" rx="17.084" ry="17.1" transform="translate(208.813 66.22)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_40" data-name="Ellipse 40" cx="14.965" cy="14.978" rx="14.965" ry="14.978" transform="translate(583.139 84.734)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_41" data-name="Ellipse 41" cx="33.08" cy="33.11" rx="33.08" ry="33.11" transform="translate(78.994 257.45)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_42" data-name="Ellipse 42" cx="33.08" cy="33.11" rx="33.08" ry="33.11" transform="translate(33.485 18.514)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_43" data-name="Ellipse 43" cx="33.08" cy="33.11" rx="33.08" ry="33.11" transform="translate(124.88 -22.843)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_44" data-name="Ellipse 44" cx="33.08" cy="33.11" rx="33.08" ry="33.11" transform="translate(675.009 616)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_45" data-name="Ellipse 45" cx="33.08" cy="33.11" rx="33.08" ry="33.11" transform="translate(589.487 140.746)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_46" data-name="Ellipse 46" cx="33.08" cy="33.11" rx="33.08" ry="33.11" transform="translate(371.871 -26.548)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_47" data-name="Ellipse 47" cx="19.818" cy="19.836" rx="19.818" ry="19.836" transform="translate(105.062 547.847)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_79" data-name="Ellipse 79" cx="19.818" cy="19.836" rx="19.818" ry="19.836" transform="translate(-903.665 193.785)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_80" data-name="Ellipse 80" cx="25.627" cy="25.65" rx="25.627" ry="25.65" transform="translate(-890.061 4.036)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_81" data-name="Ellipse 81" cx="19.818" cy="19.836" rx="19.818" ry="19.836" transform="translate(-180.852 260.881)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_82" data-name="Ellipse 82" cx="33.486" cy="33.516" rx="33.486" ry="33.516" transform="translate(-838.808 -16.933)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_83" data-name="Ellipse 83" cx="17.084" cy="17.1" rx="17.084" ry="17.1" transform="translate(-722.188 -99.78)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_84" data-name="Ellipse 84" cx="14.965" cy="14.978" rx="14.965" ry="14.978" transform="translate(-347.861 -81.266)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_85" data-name="Ellipse 85" cx="33.08" cy="33.11" rx="33.08" ry="33.11" transform="translate(-852.006 91.45)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_86" data-name="Ellipse 86" cx="33.08" cy="33.11" rx="33.08" ry="33.11" transform="translate(-897.515 -147.486)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_87" data-name="Ellipse 87" cx="33.08" cy="33.11" rx="33.08" ry="33.11" transform="translate(-806.12 -188.842)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_88" data-name="Ellipse 88" cx="33.08" cy="33.11" rx="33.08" ry="33.11" transform="translate(-255.991 450)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_89" data-name="Ellipse 89" cx="33.08" cy="33.11" rx="33.08" ry="33.11" transform="translate(-341.513 -25.254)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_90" data-name="Ellipse 90" cx="33.08" cy="33.11" rx="33.08" ry="33.11" transform="translate(-559.129 -192.548)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_91" data-name="Ellipse 91" cx="19.818" cy="19.836" rx="19.818" ry="19.836" transform="translate(-825.938 381.848)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_92" data-name="Ellipse 92" cx="22.904" cy="22.956" rx="22.904" ry="22.956" transform="translate(898.965 809.119)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_93" data-name="Ellipse 93" cx="33.486" cy="33.516" rx="33.486" ry="33.516" transform="translate(825.646 399.351)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_94" data-name="Ellipse 94" cx="17.084" cy="17.1" rx="17.084" ry="17.1" transform="translate(426.552 124.801)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_95" data-name="Ellipse 95" cx="13.818" cy="13.836" rx="13.818" ry="13.836" transform="translate(648.929 155.742)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_96" data-name="Ellipse 96" cx="25.968" cy="25.992" rx="25.968" ry="25.992" transform="translate(922.546 776.544)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_97" data-name="Ellipse 97" cx="19.818" cy="19.836" rx="19.818" ry="19.836" transform="translate(336.813 468.575)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_98" data-name="Ellipse 98" cx="25.627" cy="25.65" rx="25.627" ry="25.65" transform="translate(350.417 278.826)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_99" data-name="Ellipse 99" cx="22.904" cy="22.956" rx="22.904" ry="22.956" transform="translate(-340.488 802.313)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_100" data-name="Ellipse 100" cx="33.486" cy="33.516" rx="33.486" ry="33.516" transform="translate(-413.808 392.545)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_101" data-name="Ellipse 101" cx="17.084" cy="17.1" rx="17.084" ry="17.1" transform="translate(-812.901 117.995)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_102" data-name="Ellipse 102" cx="13.818" cy="13.836" rx="13.818" ry="13.836" transform="translate(-590.524 148.937)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_103" data-name="Ellipse 103" cx="25.968" cy="25.992" rx="25.968" ry="25.992" transform="translate(-316.907 769.739)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_104" data-name="Ellipse 104" cx="19.818" cy="19.836" rx="19.818" ry="19.836" transform="translate(-902.641 461.769)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_105" data-name="Ellipse 105" cx="25.627" cy="25.65" rx="25.627" ry="25.65" transform="translate(-889.036 272.02)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_106" data-name="Ellipse 106" cx="33.486" cy="33.516" rx="33.486" ry="33.516" transform="translate(364.72 718.859)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_107" data-name="Ellipse 107" cx="19.818" cy="19.836" rx="19.818" ry="19.836" transform="translate(-124.113 788.083)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_108" data-name="Ellipse 108" cx="25.627" cy="25.65" rx="25.627" ry="25.65" transform="translate(-110.509 598.334)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_109" data-name="Ellipse 109" cx="33.486" cy="33.516" rx="33.486" ry="33.516" transform="translate(-59.255 577.365)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_110" data-name="Ellipse 110" cx="33.08" cy="33.11" rx="33.08" ry="33.11" transform="translate(-72.454 685.749)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_111" data-name="Ellipse 111" cx="25.627" cy="25.65" rx="25.627" ry="25.65" transform="translate(198.969 707.125)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_112" data-name="Ellipse 112" cx="13.818" cy="13.836" rx="13.818" ry="13.836" transform="translate(855.619 -102.496)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_113" data-name="Ellipse 113" cx="33.08" cy="33.11" rx="33.08" ry="33.11" transform="translate(549.654 -130.934)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_114" data-name="Ellipse 114" cx="33.08" cy="33.11" rx="33.08" ry="33.11" transform="translate(641.048 -172.29)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_115" data-name="Ellipse 115" cx="33.08" cy="33.11" rx="33.08" ry="33.11" transform="translate(888.039 -175.996)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_116" data-name="Ellipse 116" cx="13.818" cy="13.836" rx="13.818" ry="13.836" transform="translate(-573.283 738.762)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_117" data-name="Ellipse 117" cx="33.08" cy="33.11" rx="33.08" ry="33.11" transform="translate(-879.249 710.324)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_118" data-name="Ellipse 118" cx="33.08" cy="33.11" rx="33.08" ry="33.11" transform="translate(-787.854 668.968)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_119" data-name="Ellipse 119" cx="33.08" cy="33.11" rx="33.08" ry="33.11" transform="translate(-540.863 665.261)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_120" data-name="Ellipse 120" cx="25.627" cy="25.65" rx="25.627" ry="25.65" transform="translate(-588.79 312.748)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_121" data-name="Ellipse 121" cx="33.486" cy="33.516" rx="33.486" ry="33.516" transform="translate(-537.536 291.78)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_122" data-name="Ellipse 122" cx="33.08" cy="33.11" rx="33.08" ry="33.11" transform="translate(-550.735 400.163)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_123" data-name="Ellipse 123" cx="33.08" cy="33.11" rx="33.08" ry="33.11" transform="translate(-596.243 161.226)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_124" data-name="Ellipse 124" cx="33.08" cy="33.11" rx="33.08" ry="33.11" transform="translate(-504.849 119.87)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_125" data-name="Ellipse 125" cx="19.818" cy="19.836" rx="19.818" ry="19.836" transform="translate(787.895 449.504)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_126" data-name="Ellipse 126" cx="25.627" cy="25.65" rx="25.627" ry="25.65" transform="translate(801.499 259.755)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_127" data-name="Ellipse 127" cx="33.486" cy="33.516" rx="33.486" ry="33.516" transform="translate(852.752 238.786)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_128" data-name="Ellipse 128" cx="33.08" cy="33.11" rx="33.08" ry="33.11" transform="translate(839.554 347.169)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_129" data-name="Ellipse 129" cx="33.08" cy="33.11" rx="33.08" ry="33.11" transform="translate(794.045 108.233)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_130" data-name="Ellipse 130" cx="33.08" cy="33.11" rx="33.08" ry="33.11" transform="translate(885.44 66.877)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_131" data-name="Ellipse 131" cx="19.818" cy="19.836" rx="19.818" ry="19.836" transform="translate(579.708 350.6)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_132" data-name="Ellipse 132" cx="33.08" cy="33.11" rx="33.08" ry="33.11" transform="translate(504.569 539.719)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_133" data-name="Ellipse 133" cx="33.08" cy="33.11" rx="33.08" ry="33.11" transform="translate(419.047 64.465)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_134" data-name="Ellipse 134" cx="33.486" cy="33.516" rx="33.486" ry="33.516" transform="translate(346.752 482.264)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_135" data-name="Ellipse 135" cx="25.627" cy="25.65" rx="25.627" ry="25.65" transform="translate(171.771 402.467)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_136" data-name="Ellipse 136" cx="33.486" cy="33.516" rx="33.486" ry="33.516" transform="translate(223.024 381.499)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_137" data-name="Ellipse 137" cx="33.08" cy="33.11" rx="33.08" ry="33.11" transform="translate(209.825 489.881)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_138" data-name="Ellipse 138" cx="33.08" cy="33.11" rx="33.08" ry="33.11" transform="translate(164.317 250.945)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_139" data-name="Ellipse 139" cx="33.08" cy="33.11" rx="33.08" ry="33.11" transform="translate(255.711 209.589)" fill="url(#linear-gradient)"/>
+    <line id="Line_12" data-name="Line 12" y2="1080" transform="translate(14.335 -204.798)" fill="none"/>
+    <line id="Line_13" data-name="Line 13" x2="1920" transform="translate(-932.665 205.202)" fill="none"/>
+  </g>
+</svg>
