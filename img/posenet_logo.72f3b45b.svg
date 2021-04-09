@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="294" height="294" viewBox="0 0 294 294">
+  <g id="posenet_logo" transform="translate(-1376 -1429)">
+    <circle id="Ellipse_174" data-name="Ellipse 174" cx="147" cy="147" r="147" transform="translate(1376 1429)" fill="#fff"/>
+    <path id="Path_391" data-name="Path 391" d="M7530.811,1623.172l105.966-61.693,106.5,61.693-106.5,63.053Z" transform="translate(-6117.342)" fill="#fff" stroke="#0f224a" stroke-width="7"/>
+    <path id="Path_392" data-name="Path 392" d="M7530.811,1623.172l105.966-61.693,106.5,61.693-106.5,63.053Z" transform="translate(-6117.342 -33)" fill="#fff" stroke="#fedd7c" stroke-width="7"/>
+    <path id="Path_393" data-name="Path 393" d="M7530.811,1623.172l105.966-61.693,106.5,61.693-106.5,63.053Z" transform="translate(-6117.342 -65)" fill="#fff" stroke="#0f224a" stroke-width="7"/>
+    <g id="Ellipse_176" data-name="Ellipse 176" transform="translate(1475 1532)" fill="none" stroke="#fedd7c" stroke-width="3">
+      <ellipse cx="17" cy="11" rx="17" ry="11" stroke="none"/>
+      <ellipse cx="17" cy="11" rx="15.5" ry="9.5" fill="none"/>
+    </g>
+    <path id="Path_394" data-name="Path 394" d="M-.151,44.3,28.789,58.341,46.372,44.3l11.844-3.907L73.479,36.85,89.6,20.366,79.341-.271" transform="translate(1444.5 1515.5)" fill="none" stroke="#fedd7c" stroke-width="3"/>
+    <path id="Path_395" data-name="Path 395" d="M0,37,11.092,14.233-10.866,9.06,3.028,0,30.752-3.595,63,0" transform="translate(1523.5 1569.5)" fill="none" stroke="#fedd7c" stroke-width="3"/>
+    <line id="Line_69" data-name="Line 69" x2="18" y2="20" transform="translate(1492.5 1558.5)" fill="none" stroke="#fedd7c" stroke-width="3"/>
+    <line id="Line_70" data-name="Line 70" x2="9" y2="17" transform="translate(1517.5 1552.5)" fill="none" stroke="#fedd7c" stroke-width="3"/>
+  </g>
+</svg>

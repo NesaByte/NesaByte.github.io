@@ -1,0 +1,10 @@
+<svg id="mst_logo" xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <g id="mst" transform="translate(9 -3)">
+    <text id="My" transform="translate(1128 361)" fill="#fedd7c" font-size="50" font-family="LucidaSans-Demi, Lucida Sans" font-weight="300"><tspan x="0" y="0">My</tspan></text>
+    <text id="Tracker" transform="translate(1125 523)" fill="#fedd7c" font-size="100" font-family="LucidaSans-Demi, Lucida Sans" font-weight="300"><tspan x="0" y="0">Tracker</tspan></text>
+    <text id="Simple" transform="translate(1125 440)" fill="#fedd7c" font-size="100" font-family="LucidaSans-Demi, Lucida Sans" font-weight="300"><tspan x="0" y="0">Simple</tspan></text>
+  </g>
+  <line id="Line_10" data-name="Line 10" y2="1080" transform="translate(1147)" fill="none"/>
+  <line id="Line_11" data-name="Line 11" x2="1920" transform="translate(0 410)" fill="none"/>
+  <text id="A_cross-platform_martial_arts_education_mobile_application._" data-name="A cross-platform martial arts education mobile application. " transform="translate(1051 541)" fill="#fedd7c" font-size="20" font-family="LucidaSans-Demi, Lucida Sans" font-weight="300"><tspan x="0" y="19">A cross-platform martial arts education mobile application. </tspan></text>
+</svg>
