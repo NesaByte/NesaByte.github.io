@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="558" height="558" viewBox="0 0 558 558">
+  <g id="icon_vue" transform="translate(-1087 107)">
+    <path id="Path_422" data-name="Path 422" d="M0,0H154.815l47.056,81.755L247.732,0H406L201.871,347.448Z" transform="translate(1163 42)" fill="#f6cf39"/>
+    <path id="Path_423" data-name="Path 423" d="M0,0H80.731L202.437,209.415,322.513,0H406L201.871,347.448Z" transform="translate(1163 42)" fill="#b87b13"/>
+    <g id="Ellipse_140" data-name="Ellipse 140" transform="translate(1087 -107)" fill="none" stroke="#b87b13" stroke-width="14">
+      <circle cx="279" cy="279" r="279" stroke="none"/>
+      <circle cx="279" cy="279" r="272" fill="none"/>
+    </g>
+  </g>
+</svg>
