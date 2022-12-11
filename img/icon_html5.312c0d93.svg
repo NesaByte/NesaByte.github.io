@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="558" height="558" viewBox="0 0 558 558">
+  <g id="icon_html5" transform="translate(-511 -143)">
+    <g id="Ellipse_144" data-name="Ellipse 144" transform="translate(511 143)" fill="none" stroke="#a8703c" stroke-width="14">
+      <circle cx="279" cy="279" r="279" stroke="none"/>
+      <circle cx="279" cy="279" r="272" fill="none"/>
+    </g>
+    <path id="Path_427" data-name="Path 427" d="M0,0H156l-.82,349.2L21.666,305.751Z" transform="translate(645 271)" fill="#d6a758"/>
+    <path id="Path_428" data-name="Path 428" d="M0,0H154.056L131.535,305.356-.057,349.311Z" transform="translate(799 271)" fill="#a8703c"/>
+    <path id="Path_429" data-name="Path 429" d="M0,0H199l-2.649,41.738H45.885l3.16,48.791H193.254l-7.928,124.909L100,244.669,14.679,215.438l-3.16-43.452H54.576v13.43L100,199.637l43.452-14.221,3.95-52.205H9.077Z" transform="translate(699 323)" fill="#fff"/>
+  </g>
+</svg>

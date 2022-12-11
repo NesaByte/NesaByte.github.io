@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="558" height="558" viewBox="0 0 558 558">
+  <g id="icon_flutter" transform="translate(-729 -321)">
+    <g id="Ellipse_141" data-name="Ellipse 141" transform="translate(729 321)" fill="none" stroke="#a8703c" stroke-width="14">
+      <circle cx="279" cy="279" r="279" stroke="none"/>
+      <circle cx="279" cy="279" r="272" fill="none"/>
+    </g>
+    <path id="Path_425" data-name="Path 425" d="M4176,1738.94l169.708-168.149H4216.39l-104.253,103.9Z" transform="translate(-3213 -989)" fill="rgba(198,134,24,0.72)"/>
+    <path id="Path_426" data-name="Path 426" d="M4109.137,1855.339l61.138-60.595,171,169.974H4217.005Z" transform="translate(-3210 -1170)" fill="#a8703c"/>
+    <path id="Path_424" data-name="Path 424" d="M4019.456,1767.065l65.185,64.79,261.065-261.065H4216.39Z" transform="translate(-3210 -1170)" fill="#d5a556"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="558" height="558" viewBox="0 0 558 558">
+  <g id="icon_angular" transform="translate(-443 -195)">
+    <g id="Ellipse_151" data-name="Ellipse 151" transform="translate(443 195)" fill="none" stroke="#a8703c" stroke-width="14">
+      <circle cx="279" cy="279" r="279" stroke="none"/>
+      <circle cx="279" cy="279" r="272" fill="none"/>
+    </g>
+    <path id="Path_442" data-name="Path 442" d="M184.3,0,366,67.017,338.149,306.228,183.068,392.141,29.08,305.135,0,67.126Z" transform="translate(536 293)" fill="#efd6be"/>
+    <path id="Path_444" data-name="Path 444" d="M184.3,0,366,67.017,338.149,306.228,183.068,392.141Z" transform="translate(536 293)" fill="#a8703c"/>
+    <path id="Subtraction_8" data-name="Subtraction 8" d="M-2980-910.154h-45.563l-22.679-57.023h-94.65l-22.613,57.023H-3210L-3095-1170l115,259.844Zm-115-174h0l-33,80h66l-33-80Z" transform="translate(3815 1504.156)" fill="#fff"/>
+  </g>
+</svg>
