@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="178" height="68" viewBox="0 0 178 68">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="68" height="68" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="logo-aie" transform="translate(-119 -18)">
+    <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(119 18)" clip-path="url(#clip-path)">
+      <g id="icon-aei" transform="translate(0.011 0.381)">
+        <path id="Path_495" data-name="Path 495" d="M0,0,19.2,18.287s7.209,6.378,10.778,11.42c1.423,2.014,3.041,3.938,3.822,7.552s.383,4.979-.392,7.873c-1.063,3.982-3.6,9.485-9.537,12.2-10.06,4.61-20.6-2.573-20.6-2.573s1.93,5.163,4.729,7.664,6.165,1.182,7.543,2.694-2.032,3.356-2.032,3.356H0Z" transform="translate(34.227)" fill="#6f7882"/>
+        <path id="Path_496" data-name="Path 496" d="M34.227,0l-19.2,18.287S7.813,24.664,4.246,29.707C2.823,31.721,1.2,33.645.423,37.259s-.383,4.979.392,7.873c1.064,3.982,3.6,9.486,9.534,12.2,10.057,4.609,20.594-2.573,20.594-2.573s-1.93,5.163-4.729,7.664-6.165,1.182-7.543,2.694S20.7,68.478,20.7,68.478H34.227L35.9,33.038Z" transform="translate(0)" fill="#6f7882"/>
+        <path id="Path_497" data-name="Path 497" d="M34.227,0l-19.2,18.287S7.813,24.664,4.246,29.707C2.823,31.721,1.2,33.645.423,37.259s-.383,4.979.392,7.873c1.064,3.982,3.6,9.486,9.534,12.2,10.057,4.609,20.594-2.573,20.594-2.573S12.324,63.255,8.885,47.472,34.227,0,34.227,0Z" transform="translate(0)" fill="#939aa0"/>
+        <path id="Path_498" data-name="Path 498" d="M0,0,19.2,18.287s7.209,6.378,10.778,11.42c1.423,2.014,3.041,3.938,3.822,7.552s.383,4.979-.392,7.873c-1.063,3.982-3.6,9.485-9.537,12.2-10.06,4.61-20.6-2.573-20.6-2.573S21.9,63.255,25.34,47.472,0,0,0,0Z" transform="translate(34.227)" fill="#565f68"/>
+      </g>
+    </g>
+    <text id="Ace_Enterprise_Innovation" data-name="Ace
+Enterprise
+Innovation" transform="translate(190 42)" fill="#6f7882" font-size="23" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Ace</tspan><tspan x="0" y="19">Enterprise</tspan><tspan x="0" y="38">Innovation</tspan></text>
+  </g>
+</svg>

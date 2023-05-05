@@ -1,0 +1,17 @@
+<svg id="pricing-plane" xmlns="http://www.w3.org/2000/svg" width="195.758" height="96.068" viewBox="0 0 195.758 96.068">
+  <g id="Group_15" data-name="Group 15" transform="translate(0)">
+    <path id="Path_10" data-name="Path 10" d="M75.613,20.924C76.029,15.512,9.892,12.7,25.087,5.2s70.772-8.742,78.475-2.082-45.694.422-44.185,5.1,71.87,10.3,71.87,15.294-46.631,4.689-44.81,8.436,42.259-.109,52.095,6.552S109.439,54.854,113.706,61.1s31.279-3.024,41.895,2.388S123.647,82.959,131.247,86.91s60.165-17.818,59.948-6.562-72.124,17.912-87.634,12.7,22.062-12.484,7.23-19.874-66.971-.942-66.555-9.685,23.019-2.324,25.34-6.968c6.688-13.384-46.988-6.146-46.78-14.264S83,45.643,75.613,40.907,12.806,32.472-2.806,23.521,75.2,26.336,75.613,20.924Z" transform="translate(4.561 1.219)" fill="rgba(208,217,205,0.4)"/>
+  </g>
+  <g id="Group_17" data-name="Group 17" transform="translate(66.81 5.949)">
+    <path id="Path_13" data-name="Path 13" d="M11405.917,2335.147l55.23,55.582s12.141,4.725,16.538.855,1.051-16.334,1.051-16.334l-53.471-54.878s-11.964-3.694-16.8,0S11405.917,2335.147,11405.917,2335.147Z" transform="translate(-11400.431 -2318.731)" fill="none" stroke="#175935" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    <path id="Path_14" data-name="Path 14" d="M11428.007,2357.166l-21.231,22.481s-5.015,4.222,0,10.75,12.281.907,12.281.907l22.272-20.815Z" transform="translate(-11400.431 -2318.731)" fill="none" stroke="#175935" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    <path id="Path_15" data-name="Path 15" d="M11442.666,2338.64s8.158-10.9,18.754-2.8-1.148,20.7-1.148,20.7Z" transform="translate(-11400.431 -2318.731)" fill="none" stroke="#175935" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    <path id="Path_16" data-name="Path 16" d="M11414.894,2371.32s-7.214-8.728-12.718-4.58,3.767,12.282,3.767,12.282-4.515,8.071.877,12.49,12.237,0,12.237,0,6.5,8.871,12.1,5.011-3.15-12.921-3.15-12.921" transform="translate(-11400.431 -2318.731)" fill="none" stroke="#175935" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    <line id="Line_6" data-name="Line 6" x2="22" y2="21" transform="translate(50.069 5.769)" fill="none" stroke="#175935" stroke-linecap="round" stroke-width="4"/>
+    <line id="Line_7" data-name="Line 7" y1="17" x2="19" transform="translate(12.569 6.769)" fill="none" stroke="#175935" stroke-width="4"/>
+    <line id="Line_8" data-name="Line 8" y1="17" x2="19" transform="translate(17.569 13.769)" fill="none" stroke="#175935" stroke-width="4"/>
+    <line id="Line_9" data-name="Line 9" y1="18" x2="19" transform="translate(49.569 43.769)" fill="none" stroke="#175935" stroke-width="4"/>
+    <line id="Line_10" data-name="Line 10" y1="15" x2="17" transform="translate(55.569 50.769)" fill="none" stroke="#175935" stroke-width="4"/>
+    <line id="Line_11" data-name="Line 11" y1="6" x2="6" transform="translate(10.299 62.769)" fill="none" stroke="#175935" stroke-linecap="round" stroke-width="2"/>
+  </g>
+</svg>
