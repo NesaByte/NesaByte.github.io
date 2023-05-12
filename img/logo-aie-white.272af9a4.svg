@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="497" height="191" viewBox="0 0 497 191">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="191" height="191" transform="translate(0 0.14)" fill="#f2f4f0"/>
+    </clipPath>
+  </defs>
+  <g id="logo-aie-white" transform="translate(-119 -18.15)">
+    <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(119 18.01)" clip-path="url(#clip-path)">
+      <g id="icon-aei" transform="translate(0.031 1.062)">
+        <path id="Path_495" data-name="Path 495" d="M0,0,53.985,51.4s20.264,17.927,30.3,32.1c4,5.661,8.549,11.07,10.745,21.228s1.076,13.995-1.1,22.132c-2.988,11.193-10.128,26.662-26.809,34.308-28.279,12.959-57.894-7.233-57.894-7.233s5.427,14.514,13.293,21.543,17.33,3.323,21.2,7.573-5.711,9.435-5.711,9.435H0Z" transform="translate(96.212)" fill="#f2f4f0"/>
+        <path id="Path_496" data-name="Path 496" d="M96.212,0,42.227,51.4s-20.264,17.927-30.292,32.1c-4,5.661-8.549,11.07-10.745,21.228s-1.076,13.995,1.1,22.132c2.991,11.193,10.131,26.664,26.8,34.308,28.271,12.957,57.89-7.233,57.89-7.233s-5.427,14.514-13.293,21.543-17.33,3.323-21.2,7.573,5.711,9.435,5.711,9.435H96.212l4.7-99.622Z" transform="translate(0)" fill="#f2f4f0"/>
+        <path id="Path_497" data-name="Path 497" d="M96.212,0,42.227,51.4s-20.264,17.927-30.292,32.1c-4,5.661-8.549,11.07-10.745,21.228s-1.076,13.995,1.1,22.132c2.991,11.193,10.131,26.664,26.8,34.308,28.271,12.957,57.89-7.233,57.89-7.233s-52.336,23.87-62-20.5S96.212,0,96.212,0Z" transform="translate(0)" fill="#f2f4f0"/>
+        <path id="Path_498" data-name="Path 498" d="M0,0,53.985,51.4s20.264,17.927,30.3,32.1c4,5.661,8.549,11.07,10.745,21.228s1.076,13.995-1.1,22.132c-2.988,11.193-10.128,26.662-26.809,34.308-28.279,12.959-57.894-7.233-57.894-7.233s52.344,23.87,62.008-20.5S0,0,0,0Z" transform="translate(96.212)" fill="#f2f4f0"/>
+      </g>
+    </g>
+    <text id="Ace_Enterprise_Innovation" data-name="Ace
+Enterprise
+Innovation" transform="translate(318 85.15)" fill="#f2f4f0" font-size="64" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Ace</tspan><tspan x="0" y="53">Enterprise</tspan><tspan x="0" y="106">Innovation</tspan></text>
+  </g>
+</svg>
