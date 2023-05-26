@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="308" height="123" viewBox="0 0 308 123">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="123" height="123" transform="translate(-1 0)" fill="#175935"/>
+    </clipPath>
+  </defs>
+  <g id="logo-aie-green-beta" transform="translate(-118 -18.15)">
+    <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(119 18.15)" clip-path="url(#clip-path)">
+      <g id="icon-aei" transform="translate(0.02 0.579)">
+        <path id="Path_495" data-name="Path 495" d="M0,0,33.946,32.323S46.688,43.6,53,52.51c2.515,3.56,5.376,6.961,6.756,13.348S55,74.571,53.631,79.687c-1.879,7.038-5.1,13.781-15.585,18.588A34.756,34.756,0,0,1,5.8,96.8s3.412,9.126,8.359,13.546,10.9,2.089,13.332,4.762S23.9,121.04,23.9,121.04H0Z" transform="translate(60.498)" fill="#175935"/>
+        <path id="Path_496" data-name="Path 496" d="M60.5,0,26.552,32.323S13.81,43.6,7.5,52.51C4.989,56.069,2.129,59.471.748,65.858s-.676,8.8.692,13.917c1.881,7.038,6.371,16.766,16.851,21.573,17.777,8.147,36.4-4.548,36.4-4.548s-3.412,9.126-8.359,13.546-10.9,2.089-13.332,4.762,3.591,5.933,3.591,5.933H60.5L63.456,58.4Z" transform="translate(0)" fill="#175935"/>
+        <path id="Path_497" data-name="Path 497" d="M60.5,0,26.552,32.323S13.81,43.6,7.5,52.51C4.989,56.069,2.129,59.471.748,65.858s-.676,8.8.692,13.917c1.881,7.038,6.371,16.766,16.851,21.573,17.777,8.147,36.4-4.548,36.4-4.548S21.784,111.808,15.7,83.911,60.5,0,60.5,0Z" transform="translate(0)" fill="#175935"/>
+        <path id="Path_498" data-name="Path 498" d="M0,0,33.946,32.323S46.688,43.6,53,52.51c2.515,3.56,5.376,6.961,6.756,13.348s-.322,8.713-1.69,13.829c-1.879,7.038-5.525,16.069-16.014,20.876C24.268,108.712,5.8,96.8,5.8,96.8s32.914,15.009,38.991-12.888S0,0,0,0Z" transform="translate(60.498)" fill="#175935"/>
+        <path id="Path_498-2" data-name="Path 498" d="M59.753,65.858c1.38,6.387.456,9.683-.692,13.917S52.693,96.54,42.2,101.347c-11.114,5.093-22.556,2.043-29.846-1.078C8.419,98.585,8.511,80.545,23.2,69.392S58.373,59.471,59.753,65.858Z" transform="translate(60.498)" fill="#a2a2a2"/>
+      </g>
+    </g>
+    <text id="Ace_Enterprise_Innovation" data-name="Ace
+Enterprise
+Innovation" transform="translate(244 59.15)" fill="#175935" font-size="39" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Ace</tspan><tspan x="0" y="32">Enterprise</tspan><tspan x="0" y="64">Innovation</tspan></text>
+    <text id="BETA" transform="matrix(0.839, -0.545, 0.545, 0.839, 202.475, 118.433)" fill="#fff" font-size="17" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">BETA</tspan></text>
+  </g>
+</svg>
